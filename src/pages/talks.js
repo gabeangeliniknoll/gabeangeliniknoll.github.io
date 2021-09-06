@@ -21,8 +21,8 @@ const Talks = () => (
       <h2>Invited Seminar talks</h2>
         <h3>2021</h3>
           <h4>September</h4>
-            <p>TBD<br>
-              </br><font size="3">Geometry and Topology Seminar, University of Pennsilvania</font></p>
+            <p>Red-shift in algebraic K-theory<br>
+              </br><font size="3"><a href="https://www.math.upenn.edu/events/seminars/geometry-topology-seminar">Geometry and Topology Seminar</a>, University of Pennsilvania</font></p>
           <h4>May</h4>
             <p>Real topological Hochschild homology, norms and Witt vectors [<a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/atseminar2020/Angelini-Knoll.mp4">Video</a>]<br>
               </br><font size="3">Algebraic Topology Seminar, University of Warwick</font></p>
