@@ -128,11 +128,11 @@ sections:
           coauthors: 
             - name: Jeremy Hahn
               url: https://web.mit.edu/~jhahn01/www/
-              sep: ", "
+              sep: ", and"
               start: "Joint with "
             - name: Dylan Wilson
               url: https://people.math.harvard.edu/~dwilson/
-              sep: ", and"
+              sep: "."
               start: ""
         - title: Algebraic K-theory of elliptic cohomology
           description: We compute mod p,v_1,v_2 homotopy of algebraic K-theory of the second truncated Brown-Peterson spectrum at primes p greator or equal to seven. 
@@ -147,11 +147,11 @@ sections:
               start: ""
             - name: Eva Höning
               url: https://evahoening.netlify.app/
-              sep: ", "
+              sep: ", and"
               start: ""
             - name: John Rognes 
               url: https://www.mn.uio.no/math/personer/vit/rognes/
-              sep: ", and"
+              sep: "."
               start: ""
         - title: Topological crossed simplicial group homology
           description: We give a new construction of topological crossed simplicial group homology, which gives a combinatorial approach to certain Hill-Hopkins-Ravenel norms for compact Lie groups. 
