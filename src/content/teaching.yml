@@ -4,7 +4,7 @@ section:
     university: 
       - title: Freie Universität Berlin
         courses: 
-         - semester: Winter 2021/22
+          - semester: Winter 2021/22
             class:  
               - title: "Higher Algebra II"
                 description: A course on higher algebra.  Co-teaching with Prof. Dr. Holger Reich. 
