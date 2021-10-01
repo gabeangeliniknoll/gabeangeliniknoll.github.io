@@ -7,11 +7,11 @@ section:
           - semester: Winter 2021/22
             class:  
               - title: "Higher Algebra II"
-                description: A course on higher algebra.  Co-teaching with Prof. Dr. Holger Reich. 
+                description: A course on stable higher categories and their use in stable homotopy theory and algebraic geometry.  Co-teaching with Prof. Dr. Holger Reich. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021ws_HigherAlgebra2.html
                 urldisplay: Course Website
               - title: "Forschungsmodul Topologie: Cyclic Homology"
-                description: A seminar on group actions and symmetries for undergraduate students.
+                description: A seminar on cyclic homology, free loop spaces, and generalized Chern characters. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/PS-S_Algebra_So21.html
                 urldisplay: Course Website
   - title: Past 

@@ -26,7 +26,7 @@ const IndexPage = () => (
     <div clear="both"></div>
     <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
     <h2>Current Teaching</h2>
-      <p><b>19244701 Higher Algebra II</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021ws_HigherAlgebra2.html">Course Website.</a>Co-teaching with Prof. Dr. Holger Reich</p>
+      <p><b>19244701 Higher Algebra II</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021ws_HigherAlgebra2.html">Course Website.</a><span> </span>Co-teaching with Prof. Dr. Holger Reich</p>
       <p><b>19223811 Forschungsmodul: Topologie "Cyclic Homology"</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie_Seminare/S_FM_Topologie_ws2021.html">Course Website.</a></p>
     <h2>Contact</h2>
       <h3>Pronouns:</h3>
