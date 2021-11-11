@@ -125,6 +125,11 @@ const Talks = () => (
             <p>The Topologist's Snowflake and the Rose [<PDF pdfFile={SnowFlake} displayText='pdf' />]<br>
               </br><font size="3">Undergraduate Seminar, Kalamazoo College</font></p>
     <h2>Select Expository Talks</h2>
+      <h4>2021</h4>
+        <h3>November</h3>
+          <p>Additivity for Grothendieck-Witt theory[<PDF pdfFile={add} displayText='pdf' />]<br>
+            </br><font size="3">ECHT Seminar on Hermitian K-theory</font></p>
+
       <h4>2018</h4>
         <h3>May</h3>
           <p>Pro-objects in infinity categories [<PDF pdfFile={ProObjects} displayText='pdf' />]<br>
