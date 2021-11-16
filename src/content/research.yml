@@ -57,6 +57,20 @@ sections:
               start: "Published in "
     - title: Submitted Papers
       papers: 
+        - title: Real Topological Hochschild homology via the norm and Real Witt vectors
+          description: We interpret Real topological Hochschild homology as the norm for the orthogonal group of two-by-two-matrices. We then prove a multiplicative double coset formula. Using this we define Real Hochschild homology and Witt vectors for rins with anti-involution. 
+          coauthors:  
+            - name: Teena Gerhardt
+              url: https://users.math.msu.edu/users/teena/Home.html
+              sep: " and" 
+              start: "Joint with "
+            - name: Mike Hill
+              url: https://www.math.ucla.edu/~mikehill/
+              sep: "." 
+              start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2111.06970
         - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum I
           description: We compute topological Hochschild homology of forms of the second truncated Brown-Peterson spectrum with coefficients in connective Morava K-theory. We also compute topological Hochschild homology of forms of arbitrary truncated Brown-Peterson spectra with coefficients in the p-local integers.
           coauthors: 
@@ -111,29 +125,6 @@ sections:
               #   - {_uid: BUY6Drn9e6,paper: "beta",displayText: "pdf"}
     - title: Papers in preparation
       papers:
-
-        - title: Real Topological Hochschild homology, Witt vectors, and norms
-          description: We give a description of the Mackey functor homotopy groups of Real topological Hochschild homology of noncommutative rings with anti-involution in terms of Witt vectors for rings with anti-involution. We also provide a Hill-Hopkins-Ravenel norm model for Real topological Hochshild homology.
-          coauthors:  
-            - name: Teena Gerhardt
-              url: https://users.math.msu.edu/users/teena/Home.html
-              sep: " and" 
-              start: "Joint with "
-            - name: Mike Hill
-              url: https://www.math.ucla.edu/~mikehill/
-              sep: "." 
-              start: ""
-        - title: Red-shift for Morava K-theory
-          description: We prove the red-shift conjecture for Morava K-theory.
-          coauthors: 
-            - name: Jeremy Hahn
-              url: https://web.mit.edu/~jhahn01/www/
-              sep: ", and"
-              start: "Joint with "
-            - name: Dylan Wilson
-              url: https://people.math.harvard.edu/~dwilson/
-              sep: "."
-              start: ""
         - title: Algebraic K-theory of elliptic cohomology
           description: We compute mod p,v_1,v_2 homotopy of algebraic K-theory of the second truncated Brown-Peterson spectrum at primes p greator or equal to seven. 
           coauthors: 
@@ -153,8 +144,19 @@ sections:
               url: https://www.mn.uio.no/math/personer/vit/rognes/
               sep: "."
               start: ""
-        - title: Topological crossed simplicial group homology
-          description: We give a new construction of topological crossed simplicial group homology, which gives a combinatorial approach to certain Hill-Hopkins-Ravenel norms for compact Lie groups. 
+        - title: Red-shift for Morava K-theory
+          description: We prove the red-shift conjecture for Morava K-theory.
+          coauthors: 
+            - name: Jeremy Hahn
+              url: https://web.mit.edu/~jhahn01/www/
+              sep: ", and"
+              start: "Joint with "
+            - name: Dylan Wilson
+              url: https://people.math.harvard.edu/~dwilson/
+              sep: "."
+              start: ""
+        - title: Combinatorial equivariant topological Hochschild homology
+          description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. This gives a combinatorial approach to norms for certain compact Lie groups. 
           coauthors:  
             - name: Mona Merling
               url: https://www.math.upenn.edu/~mmerling/
@@ -175,7 +177,6 @@ sections:
               url: https://evahoening.netlify.app
               sep: "."
               start: ""
-
     - title: Notes
       papers:
         - title: Maps of simplicial spectra whose realizations are cofibrations
