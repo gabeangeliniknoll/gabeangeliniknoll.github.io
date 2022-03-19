@@ -19,6 +19,14 @@ const Talks = () => (
     <SEO title="Talks" />
     <h1>Talks</h1>
       <h2>Invited Seminar talks</h2>
+        <h3>2022</h3>
+          <h4>March</h4>
+            <p>Algebraic K-theory of elliptic cohomology<br>
+            </br><font size="3"><a href="https://s.wayne.edu/echt/echt-research-seminar/">Electronic Computational Homotopy Theory Seminar</a></font></p>
+            </p>
+          <h4>January</h4>
+            <p>Generalizations of Hochschild homology for rings with anti-involution<br>
+            </br><font size="3"><a href="https://sites.google.com/view/xuzhouli/ucsd-topology-seminar">Topology Seminar</a>, University of California, San Diego</font></p>
         <h3>2021</h3>
           <h4>September</h4>
             <p>Red-shift in algebraic K-theory<br>
