@@ -18,7 +18,6 @@ const Mini = () => (
             <li>Mikala <span>&#216;</span>rsnes Jansen</li>
             <li>J.D. Quigley</li>
           </ul>
-        </p>
       </div>
       <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
           <p>Interactions between the fields of algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory, have led to exciting new results with applications to number
