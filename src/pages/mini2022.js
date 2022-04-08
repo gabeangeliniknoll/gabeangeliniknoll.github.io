@@ -11,11 +11,13 @@ const Mini = () => (
     <div>
       <div>
       <p>This Mini-Symposium is part of the <a href="">DMV Annual Meeting 2020</a> on September 12-16 at in Berlin.</p>
-          <h3>Confirmed Speakers</h3>
-            <p>Jack Morgan Davies<br>
-            </br>Eva H<span>&#246;</span>ning<br>
-            </br>J.D. Quigley<br>
-            </br>Mikala <span>&#216;</span>rsnes Jansen
+          <h3>Speakers</h3>
+          <ul>
+            <li>Jack Morgan Davies</li> 
+            <li>Eva H<span>&#246;</span>ning </li>
+            <li>Mikala <span>&#216;</span>rsnes Jansen</li>
+            <li>J.D. Quigley</li>
+          </ul>
         </p>
       </div>
       <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
