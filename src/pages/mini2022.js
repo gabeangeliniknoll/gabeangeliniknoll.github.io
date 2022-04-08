@@ -9,7 +9,7 @@ const Mini = () => (
     <h1>Mini-Symposium: Advances in K-Theory, Symmetry, and Periodicity</h1>
     <div>
       <div>
-        <div style={{ float: `left`, maxWidth: `65%`, marginBottom: `1.45rem`}}>
+        <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
           <p>Interactions between the fields of algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory, have led to exciting new results with applications to number
 theory and geometric topology. Classically, equivariant homotopy theory is an integral part of a modern approach to algebraic K-theory, known as trace methods where one uses
 Hochschild homology to approximate algebraic K-theory. The trace methods approach to K-theory, combined with tools from chromatic homotopy theory, has led to advances in our
