@@ -10,10 +10,12 @@ const Mini = () => (
     <div>
       <div>
         <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
+          <h3>This is Mini-Symposium is part of the <a href="">DMV Annual Meeting 2020</a> held at Freie Universit<span>&#228;</span>t Berlin on September 12-16.</h3>
           <p>Interactions between the fields of algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory, have led to exciting new results with applications to number
-theory and geometric topology. Classically, equivariant homotopy theory is an integral part of a modern approach to algebraic K-theory, known as trace methods where one uses
+theory and geometric topology.</p> 
+<p>Classically, equivariant homotopy theory is an integral part of a modern approach to algebraic K-theory, known as trace methods where one uses
 Hochschild homology to approximate algebraic K-theory. The trace methods approach to K-theory, combined with tools from chromatic homotopy theory, has led to advances in our
-understanding of the arithmetic of ring spectra. </p>
+understanding of the arithmetic of ring spectra.</p> 
 <p>Additionally, the relatively recent theory of Real cyclotomic spectra combines topological Hochschild homology and equivariant
 homotopy theory to produce new tools for computing Grothendieck-Witt groups and L-theory groups.</p> 
 <p>The goal of this Minisymposium is to highlight recent advances in Hochschild
@@ -25,7 +27,7 @@ these different areas to promote future interactions between these fields.</p>
         </div> 
       </div>
       <div clear="both"></div>
-      <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
+      <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`, marginLeft: '1rem'}}>
         <h2>Confirmed Speakers</h2>
           <p>Jack Morgan Davies<br>
           </br>Eva H<span>&#246;</span>ning<br>
