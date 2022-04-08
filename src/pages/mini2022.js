@@ -9,15 +9,15 @@ const Mini = () => (
     <h1>Advances in K-Theory, Symmetry, and Periodicity</h1>
     <div>
       <div>
-        <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
-          <p>This Mini-Symposium is part of the <a href="">DMV Annual Meeting 2020</a> held at Freie Universit<span>&#228;</span>t Berlin on September 12-16.</p>
+      <p>This Mini-Symposium is part of the <a href="">DMV Annual Meeting 2020</a> held at Freie Universit<span>&#228;</span>t Berlin on September 12-16.</p>
           <h3>Confirmed Speakers</h3>
             <p>Jack Morgan Davies<br>
             </br>Eva H<span>&#246;</span>ning<br>
             </br>J.D. Quigley<br>
             </br>Mikala <span>&#216;</span>rsnes Jansen
-            </p>
-        </div>
+        </p>
+      </div>
+      <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
           <p>Interactions between the fields of algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory, have led to exciting new results with applications to number
 theory and geometric topology.</p> 
 <p>Classically, equivariant homotopy theory is an integral part of a modern approach to algebraic K-theory, known as trace methods where one uses
