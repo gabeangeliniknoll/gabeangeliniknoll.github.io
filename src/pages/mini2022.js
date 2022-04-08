@@ -13,20 +13,11 @@ const Mini = () => (
       <p>This Mini-Symposium is part of the <a href="https://www.mi.fu-berlin.de/dmv2022/">DMV Annual Meeting 2022</a> to be held on September 12-16 at <a href="https://www.mi.fu-berlin.de/math/groups/top/members/index.html">Freie Universit<span>&#228;</span>t Berlin</a>.</p>
       <h2>Speakers</h2>
           <ul>
-            <li>Jack Morgan Davies</li> 
-            <li>Eva H<span>&#246;</span>ning </li>
-            <li>Mikala <span>&#216;</span>rsnes Jansen</li>
-            <li>J.D. Quigley</li>
+            <li>Jack Morgan Davies, Universiteit Utrecht</li> 
+            <li>Eva H<span>&#246;</span>ning, Radboud University </li>
+            <li>Mikala <span>&#216;</span>rsnes Jansen, University of Copenhagen</li>
+            <li>J.D. Quigley, MPI Bonn</li>
           </ul>
-      </div>
-    </div>
-    <div style={{marginLeft: `70%`, maxWidth: `30%`, marginBottom: `1.45rem` }} > 
-      <Berlin />
-    </div> 
-    <div clear="both"></div>
-    <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
-   
-      <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
       <h2>Abstract</h2>
         <p>Interactions between the fields of algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory, have led to exciting new results with applications to number
 theory and geometric topology.</p> 
@@ -38,8 +29,12 @@ homotopy theory to produce new tools for computing Grothendieck-Witt groups and 
 <p>The goal of this Minisymposium is to highlight recent advances in Hochschild
 homology, algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory that combine tools from several of these fields, as well as bring together researchers from
 these different areas to promote future interactions between these fields.</p>
-</div>
-</div>
+      </div>
+    </div>
+    <div style={{marginLeft: `70%`, maxWidth: `30%`, marginBottom: `1.45rem` }} > 
+      <Berlin />
+    </div> 
+    <div clear="both"></div>
   </Layout>
 )
 
