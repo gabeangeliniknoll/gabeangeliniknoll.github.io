@@ -11,13 +11,7 @@ const Mini = () => (
     <div>
     <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
       <p>This Mini-Symposium is part of the <a href="https://www.mi.fu-berlin.de/dmv2022/">DMV Annual Meeting 2022</a> to be held on September 12-16 at <a href="https://www.mi.fu-berlin.de/math/groups/top/members/index.html">Freie Universit<span>&#228;</span>t Berlin</a>.</p>
-    </div>
-    <div style={{marginLeft: `70%`, maxWidth: `30%`, marginBottom: `1.45rem` }} > 
-      <Berlin />
-    </div> 
-    <div clear="both"></div>
-    <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
-    <h2>Speakers</h2>
+      <h2>Speakers</h2>
           <ul>
             <li>Jack Morgan Davies</li> 
             <li>Eva H<span>&#246;</span>ning </li>
@@ -25,6 +19,13 @@ const Mini = () => (
             <li>J.D. Quigley</li>
           </ul>
       </div>
+    </div>
+    <div style={{marginLeft: `70%`, maxWidth: `30%`, marginBottom: `1.45rem` }} > 
+      <Berlin />
+    </div> 
+    <div clear="both"></div>
+    <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
+   
       <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
       <h2>Abstract</h2>
         <p>Interactions between the fields of algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory, have led to exciting new results with applications to number
