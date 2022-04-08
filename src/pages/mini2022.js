@@ -12,10 +12,10 @@ const Mini = () => (
       <p>This Mini-Symposium is part of the <a href="https://www.mi.fu-berlin.de/dmv2022/">DMV Annual Meeting 2022</a> to be held on September 12-16 in Berlin, Germany.</p>
       <h2>Speakers</h2>
           <ul>
-            <li>Jack Morgan Davies, Universiteit Utrecht</li> 
+            <li>Jack Morgan Davies, Utrecht University</li> 
             <li>Eva H<span>&#246;</span>ning, Radboud University </li>
             <li>Mikala <span>&#216;</span>rsnes Jansen, University of Copenhagen</li>
-            <li>J.D. Quigley, MPI Bonn</li>
+            <li>J.D. Quigley, Max Planck Institute: Bonn</li>
           </ul>
       <h2>Abstract</h2>
         <p>Interactions between the fields of algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory, have led to exciting new results with applications to number
