@@ -9,7 +9,7 @@ const Mini = () => (
     <h1>Mini-Symposium: Advances in K-Theory, Symmetry, and Periodicity</h1>
     <div>
     <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
-      <p>This Mini-Symposium is part of the <a href="https://www.mi.fu-berlin.de/dmv2022/">DMV Annual Meeting 2022</a> to be held on September 12-16 at <a href="https://www.mi.fu-berlin.de/math/groups/top/members/index.html">Freie Universit<span>&#228;</span>t Berlin</a>.</p>
+      <p>This Mini-Symposium is part of the <a href="https://www.mi.fu-berlin.de/dmv2022/">DMV Annual Meeting 2022</a> to be held on September 12-16 in Berlin, Germany.</p>
       <h2>Speakers</h2>
           <ul>
             <li>Jack Morgan Davies, Universiteit Utrecht</li> 
