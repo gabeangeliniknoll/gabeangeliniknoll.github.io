@@ -22,8 +22,7 @@ const Mini = () => (
 theory and geometric topology.</p> 
 <p>Classically, equivariant homotopy theory is an integral part of a modern approach to algebraic K-theory, known as trace methods where one uses
 Hochschild homology to approximate algebraic K-theory. The trace methods approach to K-theory, combined with tools from chromatic homotopy theory, has led to advances in our
-understanding of the arithmetic of ring spectra.</p> 
-<p>Additionally, the relatively recent theory of Real cyclotomic spectra combines topological Hochschild homology and equivariant
+understanding of the arithmetic of ring spectra. Additionally, the relatively recent theory of Real cyclotomic spectra combines topological Hochschild homology and equivariant
 homotopy theory to produce new tools for computing Grothendieck-Witt groups and L-theory groups.</p> 
 <p>The goal of this Minisymposium is to highlight recent advances in Hochschild
 homology, algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory that combine tools from several of these fields, as well as bring together researchers from
