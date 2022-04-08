@@ -15,9 +15,9 @@ const Mini = () => (
             <p>Jack Morgan Davies<br>
             </br>Eva H<span>&#246;</span>ning<br>
             </br>J.D. Quigley<br>
-            </br>Mikala <span>&#216;</span>rsnes Jansen</p>
-      </div>
-    </div>
+            </br>Mikala <span>&#216;</span>rsnes Jansen
+            </p>
+        </div>
           <p>Interactions between the fields of algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory, have led to exciting new results with applications to number
 theory and geometric topology.</p> 
 <p>Classically, equivariant homotopy theory is an integral part of a modern approach to algebraic K-theory, known as trace methods where one uses
@@ -28,11 +28,11 @@ homotopy theory to produce new tools for computing Grothendieck-Witt groups and 
 <p>The goal of this Minisymposium is to highlight recent advances in Hochschild
 homology, algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory that combine tools from several of these fields, as well as bring together researchers from
 these different areas to promote future interactions between these fields.</p>
-        </div>
-        <div style={{marginLeft: `70%`, maxWidth: `30%`, marginBottom: `1.45rem` }} > 
-          <Berlin />
-        </div> 
-      </div>
+    </div>
+    <div style={{marginLeft: `70%`, maxWidth: `30%`, marginBottom: `1.45rem` }} > 
+      <Berlin />
+    </div> 
+</div>
 
   </Layout>
 )
