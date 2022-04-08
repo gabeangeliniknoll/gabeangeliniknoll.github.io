@@ -6,10 +6,11 @@ import SEO from "../components/seo"
 const Mini = () => (
   <Layout>
     <SEO title="Mini" />
-    <h1>Advances in K-Theory, Symmetry, and Periodicity</h1>
+    <h1>Mini-Symposium:</h1>
+    <h2>Advances in K-Theory, Symmetry, and Periodicity</h2>
     <div>
       <div>
-      <p>This Mini-Symposium is part of the <a href="">DMV Annual Meeting 2020</a> held at Freie Universit<span>&#228;</span>t Berlin on September 12-16.</p>
+      <p>This Mini-Symposium is part of the <a href="">DMV Annual Meeting 2020</a> on September 12-16 at in Berlin.</p>
           <h3>Confirmed Speakers</h3>
             <p>Jack Morgan Davies<br>
             </br>Eva H<span>&#246;</span>ning<br>
