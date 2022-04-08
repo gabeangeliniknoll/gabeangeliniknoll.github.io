@@ -144,17 +144,6 @@ sections:
               url: https://www.mn.uio.no/math/personer/vit/rognes/
               sep: "."
               start: ""
-        - title: Red-shift for Morava K-theory
-          description: We prove the red-shift conjecture for Morava K-theory.
-          coauthors: 
-            - name: Jeremy Hahn
-              url: https://web.mit.edu/~jhahn01/www/
-              sep: ", and"
-              start: "Joint with "
-            - name: Dylan Wilson
-              url: https://people.math.harvard.edu/~dwilson/
-              sep: "."
-              start: ""
         - title: Combinatorial equivariant topological Hochschild homology
           description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. This gives a combinatorial approach to norms for certain compact Lie groups. 
           coauthors:  
@@ -165,6 +154,34 @@ sections:
             - name: Maximilien Peroux
               url: https://www.maximilienperoux.com/
               sep: "." 
+              start: ""
+    - title: Current projects
+      papers: 
+        - title: Computations in the Artin-Tate real motivic homotopy category
+          description: We use the perspective that the Artin-Tate real motivic homotopy category is a two-parameter deformation to compute a and ta complete homotopy groups. 
+          coauthors: 
+            - name: Mark Behrens
+              url: https://www3.nd.edu/~mbehren1/
+              sep: ", "
+              start: "Joint with "
+            - name: Eva Belmont 
+              url: https://mathweb.ucsd.edu/~ebelmont/
+              sep: ", and"
+              start: ""
+            - name: Hana Kong 
+              url: https://hanajiakong.github.io/
+              sep: ". "
+              start: ""
+        - title: Red-shift for Morava K-theory
+          description: We aim to prove a version of the red-shift conjecture for Morava K-theory. 
+          coauthors: 
+            - name: Jeremy Hahn
+              url: https://web.mit.edu/~jhahn01/www/
+              sep: ", and"
+              start: "Joint with "
+            - name: Dylan Wilson
+              url: https://people.math.harvard.edu/~dwilson/
+              sep: "."
               start: ""
         - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum II
           description: We compute topological Hochschild homology of the second truncated Brown-Peterson spectrum with coefficients in the first truncated Brown-Peterson spectrum.
