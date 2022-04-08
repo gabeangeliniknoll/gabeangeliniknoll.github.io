@@ -28,6 +28,8 @@ const IndexPage = () => (
     <h2>Current Teaching</h2>
       <p><b>Topology I</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2022so_Topologie1.html">Course Website.</a><span> </span></p>
       <p><b>Forschungsseminar Geometrie und Topologie: Hermitian K-theory</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2022So-geom.html">Course Website.</a></p>
+    <h2>Current Events</h2>
+      <p>I am excited to have the opportunity to organize a <a href="https://www.gangeliniknoll.com/mini2022/" target="_blank" rel="noopener noreferrer">Mini-Symposium</a> at the DMV 2020 in Berlin, Germany.</p>
     <h2>Contact</h2>
       <h3>Pronouns:</h3>
         <p>He/Him/His</p>
