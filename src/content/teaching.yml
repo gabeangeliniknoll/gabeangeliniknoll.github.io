@@ -4,6 +4,20 @@ section:
     university: 
       - title: Freie Universität Berlin
         courses: 
+          - semester: Summer 2022
+            class:  
+              - title: "Topology I"
+                description: An introduction to algebraic topology and point-set topology.   
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2022so_Topologie1.html
+                urldisplay: Course Website
+              - title: "Forschungsseminar Geometrie und Topologie: Hermitian K-theory"
+                description: A seminar on surgery theory and quadratic forms. 
+                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2022So-geom.html
+                urldisplay: Course Website
+  - title: Past 
+    university: 
+      - title: Freie Universität Berlin
+        courses:
           - semester: Winter 2021/22
             class:  
               - title: "Higher Algebra II"
@@ -14,10 +28,6 @@ section:
                 description: A seminar on cyclic homology, free loop spaces, and generalized Chern characters. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/PS-S_Algebra_So21.html
                 urldisplay: Course Website
-  - title: Past 
-    university: 
-      - title: Freie Universität Berlin
-        courses:
           - semester: Summer 2021
             class:  
               - title: "Pro-semimar on Algebra - Symmetries"
