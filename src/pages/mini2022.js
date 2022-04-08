@@ -6,15 +6,17 @@ import SEO from "../components/seo"
 const Mini = () => (
   <Layout>
     <SEO title="Mini" />
-    <h1>DMV Annual Meeting - Mini-Symposium: Advances in K-Theory, Symmetry, and Periodicity</h1>
+    <h1>Mini-Symposium: Advances in K-Theory, Symmetry, and Periodicity</h1>
     <div>
       <div>
-        <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
+        <div style={{ float: `left`, maxWidth: `65%`, marginBottom: `1.45rem`}}>
           <p>Interactions between the fields of algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory, have led to exciting new results with applications to number
 theory and geometric topology. Classically, equivariant homotopy theory is an integral part of a modern approach to algebraic K-theory, known as trace methods where one uses
-Hochschild homology to approximate algebraic K-theory. The trace methods approach to Ktheory combined with tools from chromatic homotopy theory has led to advances in our
-understanding of the arithmetic of ring spectra. Additionally, the relatively recent theory of Real cyclotomic spectra combines topological Hochschild homology and equivariant
-homotopy theory to produce new tools for computing Grothendieck-Witt groups and L-theory groups. The goal of this Minisymposium is to highlight recent advances in Hochschild
+Hochschild homology to approximate algebraic K-theory. The trace methods approach to K-theory, combined with tools from chromatic homotopy theory, has led to advances in our
+understanding of the arithmetic of ring spectra. 
+<p>Additionally, the relatively recent theory of Real cyclotomic spectra combines topological Hochschild homology and equivariant
+homotopy theory to produce new tools for computing Grothendieck-Witt groups and L-theory groups.</p> 
+<p>The goal of this Minisymposium is to highlight recent advances in Hochschild
 homology, algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory that combine tools from several of these fields, as well as bring together researchers from
 these different areas to promote future interactions between these fields.</p>
         </div>
@@ -25,10 +27,10 @@ these different areas to promote future interactions between these fields.</p>
       <div clear="both"></div>
       <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
         <h2>Confirmed Speakers</h2>
-          <p>Jack Morgan Davies</p>
-          <p>Eva H<span>&#246;</span>ning</p>
-          <p>J.D. Quigley</p>
-          <p>Mikala <span>&#248;</span>rsnes Jansen</p>
+          <p>Jack Morgan Davies<br>
+          </br>Eva H<span>&#246;</span>ning<br>
+          </br>J.D. Quigley<br>
+          </br>Mikala <span>&#216;</span>rsnes Jansen</p>
       </div>
     </div>
   </Layout>
