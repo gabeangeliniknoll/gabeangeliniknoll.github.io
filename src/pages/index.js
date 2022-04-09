@@ -28,15 +28,17 @@ const IndexPage = () => (
     <h2>Current Teaching</h2>
       <p><b>Topology I</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2022so_Topologie1.html">Course Website.</a><span> </span></p>
       <p><b>Forschungsseminar Geometrie und Topologie: Hermitian K-theory</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2022So-geom.html">Course Website.</a></p>
+    <h2>Current Events</h2>
+      <p>I am excited to have the opportunity to organize a <Link to="/mini2022/">Mini-Symposium</Link> at the <a href="https://www.mi.fu-berlin.de/dmv2022/">DMV Annual Meeting 2022</a> held in Berlin, Germany.</p>
     <h2>Contact</h2>
       <h3>Pronouns:</h3>
         <p>He/Him/His</p>
       <h3>Email:</h3> 
         <p>University Email: <a href="mailto:gak@math.fu-berlin.de">gak</a> (at math dot fu-berlin dot de)<br></br>Personal Email: <a href="mailto:gabe.angelini.knoll@gmail.com">gabe.angelini.knoll</a> (at gmail dot com)</p>
       <h3>Address:</h3> 
-        <p>Arnimallee 7 (Etage 2) <br>    
+        <p>Arnimallee 7 (Etage 2)<br>    
           </br>Raum 215<br>  
-          </br>14195 Berlin <br>
+          </br>14195 Berlin<br>
           </br>Germany</p>
     <h2>Resources</h2>
       <p> <a href=" https://www.europeanwomeninmaths.org/">European Women in Mathematics</a>, <a href="https://awm-math.org/ ">Association for Women in Mathematics</a>, <a href="http://lgbtmath.org/index.html">Spectra</a>, <a href="https://s.wayne.edu/isaksen/algebraic-topology-journals/">Algebraic Topology Journals</a>, <a href="https://researchseminars.org/">Online Research Seminars</a>, <a href="http://mathmeetings.net/at-gt">MathMeetings</a>, <a href="https://faculty.math.illinois.edu/K-theory/Calendar/">K-theory Calender</a></p>

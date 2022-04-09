@@ -9,7 +9,7 @@ import YAMLData from "../content/knotes.yml"
 
 const Research = () => (
   <Layout>
-    <SEO title="Research" />
+    <SEO title="Algebraic K-theory" />
     <h1>{YAMLData.page}</h1>
     <p>{YAMLData.pageDescription}<span> </span><a href={YAMLData.url} target="_blank" rel="noopener noreferrer">{`${YAMLData.urlText}`}</a>.</p>
      {YAMLData.sections.map((s, i) => (
