@@ -144,8 +144,8 @@ sections:
               url: https://www.mn.uio.no/math/personer/vit/rognes/
               sep: "."
               start: ""
-        - title: Combinatorial equivariant topological Hochschild homology
-          description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. This gives a combinatorial approach to norms for certain compact Lie groups. 
+        - title: Homology of twisted G-rings
+          description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. The input of this construction is a twisted G-ring, which generalizes the notion of a ring with anti-involution. 
           coauthors:  
             - name: Mona Merling
               url: https://www.math.upenn.edu/~mmerling/
@@ -182,6 +182,17 @@ sections:
             - name: Dylan Wilson
               url: https://people.math.harvard.edu/~dwilson/
               sep: "."
+              start: ""
+        - title: Homology of twisted G-rings II
+          description: We explore further properties, computations, and applications of the homology of twisted G-rings. In particular, we consdier trace maps from algebraic K-theory and applications to Floer homology theories. 
+          coauthors:  
+            - name: Mona Merling
+              url: https://www.math.upenn.edu/~mmerling/
+              sep: " and" 
+              start: "Joint with "
+            - name: Maximilien Peroux
+              url: https://www.maximilienperoux.com/
+              sep: "." 
               start: ""
         - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum II
           description: We compute topological Hochschild homology of the second truncated Brown-Peterson spectrum with coefficients in the first truncated Brown-Peterson spectrum.
