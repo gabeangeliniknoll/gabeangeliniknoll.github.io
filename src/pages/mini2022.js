@@ -15,7 +15,7 @@ const Mini = () => (
             <li>Jack Morgan Davies, Utrecht University</li> 
             <li>Eva H<span>&#246;</span>ning, Radboud University </li>
             <li>Mikala <span>&#216;</span>rsnes Jansen, University of Copenhagen</li>
-            <li>J.D. Quigley, Max Planck Institute: Bonn</li>
+            <li>J.D. Quigley, MPI Bonn/University of Oregon</li>
           </ul>
       <h2>Abstract</h2>
         <p>Interactions between the fields of algebraic K-theory, equivariant homotopy theory, and chromatic homotopy theory, have led to exciting new results with applications to number
