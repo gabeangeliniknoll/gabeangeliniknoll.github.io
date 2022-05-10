@@ -1,8 +1,20 @@
 page: Research
 pageDescription: My work focuses on invariants of ring spectra that shed light on interactions with arithmetic and geometry. For more information about my research, see my 
 sections: 
-    - title: Published Papers
+    - title: Published and Accepted Papers
       papers: 
+        - title: Complex orientations of TP of complete DVRs
+          description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a local field over a certain base ring.
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2104.07306
+              # body:
+              #    - {_uid: BUY6Drn9e3,paper: "cotp",displayText: "pdf"}
+          journal: 
+            - name: Homotopy, Homology, and Applications
+              url: https://www.intlpress.com/site/pub/pages/journals/items/hha/_home/_main/index.php
+              sep: "."
+              start: "Accepted in "  
         - title: On topological Hochschild homology of the K(1)-local sphere  
           description: I compute mod (p,v_1) topological Hochschild homology of the connective cover of the K(1)-local sphere spectrum using the topological Hochschild-May spectral sequence.
           links:
@@ -107,13 +119,6 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2106.06785
-        - title: Complex orientations of TP of complete DVRs
-          description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a local field over a certain base ring.
-          links:
-            - display: arXiv
-              url: https://arxiv.org/abs/2104.07306
-              # body:
-              #    - {_uid: BUY6Drn9e3,paper: "cotp",displayText: "pdf"}
         - title: Chromatic complexity of algebraic K-theory of y(n)
           description: We compute Morava K-theory of topological periodic cyclic homology and topological negative cyclic homology of the Thom spectra y(n). This gives evidence for a version of the red-shift conjecture for topological periodic cyclic homology at all chromatic heights. 
           coauthors: 
