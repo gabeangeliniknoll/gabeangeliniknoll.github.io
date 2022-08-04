@@ -14,7 +14,9 @@ const IndexPage = () => (
     <h1>Homepage</h1>
     <div>
     <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
-    <p>I am a Postdoctoral Researcher at the <a href="https://www.mi.fu-berlin.de/math/groups/top/members/index.html">Freie Universit<span>&#228;</span>t Berlin</a>. Previously, I was a Postdoctoral Researcher at <a href="https://math.msu.edu">Michigan State University</a>. 
+    <p>I am a postdoctoral fellow at the <a href="https://www.math.univ-paris13.fr/laga/index.php/en/">LAGA institute</a> of <a href="https://www.univ-paris13.fr/">Universite Sorbonne Paris Nord</a>.
+      This position is funded by <a href="https://www.mathingp.fr/">MathInGreaterParis</a> and hosted by the <a href="https://sciencesmaths-paris.fr/nos-programmes/dim-math-innov">FSMP</a>. 
+      Previously, I was a postdoctoral researcher at the <a href="https://www.mi.fu-berlin.de/math/groups/top/members/index.html">Freie Universit<span>&#228;</span>t Berlin</a> and <a href="https://math.msu.edu">Michigan State University</a>. 
       I earned my PhD at <a href="https://clas.wayne.edu/math">Wayne State University</a> under the direction of <a href="https://clasprofiles.wayne.edu/profile/dy8211">Andrew Salch</a>.</p>
     <p>Broadly, I study interactions between algebraic topology, arithmetic and geometry. Specifically, I am interested invariants of ring spectra, such as algebraic K-theory and factorization homology, as well as chromatic, equivariant, and motivic homotopy theory. </p>
 		<p>In addition to my research activity, I have had the opportunity to teach a broad range of courses, 
@@ -25,11 +27,8 @@ const IndexPage = () => (
     </div> 
     <div clear="both"></div>
     <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
-    <h2>Current Teaching</h2>
-      <p><b>Topology I</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2022so_Topologie1.html">Course Website.</a><span> </span></p>
-      <p><b>Forschungsseminar Geometrie und Topologie: Hermitian K-theory</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2022So-geom.html">Course Website.</a></p>
     <h2>Current Events</h2>
-      <p>I am excited to have the opportunity to organize a <Link to="/mini2022/">Mini-Symposium</Link> at the <a href="https://www.mi.fu-berlin.de/dmv2022/">DMV Annual Meeting 2022</a> held in Berlin, Germany.</p>
+      <p>I am excited to have the opportunity organize a <Link to="/mini2022/">Mini-Symposium</Link> at the <a href="https://www.mi.fu-berlin.de/dmv2022/">DMV Annual Meeting 2022</a> held in Berlin, Germany.</p>
     <h2>Contact</h2>
       <h3>Pronouns:</h3>
         <p>He/Him/His</p>
