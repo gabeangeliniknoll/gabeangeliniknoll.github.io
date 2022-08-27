@@ -15,7 +15,7 @@ const IndexPage = () => (
     <div>
     <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
     <p>I am a postdoctoral fellow at the <a href="https://www.math.univ-paris13.fr/laga/index.php/en/">LAGA institute</a> of <a href="https://www.univ-paris13.fr/">Universite Sorbonne Paris Nord</a>.
-      This position is funded by <a href="https://www.mathingp.fr/">MathInGreaterParis</a> and hosted by the <a href="https://sciencesmaths-paris.fr/nos-programmes/dim-math-innov">FSMP</a>. 
+      This research focused position is funded by <a href="https://www.mathingp.fr/">MathInGreaterParis</a> and hosted by the <a href="https://sciencesmaths-paris.fr/nos-programmes/dim-math-innov">FSMP</a>. 
       Previously, I was a postdoctoral researcher at the <a href="https://www.mi.fu-berlin.de/math/groups/top/members/index.html">Freie Universit<span>&#228;</span>t Berlin</a> and <a href="https://math.msu.edu">Michigan State University</a>. 
       I earned my PhD at <a href="https://clas.wayne.edu/math">Wayne State University</a> under the direction of <a href="https://clasprofiles.wayne.edu/profile/dy8211">Andrew Salch</a>.</p>
     <p>Broadly, I study interactions between algebraic topology, arithmetic and geometry. Specifically, I am interested invariants of ring spectra, such as algebraic K-theory and factorization homology, as well as chromatic, equivariant, and motivic homotopy theory. </p>

@@ -20,6 +20,9 @@ const Talks = () => (
     <h1>Talks</h1>
       <h2>Invited Seminar talks</h2>
         <h3>2022</h3>
+          <h4>June</h4>
+            <p>Homology of twisted G-rings<br>
+              </br><font size="3"><a href="https://www.math.univ-paris13.fr/laga/index.php/fr/ta/seminaires">University of Paris 13, Algebraic Topology Seminar</a></font></p>
           <h4>March</h4>
             <p>Algebraic K-theory of elliptic cohomology<br>
               </br><font size="3"><a href="https://s.wayne.edu/echt/echt-research-seminar/">Electronic Computational Homotopy Theory Seminar</a></font></p>
