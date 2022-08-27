@@ -1,9 +1,9 @@
 page: Teaching
-section:
-  - title: Current
+section: 
+  - title: Past 
     university: 
       - title: Freie Universität Berlin
-        courses: 
+        courses:
           - semester: Summer 2022
             class:  
               - title: "Topology I"
@@ -14,10 +14,6 @@ section:
                 description: A seminar on surgery theory and quadratic forms. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2022So-geom.html
                 urldisplay: Course Website
-  - title: Past 
-    university: 
-      - title: Freie Universität Berlin
-        courses:
           - semester: Winter 2021/22
             class:  
               - title: "Higher Algebra II"
