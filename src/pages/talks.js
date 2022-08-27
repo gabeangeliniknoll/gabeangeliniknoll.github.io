@@ -22,7 +22,7 @@ const Talks = () => (
         <h3>2022</h3>
           <h4>June</h4>
             <p>Homology of twisted G-rings<br>
-              </br><font size="3"><a href="https://www.math.univ-paris13.fr/laga/index.php/fr/ta/seminaires">University of Paris 13, Algebraic Topology Seminar</a></font></p>
+              </br><font size="3"><a href="https://www.math.univ-paris13.fr/laga/index.php/fr/ta/seminaires">Algebraic Topology Seminar</a>, University of Paris 13, </font></p>
           <h4>March</h4>
             <p>Algebraic K-theory of elliptic cohomology<br>
               </br><font size="3"><a href="https://s.wayne.edu/echt/echt-research-seminar/">Electronic Computational Homotopy Theory Seminar</a></font></p>
@@ -35,23 +35,24 @@ const Talks = () => (
               </br><font size="3"><a href="https://www.math.upenn.edu/events/seminars/geometry-topology-seminar">Geometry and Topology Seminar</a>, University of Pennsilvania</font></p>
           <h4>May</h4>
             <p>Real topological Hochschild homology, norms and Witt vectors [<a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/atseminar2020/Angelini-Knoll.mp4">Video</a>]<br>
-              </br><font size="3">Algebraic Topology Seminar, University of Warwick</font></p>
+              </br><font size="3"><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/ATseminar/past/20-21">Algebraic Topology Seminar</a>, University of Warwick</font></p>
         <h3>2020</h3>
           <h4>April</h4>
             <p>Morava K-theory of algebraic K-theory and topological periodic cyclic homology<br>
-              </br><font size="3">Topology Seminar, <span>&#201;</span>cole polytechnique f<span>&#233;</span>d<span>&#233;</span>rale de Lausanne</font></p>
+              </br><font size="3">  <a href="https://www.epfl.ch/labs/hessbellwald-lab/seminar/topsemsp20/">Topology Seminar</a>, <span>&#201;</span>cole polytechnique f<span>&#233;</span>d<span>&#233;</span>rale de Lausanne</font></p>
           <h4>March</h4>
             <p>Morava K-theory of algebraic K-theory and topological periodic cyclic homology<br>
-              </br><font size="3">Topology Seminar, Massachusetts Institute of Technology</font></p>
+              </br><font size="3"><a href="https://math.mit.edu/topology/pastseminars.html">Topology Seminar</a>, Massachusetts Institute of Technology</font></p>
           <h4>January</h4>
-            <p>Chromatic height and topological periodic cyclic homology<br>
-              </br><font size="3">Topology Seminar, Bergische Universit<span>&#228;</span>t Wuppertal</font></p>
+            <p>Chromatic complexity and topological periodic cyclic homology<br>
+              </br><font size="3"><a href="https://www2.math.uni-wuppertal.de/~top/seminarW19.html">Topology Seminar</a>, Bergische Universit<span>&#228;</span>t Wuppertal</font></p>
         <h3>2019</h3>
           <h4>May</h4>
             <p>Transchromatic behavior in algebriac K-theory and future directions<br>
-              </br><font size="3">Topology Seminar, Freie Universit<span>&#228;</span>t Berlin</font></p>
+              </br><font size="3">
+              <a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019So-geom.html">Topology Seminar</a>, Freie Universit<span>&#228;</span>t Berlin</font></p>
             <p>Iterated algebraic K-theory of the integers and higher Lichtenbaum-Quillen conjectures<br>
-              </br><font size="3">Algebraic Topology Seminar, University of California, Los Angeles</font></p>
+              </br><font size="3"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?t=1553756400&type=Algebraic%20Topology&id=&tba=false">Algebraic Topology Seminar</a>, University of California, Los Angeles</font></p>
           <h4>April</h4>
             <p>Iterated algebraic K-theory of the integers and higher Lichtenbaum-Quillen conjectures<br>
               </br><font size="3">Topology Seminar, University of Illinois Urbana-Champaign</font></p>
