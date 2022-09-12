@@ -40,7 +40,7 @@ sections:
               url: https://www.maximilienperoux.com/
               sep: ", and" 
               start: ""
-             - name: John Rognes
+            - name: John Rognes
               url: https://www.mn.uio.no/math/english/people/aca/rognes/
               sep: "." 
               start: ""
