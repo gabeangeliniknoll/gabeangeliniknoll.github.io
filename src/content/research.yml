@@ -29,20 +29,16 @@ sections:
               url: https://hanajiakong.github.io/
               sep: "." 
               start: ""
-        - title: G-theory for ring spectra
-          description: For a ring, one can define G-theory as the algebraic K-theory of the category of pseudo-coherent modules over the ring. No analogous definition is known for ring spectra. In this project, we develop the foundations for G-theory of ring spectra and ring spectra with many objects and use it to study localization sequences that arise naturally from transfer maps of quotients. 
-          coauthors:  
-            - name: Christian Ausoni
-              url: https://www.math.univ-paris13.fr/~ausoni/
-              sep: " and" 
+        - title: Syntomic cohomology of Morava K-theory
+          description: We compute the syntomic cohomology of connective Morava K-theory at all heights.
+          coauthors:
+            - name: Jeremy Hahn
+              url: https://web.mit.edu/~jhahn01/www/
+              sep: "and "
               start: "Joint with "
-            - name: Eva Höning
-              url: https://www.maximilienperoux.com/
-              sep: ", and" 
-              start: ""
-            - name: John Rognes
-              url: https://www.mn.uio.no/math/english/people/aca/rognes/
-              sep: "." 
+            - name: Dylan Wilson
+              url: https://people.math.harvard.edu/~dwilson/
+              sep: "."
               start: ""
     - title: Published and Accepted Papers
       papers: 
