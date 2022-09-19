@@ -1,6 +1,45 @@
 page: Research
 pageDescription: My work focuses on invariants of ring spectra that shed light on interactions with arithmetic and geometry. For more information about my research, see my 
 sections: 
+    - title: Current projects
+      papers:
+        - title: Homology of twisted G-rings
+          description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. The input of this construction is a twisted G-ring, which generalizes the notion of a ring with anti-involution. 
+          coauthors:  
+            - name: Mona Merling
+              url: https://www.math.upenn.edu/~mmerling/
+              sep: " and" 
+              start: "Joint with "
+            - name: Maximilien Peroux
+              url: https://www.maximilienperoux.com/
+              sep: "." 
+              start: ""
+        - title: A deformation of Borel C_p-equivariant homotopy
+          description: We construct a deformation of the Borel C_p-equivariant stable homotopy category that recovers the a-complete Artin-Tate real motivic stable homotopy category of Burkland-Hahn-Senger. 
+          coauthors:  
+            - name: Mark Behrens
+              url: https://www3.nd.edu/~mbehren1/
+              sep: ", " 
+              start: "Joint with "
+            - name: Eva Belmont
+              url: https://mathweb.ucsd.edu/~ebelmont/
+              sep: ", and" 
+              start: ""
+            - name: Hana Kong
+              url: https://hanajiakong.github.io/
+              sep: "." 
+              start: ""
+        - title: Syntomic cohomology of Morava K-theory
+          description: We compute the syntomic cohomology of connective Morava K-theory at all heights.
+          coauthors:
+            - name: Jeremy Hahn
+              url: https://web.mit.edu/~jhahn01/www/
+              sep: "and "
+              start: "Joint with "
+            - name: Dylan Wilson
+              url: https://people.math.harvard.edu/~dwilson/
+              sep: "."
+              start: ""
     - title: Published and Accepted Papers
       papers: 
         - title: Complex orientations of TP of complete DVRs
@@ -150,19 +189,7 @@ sections:
               url: https://arxiv.org/abs/1612.00548
               # body:
               #   - {_uid: BUY6Drn9e6,paper: "beta",displayText: "pdf"}
-    - title: Papers in preparation
-      papers:
-        - title: Homology of twisted G-rings
-          description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. The input of this construction is a twisted G-ring, which generalizes the notion of a ring with anti-involution. 
-          coauthors:  
-            - name: Mona Merling
-              url: https://www.math.upenn.edu/~mmerling/
-              sep: " and" 
-              start: "Joint with "
-            - name: Maximilien Peroux
-              url: https://www.maximilienperoux.com/
-              sep: "." 
-              start: ""
+
     - title: Notes
       papers:
         - title: Maps of simplicial spectra whose realizations are cofibrations

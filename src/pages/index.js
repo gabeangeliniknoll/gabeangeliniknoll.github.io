@@ -33,12 +33,13 @@ const IndexPage = () => (
       <h3>Pronouns:</h3>
         <p>He/Him/His</p>
       <h3>Email:</h3> 
-        <p>University Email: <a href="mailto:gak@math.fu-berlin.de">gak</a> (at math dot fu-berlin dot de)<br></br>Personal Email: <a href="mailto:gabe.angelini.knoll@gmail.com">gabe.angelini.knoll</a> (at gmail dot com)</p>
+        <p>University Email: <a href="mailto:angelini-knoll@math.univ-paris13.fr">angelini-knoll</a> (at math dot univ-paris dot fr)<br></br>Personal Email: <a href="mailto:gabe.angelini.knoll@gmail.com">gabe.angelini.knoll</a> (at gmail dot com)</p>
       <h3>Address:</h3> 
-        <p>Arnimallee 7 (Etage 2)<br>    
-          </br>Raum 215<br>  
-          </br>14195 Berlin<br>
-          </br>Germany</p>
+      <p>Department of Mathematics<br>  
+      </br>Institut Galilée<br>  
+      </br>Université Paris 13<br>
+      </br>99 av. JB Clément<br>
+      </br>FR-93430 Villetaneuse</p>
     <h2>Resources</h2>
       <p> <a href=" https://www.europeanwomeninmaths.org/">European Women in Mathematics</a>, <a href="https://awm-math.org/ ">Association for Women in Mathematics</a>, <a href="http://lgbtmath.org/index.html">Spectra</a>, <a href="https://s.wayne.edu/isaksen/algebraic-topology-journals/">Algebraic Topology Journals</a>, <a href="https://researchseminars.org/">Online Research Seminars</a>, <a href="http://mathmeetings.net/at-gt">MathMeetings</a>, <a href="https://faculty.math.illinois.edu/K-theory/Calendar/">K-theory Calender</a></p>
       <h2>Collaborators</h2>
