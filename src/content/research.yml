@@ -30,7 +30,7 @@ sections:
               sep: "." 
               start: ""
         - title: Syntomic cohomology of Morava K-theory
-          description: We compute the syntomic cohomology of connective Morava K-theory at all heights.
+          description: We compute the syntomic cohomology of connective Morava K-theory and use this to study algebraic K-theory of Morava K-theory.
           coauthors:
             - name: Jeremy Hahn
               url: https://web.mit.edu/~jhahn01/www/
@@ -40,8 +40,8 @@ sections:
               url: https://people.math.harvard.edu/~dwilson/
               sep: "."
               start: ""
-        - title: G-theory of rings with many objects
-          description: By a ring with many objects, I mean a commutative algebra in the infinity category of small stable presentable infinity categories. We give a new construction of G-theory in this context and study the corresponding localization sequences.   
+        - title: G-theory of ring spectra with many objects
+          description: We give a new construction of G-theory in the context of ring spectra with many objects and study the corresponding localization sequences.   
           coauthors:  
             - name: Christian Ausoni
               url: https://www.math.univ-paris13.fr/~ausoni/
