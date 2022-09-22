@@ -14,7 +14,7 @@ const IndexPage = () => (
     <h1>Homepage</h1>
     <div>
     <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
-    <p>I am a postdoctoral fellow at the <a href="https://www.math.univ-paris13.fr/laga/index.php/en/">LAGA institute</a> of <a href="https://www.univ-paris13.fr/">Universite Sorbonne Paris Nord</a>.
+    <p>I am a postdoctoral fellow at the <a href="https://www.math.univ-paris13.fr/laga/index.php/en/">LAGA institute</a> of <a href="https://www.univ-paris13.fr/">Universit<span>&eacute;</span> Sorbonne Paris Nord</a>.
       This research focused position is funded by <a href="https://www.mathingp.fr/">MathInGreaterParis</a> and hosted by the <a href="https://sciencesmaths-paris.fr/nos-programmes/dim-math-innov">FSMP</a>.</p>
     <p>Previously, I was a postdoctoral researcher at the <a href="https://www.mi.fu-berlin.de/math/groups/top/members/index.html">Freie Universit<span>&#228;</span>t Berlin</a> and <a href="https://math.msu.edu">Michigan State University</a>. 
       I earned my PhD at <a href="https://clas.wayne.edu/math">Wayne State University</a> under the direction of <a href="https://clasprofiles.wayne.edu/profile/dy8211">Andrew Salch</a>.</p>
@@ -36,9 +36,9 @@ const IndexPage = () => (
         <p>University Email: <a href="mailto:angelini-knoll@math.univ-paris13.fr">angelini-knoll</a> (at math dot univ-paris dot fr)<br></br>Personal Email: <a href="mailto:gabe.angelini.knoll@gmail.com">gabe.angelini.knoll</a> (at gmail dot com)</p>
       <h3>Address:</h3> 
       <p>Department of Mathematics<br>  
-      </br>Institut Galilée<br>  
-      </br>Université Paris 13<br>
-      </br>99 av. JB Clément<br>
+      </br>Institut Galil<span>&eacute;</span>e<br>  
+      </br>Universit&eacute; Sorbonne Paris Nord<br>
+      </br>99 av. JB Cl<span>&eacute;</span>ment<br>
       </br>FR-93430 Villetaneuse</p>
     <h2>Resources</h2>
       <p> <a href=" https://www.europeanwomeninmaths.org/">European Women in Mathematics</a>, <a href="https://awm-math.org/ ">Association for Women in Mathematics</a>, <a href="http://lgbtmath.org/index.html">Spectra</a>, <a href="https://s.wayne.edu/isaksen/algebraic-topology-journals/">Algebraic Topology Journals</a>, <a href="https://researchseminars.org/">Online Research Seminars</a>, <a href="http://mathmeetings.net/at-gt">MathMeetings</a>, <a href="https://faculty.math.illinois.edu/K-theory/Calendar/">K-theory Calender</a></p>
