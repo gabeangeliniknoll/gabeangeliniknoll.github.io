@@ -40,6 +40,21 @@ sections:
               url: https://people.math.harvard.edu/~dwilson/
               sep: "."
               start: ""
+         - title: G-theory of rings with many objects
+          description: By a ring with many objects, I mean a commutative algebra in the infinity category of small stable presentable infinity categories. We give a new construction of G-theory in this context and study the corresponding localization sequences.   
+          coauthors:  
+            - name: Christian Ausoni
+              url: https://www.math.univ-paris13.fr/~ausoni/
+              sep: ", "
+              start: "Joint with "
+            - name: Eva Höning
+              url: https://evahoening.netlify.app/
+              sep: ", and"
+              start: ""
+            - name: John Rognes 
+              url: https://www.mn.uio.no/math/personer/vit/rognes/
+              sep: "."
+              start: ""
     - title: Published and Accepted Papers
       papers: 
         - title: Complex orientations of TP of complete DVRs
