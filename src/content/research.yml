@@ -14,8 +14,8 @@ sections:
               url: https://www.maximilienperoux.com/
               sep: "." 
               start: ""
-        - title: A deformation of Borel C_p-equivariant homotopy
-          description: We construct a deformation of the Borel C_p-equivariant stable homotopy category that recovers the a-complete Artin-Tate real motivic stable homotopy category of Burkland-Hahn-Senger. 
+        - title: A deformation of Borel equivariant homotopy
+          description: We construct a deformation of the Borel G-equivariant stable homotopy category that recovers the a-complete Artin-Tate real motivic stable homotopy category of Burkland-Hahn-Senger. 
           coauthors:  
             - name: Mark Behrens
               url: https://www3.nd.edu/~mbehren1/
@@ -25,7 +25,7 @@ sections:
               url: https://mathweb.ucsd.edu/~ebelmont/
               sep: ", and" 
               start: ""
-            - name: Hana Kong
+            - name: Hana Jia Kong
               url: https://hanajiakong.github.io/
               sep: "." 
               start: ""
@@ -57,6 +57,14 @@ sections:
               start: ""
     - title: Published and Accepted Papers
       papers: 
+        - title: Detecting beta elements in iterated algebraic K-theory of finite fields
+          description: I prove that a certain family of beta elements is detected in iterated algebraic K-theory of finite fields and consequently iterated algebraic K-theory of the integers. This gives evidence for a higher chromatic height version of a conjecture of Lichtenbaum. This also suggests a new approach to studying the redshift conjectures of Ausoni-Rognes.
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/1612.00548
+              # body:
+              #   - {_uid: BUY6Drn9e6,paper: "beta",displayText: "pdf"}
+
         - title: Complex orientations of TP of complete DVRs
           description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a local field over a certain base ring.
           links:
@@ -197,14 +205,6 @@ sections:
               url: https://arxiv.org/abs/2003.03510
               # body:
               #    - {_uid: BUY6Drn9e5,paper: "limits",displayText: "pdf"}
-        - title: Detecting beta elements in iterated algebraic K-theory of finite fields
-          description: I prove that a certain family of beta elements is detected in iterated algebraic K-theory of finite fields and consequently iterated algebraic K-theory of the integers. This gives evidence for a higher chromatic height version of the Lichtenbaum conjecture, which I call the Greek-letter-family red-shift conjecture, after the red-shift conjecture of Ausoni-Rognes.
-          links:
-            - display: arXiv
-              url: https://arxiv.org/abs/1612.00548
-              # body:
-              #   - {_uid: BUY6Drn9e6,paper: "beta",displayText: "pdf"}
-
     - title: Notes
       papers:
         - title: Maps of simplicial spectra whose realizations are cofibrations
