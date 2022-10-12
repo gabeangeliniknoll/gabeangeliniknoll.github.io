@@ -23,7 +23,7 @@ sections:
               # body:
               #    - {_uid: BUY6Drn9e3,paper: "cotp",displayText: "pdf"}
           journal: 
-            - name: Homotopy, Homology, and Applications
+            - name: Homology, Homotopy and Applications
               url: https://www.intlpress.com/site/pub/pages/journals/items/hha/_home/_main/index.php
               sep: "."
               start: "Accepted in "  
