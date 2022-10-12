@@ -1,5 +1,15 @@
 page: Teaching
 section: 
+  - title: Current
+    university: 
+      - title: Univesité Sorbonne Paris Nord
+        courses:
+          - semester: Winter 2023
+            class:  
+              - title: "The chromatic nullstellensatz"
+                description: A seminar on a recent paper proving redshift for commutative ring spectra using the notion of chromatic support. 
+                url: https://www.math.univ-paris13.fr/laga/index.php/fr/ta
+                urldisplay: Website
   - title: Past 
     university: 
       - title: Freie Universität Berlin
