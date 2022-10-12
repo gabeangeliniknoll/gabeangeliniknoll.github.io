@@ -62,9 +62,12 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/1612.00548
+          journal: 
+            - name: Transactions of the American Mathematical Society 
+              sep: "."
+              start: "Accepted in " 
               # body:
               #   - {_uid: BUY6Drn9e6,paper: "beta",displayText: "pdf"}
-
         - title: Complex orientations of TP of complete DVRs
           description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a local field over a certain base ring.
           links:
