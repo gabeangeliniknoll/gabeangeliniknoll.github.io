@@ -10,6 +10,7 @@ sections:
               url: https://arxiv.org/abs/1612.00548
           journal: 
             - name: Transactions of the American Mathematical Society 
+              url: https://www.ams.org/publications/journals/journalsframework/tran
               sep: "."
               start: "Accepted in " 
               # body:
