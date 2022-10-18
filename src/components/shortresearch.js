@@ -3,7 +3,7 @@ import ShortResearchStatement from "../static/threepager-research-angeliniknoll.
 
 const IndexPage = () => (
   <>
-    <a href={ShortResearchStatement}> short research statement</a>.
+    <a href={ShortResearchStatement}> short research statement</a>
   </>
 )
 
