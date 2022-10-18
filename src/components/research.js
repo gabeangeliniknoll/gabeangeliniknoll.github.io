@@ -3,7 +3,7 @@ import ResearchStatement from "../static/research_Angelini-Knoll.pdf" // Tell we
 
 const IndexPage = () => (
   <>
-    <a href={ResearchStatement}>research statement</a>.
+    <a href={ResearchStatement}>long research statement</a>.
   </>
 )
 
