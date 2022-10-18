@@ -17,144 +17,121 @@ import Stacks from "../static/stacks.pdf"
 const Talks = () => (
   <Layout>
     <SEO title="Talks" />
-    <h1>Talks</h1>
-      <h2>Invited Seminar talks</h2>
-        <h3>2022</h3>
-          <h4>June</h4>
-            <p>Homology of twisted G-rings<br>
-              </br><font size="3"><a href="https://www.math.univ-paris13.fr/laga/index.php/fr/ta/seminaires">Algebraic Topology Seminar</a>, University of Paris 13, </font></p>
-          <h4>March</h4>
-            <p>Algebraic K-theory of elliptic cohomology<br>
-              </br><font size="3"><a href="https://s.wayne.edu/echt/echt-research-seminar/">Electronic Computational Homotopy Theory Seminar</a></font></p>
-          <h4>January</h4>
-            <p>Generalizations of Hochschild homology for rings with anti-involution<br>
-              </br><font size="3"><a href="https://sites.google.com/view/xuzhouli/ucsd-topology-seminar">Topology Seminar</a>, University of California, San Diego</font></p>
-        <h3>2021</h3>
-          <h4>September</h4>
-            <p>Red-shift in algebraic K-theory<br>
-              </br><font size="3"><a href="https://www.math.upenn.edu/events/seminars/geometry-topology-seminar">Geometry and Topology Seminar</a>, University of Pennsilvania</font></p>
-          <h4>May</h4>
-            <p>Real topological Hochschild homology, norms and Witt vectors [<a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/atseminar2020/Angelini-Knoll.mp4">Video</a>]<br>
-              </br><font size="3"><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/ATseminar/past/20-21">Algebraic Topology Seminar</a>, University of Warwick</font></p>
-        <h3>2020</h3>
-          <h4>April</h4>
-            <p>Morava K-theory of algebraic K-theory and topological periodic cyclic homology<br>
-              </br><font size="3">  <a href="https://www.epfl.ch/labs/hessbellwald-lab/seminar/topsemsp20/">Topology Seminar</a>, <span>&#201;</span>cole polytechnique f<span>&#233;</span>d<span>&#233;</span>rale de Lausanne</font></p>
-          <h4>March</h4>
-            <p>Morava K-theory of algebraic K-theory and topological periodic cyclic homology<br>
-              </br><font size="3"><a href="https://math.mit.edu/topology/pastseminars.html">Topology Seminar</a>, Massachusetts Institute of Technology</font></p>
-          <h4>January</h4>
-            <p>Chromatic complexity and topological periodic cyclic homology<br>
-              </br><font size="3"><a href="https://www2.math.uni-wuppertal.de/~top/seminarW19.html">Topology Seminar</a>, Bergische Universit<span>&#228;</span>t Wuppertal</font></p>
-        <h3>2019</h3>
-          <h4>May</h4>
-            <p>Transchromatic behavior in algebriac K-theory and future directions<br>
-              </br><font size="3">
-              <a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019So-geom.html">Topology Seminar</a>, Freie Universit<span>&#228;</span>t Berlin</font></p>
-            <p>Iterated algebraic K-theory of the integers and higher Lichtenbaum-Quillen conjectures<br>
-              </br><font size="3"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?t=1553756400&type=Algebraic%20Topology&id=&tba=false">Algebraic Topology Seminar</a>, University of California, Los Angeles</font></p>
-          <h4>April</h4>
-            <p>Iterated algebraic K-theory of the integers and higher Lichtenbaum-Quillen conjectures<br>
-              </br><font size="3">Topology Seminar, University of Illinois Urbana-Champaign</font></p>
-          <h4>March</h4>
-            <p>Iterated algebraic K-theory of the integers and the Greek letter family red-shift conjecture<br>
-              </br><font size="3">Topology Seminar, Northwestern University</font></p>
-          <h4>January</h4>
-            <p>Iterated algebraic K-theory of the integers and higher Lichtenbaum-Quillen conjectures [<a href="https://www.youtube.com/watch?v=g0iIQWlxSzU&t=1538s">Video</a>] <br>
-              </br><font size="3"><a href="https://s.wayne.edu/isaksen/echt/">Electronic Computational Homotopy Theory Seminar</a></font></p>
-        <h3>2017</h3>
-          <h4>November</h4>
-            <p>The Segal Conjecture for topological Hochschild homology of Ravenel spectra<br>
-              </br><font size="3">Topology Seminar, University of Kentucky</font></p>
-          <h4>February</h4>
-            <p>Approximating algebraic K-theory of the image of J<br>
-              </br><font size="3">Topology Seminar, University of Chicago</font></p>
-        <h3>2016</h3>
-          <h4>December</h4>
-            <p>Periodic Phenomena in iterated algebraic K-theory of finite fields<br>
-              </br><font size="3">Topology Seminar, Notre Dame</font></p>
-          <h4>November</h4>
-            <p>Periodicity in iterated algebraic K-theory<br/>
-            <font size="3">Geometry and Topology Seminar, Michigan State University</font></p>
-            <p>Red-shift type phenomena in iterated algebraic K-theory of finite fields<br>
-              </br><font size="3">Topology Seminar, Indiana University</font></p>
-          <h4>March</h4>
-            <p>Topological Hochschild homology of the connecitve cover of the K(1)-local sphere <br>
-              </br><font size="3">Topology Seminar, University of illinois Urbana Champaign</font></p>
-          <h4>February</h4>
-            <p>On mod (p,v_1) homotopy of THH of the K(1)-local sphere and its homotopy fixed points<br>
-              </br><font size="3">K-theory Seminar, Ohio State University</font></p>
-      <h2>Invited Conference Talks</h2>
-        <h3>2020</h3>
-          <h4>March</h4>
-            <p>Algebraic K-theory and chromatic homotopy theory [<PDF pdfFile={Redshift} displayText='pdf' />]<br>
-              </br><font size="3">Equivariant techniques in stable homotopy theory, American Institute of Mathematics, San Jose, California</font></p>
-          <h4>March</h4>
-            <p>Equivariant Witt vectors, Real topological Hochschild homology, and norms<br>
-              </br><font size="3">Equivariant homotopy theory and p-adic Hodge Theory Conference, Banff International Research Station</font></p>
-        <h3>2019</h3>
-          <h4>March</h4>
-            <p>Towards Topological Hochschild homology of the second truncated Brown-Peterson spectrum<br>
-              </br><font size="3">AMS Sectional, University of Hawaii at Manoa</font></p>
-        <h3>2018</h3>
-          <h4>March</h4>
-            <p>Chromatic complexity of topological periodic cyclic homology of y(n)<br>
-            </br><font size="3">AMS Sectional, Ohio State University</font></p>
-        <h3>2017</h3>
-          <h4>November</h4>
-            <p>Evidence for the Greek letter family red-shift conjecture<br>
-              </br><font size="3">Midwest Topology Conference, Wayne State University</font></p>
-          <h4>April</h4>
-            <p>Loday construction in functor categories [<PDF pdfFile={Loday} displayText='pdf' />]<br>
-              </br><font size="3">AMS Sectional, Indiana University</font></p>
-      <h2>Contributed Conference Talks</h2>
-          <h3>2017</h3>
-            <h4>June</h4>
-              <p>Periodicity in iterated algebraic K-theory [<a href="https://mediathek.uni-regensburg.de/playthis/5976eb8140f193.32122072">Video</a>]<br>
-                </br><font size="3">Transatlantic Transchromatic Homotopy theory conference, University of Regensberg</font></p>
-          <h3>2015</h3>
-            <h4>April</h4>
-            <p>Elements of higher chromatic height detected in circle homotopy fixed points <br>
-              </br><font size="3">Graduate Student Geometry and Topology Conference, Indiana University</font></p>
-          <h3>2015</h3>
-            <h4>July</h4>
-              <p>Topological Hochschild homology of the connective cover of the K(1)-local sphere <br>
-                </br><font size="3">Young Topologists' Meeting Ecole Polytechnique Federale de Lausanne</font></p>
-            <h4>March</h4>
-              <p>Towards topological Hochschild homology of the algebraic K-theory spectrum of a finite field <br>
-                </br><font size="3">Graduate Student Geometry and Topology Conference, Univ. of Illinois Urbana Champaign</font></p>
-      <h2>Invited Seminar Talks for an Undergraduate Audience</h2>
-        <h3>2018</h3>
-          <h4>June</h4>
-            <p>The Fundamental Theorem of Algebra via Topology<br>
-              </br><font size="3">REU, Michigan State University</font></p>
-        <h3>2017</h3>
-          <h4>November</h4>
-            <p>The Hopf map in classical mechanics<br>
-              </br><font size="3">Math Club, University of Kentucky</font></p>
-        <h3>2014</h3>
-            <p>The Topologist's Snowflake and the Rose [<PDF pdfFile={SnowFlake} displayText='pdf' />]<br>
-              </br><font size="3">Undergraduate Seminar, Kalamazoo College</font></p>
-    <h2>Select Expository Talks</h2>
-      <h4>2018</h4>
+    <h1>Invited Talks</h1>
+      <h2>2022</h2>
+        <h3>October</h3>
+          <h4>Algebraic K-theory of elliptic cohomology</h4>
+            <p><font size="3"><a href="https://www.math.sciences.univ-nantes.fr/GDR-Topologie/">GDR-Topologie</a>, Nantes Universit<span>&eacute;</span></font></p>
+        <h3>September</h3>
+          <h4>Deformations of equivariant homotopy</h4>
+            <p><font size="3">Apr<span>&egrave;</span>s-midi Parisienne de Topologie Alg<span>&eacute;</span>brique, Universit<span>&eacute;</span> Sorbonne Paris Nord</font></p>
+        <h3>June</h3>
+          <h4>Homology of twisted G-rings</h4>
+            <p><font size="3"><a href="https://www.math.univ-paris13.fr/laga/index.php/fr/ta/seminaires">Algebraic Topology Seminar</a>, Universit<span>&eacute;</span> Sorbonne Paris Nord </font></p>
+        <h3>March</h3>
+          <h4>Algebraic K-theory of elliptic cohomology</h4>
+            <p><font size="3"><a href="https://s.wayne.edu/echt/echt-research-seminar/">Electronic Computational Homotopy Theory Seminar</a></font></p>
+        <h3>January</h3>
+          <h4>Generalizations of Hochschild homology for rings with anti-involution</h4>
+            <p><font size="3"><a href="https://sites.google.com/view/xuzhouli/ucsd-topology-seminar">Topology Seminar</a>, University of California, San Diego</font></p>
+      <h2>2021</h2>
+        <h3>September</h3>
+          <h4>Redshift in algebraic K-theory</h4>
+            <p><font size="3"><a href="https://www.math.upenn.edu/events/seminars/geometry-topology-seminar">Geometry and Topology Seminar</a>, University of Pennsilvania</font></p>
         <h3>May</h3>
-          <p>Pro-objects in infinity categories [<PDF pdfFile={ProObjects} displayText='pdf' />]<br>
-            </br><font size="3">Vitamin K1: Kerz-Strunk-Tamme's Proof of Weibel's Conjecture, University of Illinois at Chicago</font></p>
-        <h4>2017</h4>
-          <h3>May</h3>
-            <p>On the structure of the map from MU to BP [<a href="http://math.mit.edu/conferences/talbot/2017/talbot-notes-2017.pdf">pdf</a>] <br> 
-              </br><font size="3">Talbot Workshop on Obstruction Theory (Notes compiled by <a href="https://math.northwestern.edu/~ebelmont/">Eva Belmont</a> and <a href="https://sanathdevalapurkar.github.io/">Sanath Devalapurkar)</a></font></p>
-          <h3>August</h3>
-            <p>Stacks and Homotopy theory [<PDF pdfFile={Stacks} displayText='pdf' />]<br>
-              </br><font size="3">West Coast Algebraic Topology Summer School, University of Oregon (joint with <a href="https://math.northwestern.edu/~ebelmont/">Eva Belmont</a>)</font></p>
-        <h4>2015</h4>
-          <h3>July</h3>
-            <p>Fundamental Theorems of Algebraic K-theory [<PDF pdfFile={Fundamental} displayText='pdf' />]<br>
-              </br><font size="3">European Talbot Workshop, Klosters, Switzerland</font></p>
-        <h4>2014</h4>
-          <h3>July</h3>
-            <p>On the paper "Nilpotence and Stable Homotopy Theory II" [<PDF pdfFile={Nilpotence} displayText='pdf' />]<br>
-              </br><font size="3">MSRI Summer School: Algebraic Topology, Guanajuato, Mexico</font></p>
+          <h4>Real topological Hochschild homology, norms and Witt vectors [<a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/atseminar2020/Angelini-Knoll.mp4">Video</a>]</h4>
+            <p><font size="3"><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/ATseminar/past/20-21">Algebraic Topology Seminar</a>, University of Warwick</font></p>
+        <h3>March</h3>
+          <h4>Algebraic K-theory and chromatic homotopy theory [<PDF pdfFile={Redshift} displayText='pdf' />]</h4>
+            <p><font size="3">Equivariant techniques in stable homotopy theory, American Institute of Mathematics, San Jose, California</font></p>
+      <h2>2020</h2>
+        <h3>April</h3>
+          <h4>Morava K-theory of algebraic K-theory and topological periodic cyclic homology</h4>
+            <p><font size="3"> <a href="https://www.epfl.ch/labs/hessbellwald-lab/seminar/topsemsp20/">Topology Seminar</a>, <span>&#201;</span>cole polytechnique f<span>&#233;</span>d<span>&#233;</span>rale de Lausanne</font></p>
+        <h3>March</h3>
+          <h4>Morava K-theory of algebraic K-theory and topological periodic cyclic homology</h4>
+            <p><font size="3"><a href="https://math.mit.edu/topology/pastseminars.html">Topology Seminar</a>, Massachusetts Institute of Technology</font></p>
+          <h4>Equivariant Witt vectors, Real topological Hochschild homology, and norms</h4>
+            <p><font size="3">Equivariant homotopy theory and p-adic Hodge Theory Conference, Banff International Research Station</font></p>
+        <h3>January</h3>
+          <h4>Chromatic complexity and topological periodic cyclic homology</h4>
+            <p><font size="3"><a href="https://www2.math.uni-wuppertal.de/~top/seminarW19.html">Topology Seminar</a>, Bergische Universit<span>&#228;</span>t Wuppertal</font></p>
+      <h2>2019</h2>
+        <h3>May</h3>
+          <h4>Transchromatic behavior in algebriac K-theory and future directions</h4>
+            <p><font size="3"><a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019So-geom.html">Topology Seminar</a>, Freie Universit<span>&#228;</span>t Berlin</font></p>
+          <h4>Iterated algebraic K-theory of the integers and higher Lichtenbaum-Quillen conjectures</h4>
+            <p><font size="3"><a href="https://secure.math.ucla.edu/seminars/show_quarter.php?t=1553756400&type=Algebraic%20Topology&id=&tba=false">Algebraic Topology Seminar</a>, University of California, Los Angeles</font></p>
+        <h3>April</h3>
+          <h4>Iterated algebraic K-theory of the integers and higher Lichtenbaum-Quillen conjectures</h4>
+            <p><font size="3">Topology Seminar, University of Illinois Urbana-Champaign</font></p>
+        <h3>March</h3>
+          <h4>Towards Topological Hochschild homology of the second truncated Brown-Peterson spectrum</h4>
+            <p><font size="3">AMS Sectional, University of Hawaii at Manoa</font></p>
+          <h4>Iterated algebraic K-theory of the integers and the Greek letter family red-shift conjecture</h4>
+            <p><font size="3">Topology Seminar, Northwestern University</font></p>
+        <h3>January</h3>
+          <h4>Iterated algebraic K-theory of the integers and higher Lichtenbaum-Quillen conjectures [<a href="https://www.youtube.com/watch?v=g0iIQWlxSzU&t=1538s">Video</a>]</h4>
+            <p><font size="3"><a href="https://s.wayne.edu/isaksen/echt/">Electronic Computational Homotopy Theory Seminar</a></font></p>
+      <h2>2018</h2>
+        <h3>June</h3>
+          <h4>The Fundamental Theorem of Algebra via Topology</h4>
+            <p><font size="3">REU, Michigan State University</font></p>
+        <h3>March</h3>
+          <h4>Chromatic complexity of topological periodic cyclic homology of y(n)</h4>
+            <p><font size="3">AMS Sectional, Ohio State University</font></p>
+      <h2>2017</h2>
+        <h3>November</h3>
+          <h4>The Segal Conjecture for topological Hochschild homology of Ravenel spectra</h4>
+            <p><font size="3">Topology Seminar, University of Kentucky</font></p>
+          <h4>The Hopf map in classical mechanics</h4>
+            <p><font size="3">Math Club, University of Kentucky</font></p>
+          <h4>Evidence for the Greek letter family red-shift conjecture</h4>
+            <p><font size="3">Midwest Topology Conference, Wayne State University</font></p>
+        <h3>April</h3>
+          <h4>Loday construction in functor categories [<PDF pdfFile={Loday} displayText='pdf' />]</h4>
+            <p><font size="3">AMS Sectional, Indiana University</font></p>
+        <h3>February</h3>
+          <h4>Approximating algebraic K-theory of the image of J</h4>
+            <p><font size="3">Topology Seminar, University of Chicago</font></p>
+      <h2>2016</h2>
+        <h3>December</h3>
+          <h4>Periodic Phenomena in iterated algebraic K-theory of finite fields</h4>
+            <p><font size="3">Topology Seminar, Notre Dame</font></p>
+        <h3>November</h3>
+          <h4>Periodicity in iterated algebraic K-theory</h4>
+            <p><font size="3">Geometry and Topology Seminar, Michigan State University</font></p>
+          <h4>Red-shift type phenomena in iterated algebraic K-theory of finite fields</h4>
+            <p><font size="3">Topology Seminar, Indiana University</font></p>
+        <h3>March</h3>
+          <h4>Topological Hochschild homology of the connecitve cover of the K(1)-local sphere </h4>
+            <p><font size="3">Topology Seminar, University of illinois Urbana Champaign</font></p>
+        <h3>February</h3>
+          <h4>On mod (p,v_1) homotopy of THH of the K(1)-local sphere and its homotopy fixed points</h4>
+            <p><font size="3">K-theory Seminar, Ohio State University</font></p>
+      <h2>2014</h2>
+          <h4>The Topologist's Snowflake and the Rose [<PDF pdfFile={SnowFlake} displayText='pdf' />]</h4>
+            <p><font size="3">Undergraduate Seminar, Kalamazoo College</font></p>
+  <h1>Expository Talks</h1>
+    <h2>2018</h2>
+      <h3>May</h3>
+        <h4>Pro-objects in infinity categories [<PDF pdfFile={ProObjects} displayText='pdf' />]</h4>
+          <p><font size="3">Vitamin K1: Kerz-Strunk-Tamme's Proof of Weibel's Conjecture, University of Illinois at Chicago</font></p>
+    <h2>2017</h2>
+      <h3>May</h3>
+        <h4>On the structure of the map from MU to BP [<a href="http://math.mit.edu/conferences/talbot/2017/talbot-notes-2017.pdf">pdf</a>] </h4> 
+          <p><font size="3">Talbot Workshop on Obstruction Theory (Notes compiled by <a href="https://math.northwestern.edu/~ebelmont/">Eva Belmont</a> and <a href="https://sanathdevalapurkar.github.io/">Sanath Devalapurkar)</a></font></p>
+      <h3>August</h3>
+        <h4>Stacks and Homotopy theory [<PDF pdfFile={Stacks} displayText='pdf' />]</h4>
+          <p><font size="3">West Coast Algebraic Topology Summer School, University of Oregon (joint with <a href="https://math.northwestern.edu/~ebelmont/">Eva Belmont</a>)</font></p>
+    <h2>2015</h2>
+      <h3>July</h3>
+        <h4>Fundamental Theorems of Algebraic K-theory [<PDF pdfFile={Fundamental} displayText='pdf' />]</h4>
+          <p><font size="3">European Talbot Workshop, Klosters, Switzerland</font></p>
+    <h2>2014</h2>
+      <h3>July</h3>
+        <h4>On the paper "Nilpotence and Stable Homotopy Theory II" [<PDF pdfFile={Nilpotence} displayText='pdf' />]</h4>
+          <p><font size="3">MSRI Summer School: Algebraic Topology, Guanajuato, Mexico</font></p>
   </Layout>
 )
 
