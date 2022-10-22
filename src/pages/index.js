@@ -33,7 +33,7 @@ const IndexPage = () => (
       <h3>Pronouns:</h3>
         <p>He/Him/His</p>
       <h3>Email:</h3> 
-        <p>University Email: <a href="mailto:angelini-knoll@math.univ-paris13.fr">angelini-knoll</a> (at math dot univ-paris dot fr)<br></br>Personal Email: <a href="mailto:gabe.angelini.knoll@gmail.com">gabe.angelini.knoll</a> (at gmail dot com)</p>
+        <p>University Email: <a href="mailto:angelini-knoll@math.univ-paris13.fr">angelini-knoll</a> (at math dot univ-paris13 dot fr)<br></br>Personal Email: <a href="mailto:gabe.angelini.knoll@gmail.com">gabe.angelini.knoll</a> (at gmail dot com)</p>
       <h3>Address:</h3> 
       <p>Department of Mathematics<br>  
       </br>Institut Galil<span>&eacute;</span>e<br>  
