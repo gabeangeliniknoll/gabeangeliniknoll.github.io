@@ -18,4 +18,4 @@ const Gdt22 = () => (
   </Layout>
 )
 
-export default Talks
+export default GdT22
