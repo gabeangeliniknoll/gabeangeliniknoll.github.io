@@ -8,7 +8,7 @@ section:
             class:  
               - title: "The chromatic nullstellensatz"
                 description: A seminar on a recent paper proving redshift for commutative ring spectra using the notion of chromatic support. 
-                url: https://www.gangeliniknoll.com/nullstellensatz/
+                url: https://www.gangeliniknoll.com/cnull/
                 urldisplay: Website
   - title: Past 
     university: 
