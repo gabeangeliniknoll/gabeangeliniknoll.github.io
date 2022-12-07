@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Cnull from "../static/gdt-nullstellensatz"
+import Cnull from "../static/gdt-nullstellensatz.pdf"
 
 const Research = () => (
   <Layout>
