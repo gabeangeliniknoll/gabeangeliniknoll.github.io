@@ -7,7 +7,7 @@ section:
           - semester: Winter 2023
             class:  
               - title: "The chromatic nullstellensatz"
-                description: A seminar on a recent paper proving redshift for commutative ring spectra using the notion of chromatic support. 
+                description: A seminar on a recent paper of Burkland-Schlank-Yuan proving redshift for algebraic K-theory of commutative ring spectra using the notion of chromatic support. 
                 url: https://www.gangeliniknoll.com/cnull/
                 urldisplay: Website
   - title: Past 
