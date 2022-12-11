@@ -8,7 +8,7 @@ const Research = () => (
   <Layout>
     <SEO title="Groupe de Travail: The chromatic Nullstellensatz" />
     <h2>Groupe de Travail on the chromatic Nullstellensatz</h2>
-    <p>We are organizing a <PDF pdfFile={Cnull} displayText='Groupe de traivail' /> on the paper <a href="https://arxiv.org/abs/2207.09929">The chromatic nullstellensatz</a> by Burklund-Schlank-Yuan at Université Sorbonne Paris Nord in 2022-2023.</p>
+    <p>We are organizing a <PDF pdfFile={Cnull} displayText='Groupe de travail' /> on the paper <a href="https://arxiv.org/abs/2207.09929">The chromatic nullstellensatz</a> by Burklund-Schlank-Yuan at Université Sorbonne Paris Nord in 2022-2023.</p>
       <h3>Talks</h3>
         <h4>October 20th</h4>
           <p>Introduction to the seminar by Christian Ausoni</p>
@@ -20,9 +20,9 @@ const Research = () => (
           <p>Detecting nilpotence by Gregory Ginot</p>
         <h4>Janurary 16th</h4>
         <p>Examples of detecting nulpotence by Geoffroy Horel</p>
-        <h4>Februaty 2nd</h4>
+        <h4>February 2nd</h4>
           <p>The height zero case of the main theorem</p>
-        <h4>Februaty 9th</h4>
+        <h4>February 16th</h4>
           <p>The main theorem</p>
   </Layout>
 )
