@@ -18,7 +18,7 @@ const Eusymbol = () => {
     query {
       placeholderImage: file(relativePath: { eq: "eusymbol.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 10) {
+          fluid(maxWidth: 300) {
             ...GatsbyImageSharpFluid
           }
         }
