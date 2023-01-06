@@ -18,12 +18,10 @@ const Research = () => (
           <p>Lubin-Tate theory by Jordan Levin</p>
         <h4>December 15th</h4>
           <p>Detecting nilpotence by Gregory Ginot</p>
-        <h4>Janurary 16th</h4>
+        <h4>Janurary 19th</h4>
         <p>Examples of detecting nulpotence by Geoffroy Horel</p>
-        <h4>February 2nd</h4>
-          <p>The height zero case of the main theorem</p>
         <h4>February 16th</h4>
-          <p>The main theorem</p>
+          <p>The main theorem: the height zero case and outline of the proof by Tasos Moulinos</p>
   </Layout>
 )
 
