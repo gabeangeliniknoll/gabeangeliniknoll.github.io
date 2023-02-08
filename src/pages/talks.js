@@ -18,7 +18,7 @@ const Talks = () => (
   <Layout>
     <SEO title="Talks" />
     <h1>Invited Talks</h1>
-      <h2>2022</h2>
+      <h2>2023</h2>
         <h3>March</h3>
           <h4>TBD</h4>
             <p><font size="3"><a href="https://damienespadon.wixsite.com/dersympapp/alpe">Nouveau séminaire ALPE</a>, Universit<span>&eacute;</span> Montpellier</font></p>
