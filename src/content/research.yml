@@ -8,7 +8,7 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/1612.00548
-           - display: published
+            - display: published
               url: https://www.ams.org/journals/tran/0000-000-00/S0002-9947-2022-08833-4/?active=current
               body:
           journal: 
