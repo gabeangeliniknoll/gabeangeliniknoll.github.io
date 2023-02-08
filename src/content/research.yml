@@ -8,6 +8,7 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/1612.00548
+              body:
             - display: published
               url: https://www.ams.org/journals/tran/0000-000-00/S0002-9947-2022-08833-4/?active=current
               body:
@@ -15,17 +16,13 @@ sections:
             - name: Transactions of the American Mathematical Society 
               url: https://www.ams.org/publications/journals/journalsframework/tran
               sep: "."
-              start: "Accepted in " 
-               body:
-                 - {_uid: BUY6Drn9e6,paper: "beta",displayText: "pdf"}
-         
+              start: "Accepted in "  
         - title: Complex orientations of TP of complete DVRs
           description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a local field over a certain base ring.
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2104.07306
-              # body:
-              #    - {_uid: BUY6Drn9e3,paper: "cotp",displayText: "pdf"}
+              body:
           journal: 
             - name: Homology, Homotopy and Applications
               url: https://www.intlpress.com/site/pub/pages/journals/items/hha/_home/_main/index.php
