@@ -20,8 +20,12 @@ const Research = () => (
           <p>Detecting nilpotence by Gregory Ginot</p>
         <h4>Janurary 19th</h4>
         <p>Examples of detecting nulpotence by Geoffroy Horel</p>
-        <h4>February 16th</h4>
+        <h4>February 23rd</h4>
           <p>The main theorem: the height zero case and outline of the proof by Tasos Moulinos</p>
+        <h4>TBD</h4>
+          <p>The main theorem: the higher height case by Christian Ausoni</p>
+        <h4>TBD</h4>
+          <p>Chromatic height of Algebraic K-theory of Lubin-Tate theory by Gabriel Angelini-Knoll</p>
   </Layout>
 )
 
