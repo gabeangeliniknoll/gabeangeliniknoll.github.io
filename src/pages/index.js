@@ -15,10 +15,10 @@ const IndexPage = () => (
     <h1>Homepage</h1>
     <div>
     <div style={{ float: `left`, maxWidth: `65%`, marginBottom: `1.45rem`}}>
-    <p>I am a postdoctoral fellow at the <a href="https://www.math.univ-paris13.fr/laga/index.php/en/">LAGA institute</a> of <a href="https://www.univ-paris13.fr/">Universit<span>&eacute;</span> Sorbonne Paris Nord</a>. This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sk<span>	&#322;</span>odowska-Curie grant agreement No 1010342555. <div style={{marginLeft: `0%`, maxWidth: `5%`, marginBottom: `1rem` }} ><Eusymbol /></div></p>
+    <p>I am a postdoctoral fellow at the <a href="https://www.math.univ-paris13.fr/laga/index.php/en/">LAGA institute</a> of <a href="https://www.univ-paris13.fr/">Universit<span>&eacute;</span> Sorbonne Paris Nord</a>. This position has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sk<span>	&#322;</span>odowska-Curie grant agreement No 1010342555. <div style={{marginLeft: `0%`, maxWidth: `5%`, marginBottom: `1rem` }} ><Eusymbol /></div></p>
     <p>Previously, I was a postdoctoral researcher at the <a href="https://www.mi.fu-berlin.de/math/groups/top/members/index.html">Freie Universit<span>&#228;</span>t Berlin</a> and <a href="https://math.msu.edu">Michigan State University</a>. 
       I earned my PhD at <a href="https://clas.wayne.edu/math">Wayne State University</a> under the direction of <a href="https://clasprofiles.wayne.edu/profile/dy8211">Andrew Salch</a>.</p>
-    <p>I study interactions between algebraic topology, arithmetic and geometry. Specifically, I am interested invariants of ring spectra, such as algebraic K-theory and Hochschild homology, as well as chromatic, equivariant, and motivic homotopy theory. </p>
+    <p>I study interactions between algebraic topology, arithmetic, and geometry. Specifically, I am interested invariants of ring spectra, such as algebraic K-theory and Hochschild homology, as well as chromatic, equivariant, and motivic homotopy theory. </p>
 		<p>In addition to my research activity, I have had the opportunity to teach a broad range of courses, 
       mentor research projects and theses, and organize several conferences and seminars. For a more detailed description of my activities see my <CV />.</p>
     </div>
@@ -27,8 +27,6 @@ const IndexPage = () => (
     </div> 
     <div clear="both"></div>
     <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
-    <h2>Current Events</h2>
-      <p>Our <a href="https://aimath.org/programs/squares/">AIM SQuaRE</a> proposal on "Deformations of equviariant homotopy theory" has received funding. Mark Behrens, Eva Belmont, Maxwell Johnson, Hana Kong, and I will meet in San Jose in February to work on our project.</p>
     <h2>Contact</h2>
       <h3>Pronouns:</h3>
         <p>He/Him/His</p>
