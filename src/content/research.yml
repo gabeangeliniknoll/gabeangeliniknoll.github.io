@@ -8,6 +8,11 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2104.07306
+          journal: 
+            - name: Homology, Homotopy and Applications
+              url: https://www.intlpress.com/site/pub/pages/journals/items/hha/_home/_main/index.php
+              sep: "."
+              start: "Accepted in "
         - title: Detecting beta elements in iterated algebraic K-theory of finite fields
           description: I prove that a certain family of beta elements is detected in iterated algebraic K-theory of finite fields and consequently iterated algebraic K-theory of the integers. This gives evidence for a higher chromatic height version of a conjecture of Lichtenbaum. This also suggests a new approach to studying the redshift conjectures of Ausoni-Rognes.
           links:
@@ -22,11 +27,6 @@ sections:
               url: https://www.ams.org/publications/journals/journalsframework/tran
               sep: "."
               start: "Published in " 
-          journal: 
-            - name: Homology, Homotopy and Applications
-              url: https://www.intlpress.com/site/pub/pages/journals/items/hha/_home/_main/index.php
-              sep: "."
-              start: "Accepted in "  
         - title: On topological Hochschild homology of the K(1)-local sphere  
           description: I compute mod (p,v_1) topological Hochschild homology of the connective cover of the K(1)-local sphere spectrum using the topological Hochschild-May spectral sequence.
           links:
