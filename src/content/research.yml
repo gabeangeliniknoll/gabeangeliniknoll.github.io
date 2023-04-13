@@ -3,25 +3,25 @@ pageDescription: My work focuses on invariants of ring spectra that shed light o
 sections: 
     - title: Published and Accepted Papers
       papers: 
-        - title: Detecting beta elements in iterated algebraic K-theory of finite fields
-          description: I prove that a certain family of beta elements is detected in iterated algebraic K-theory of finite fields and consequently iterated algebraic K-theory of the integers. This gives evidence for a higher chromatic height version of a conjecture of Lichtenbaum. This also suggests a new approach to studying the redshift conjectures of Ausoni-Rognes.
-          links:
-            - display: arXiv
-              url: https://arxiv.org/abs/1612.00548
-          journal: 
-            - name: Transactions of the American Mathematical Society 
-              url: https://www.ams.org/publications/journals/journalsframework/tran
-              sep: "."
-              start: "Accepted in " 
-              # body:
-              #   - {_uid: BUY6Drn9e6,paper: "beta",displayText: "pdf"}
         - title: Complex orientations of TP of complete DVRs
           description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a local field over a certain base ring.
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2104.07306
-              # body:
-              #    - {_uid: BUY6Drn9e3,paper: "cotp",displayText: "pdf"}
+        - title: Detecting beta elements in iterated algebraic K-theory of finite fields
+          description: I prove that a certain family of beta elements is detected in iterated algebraic K-theory of finite fields and consequently iterated algebraic K-theory of the integers. This gives evidence for a higher chromatic height version of a conjecture of Lichtenbaum. This also suggests a new approach to studying the redshift conjectures of Ausoni-Rognes.
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/1612.00548
+              body: 
+            - display: published
+              url: https://www.ams.org/journals/tran/2023-376-04/S0002-9947-2022-08833-4/home.html
+              body:
+          journal: 
+            - name: Transactions of the American Mathematical Society 
+              url: https://www.ams.org/publications/journals/journalsframework/tran
+              sep: "."
+              start: "Published in " 
           journal: 
             - name: Homology, Homotopy and Applications
               url: https://www.intlpress.com/site/pub/pages/journals/items/hha/_home/_main/index.php
@@ -157,17 +157,6 @@ sections:
               #    - {_uid: BUY6Drn9e5,paper: "limits",displayText: "pdf"}
     - title: In progress
       papers:
-        - title: Homology of twisted G-rings
-          description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. The input of this construction is a twisted G-ring, which generalizes the notion of a ring with anti-involution. 
-          coauthors:  
-            - name: Mona Merling
-              url: https://www.math.upenn.edu/~mmerling/
-              sep: " and" 
-              start: "Joint with "
-            - name: Maximilien Peroux
-              url: https://www.maximilienperoux.com/
-              sep: "." 
-              start: ""
         - title: A deformation of Borel equivariant homotopy
           description: We construct a deformation of the Borel G-equivariant stable homotopy category that recovers the a-complete Artin-Tate real motivic stable homotopy category of Burkland-Hahn-Senger. 
           coauthors:  
@@ -192,6 +181,43 @@ sections:
               start: "Joint with "
             - name: Dylan Wilson
               url: https://people.math.harvard.edu/~dwilson/
+              sep: "."
+              start: ""
+        - title: Homology of twisted G-rings
+          description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. The input of this construction is a twisted G-ring, which generalizes the notion of a ring with anti-involution. 
+          coauthors:  
+            - name: Mona Merling
+              url: https://www.math.upenn.edu/~mmerling/
+              sep: " and" 
+              start: "Joint with "
+            - name: Maximilien Peroux
+              url: https://www.maximilienperoux.com/
+              sep: "." 
+              start: ""
+        - title: Real syntomic cohomology 
+          description: We study even filtrations in equivariant homotopy theory with applications to Real algebraic K-theory. In particular, we provide constructions of Real syntomic cohomology and Real prismatic cohomology. 
+          coauthors:
+            - name: Mike Hill
+              url: https://www.math.ucla.edu/~mikehill/
+              sep:  ", "
+              start: "Joint with "
+            - name: Hana Jia Kong
+              url: https://hanajiakong.github.io/
+              sep: ", and" 
+              start: ""
+            - name: J.D. Quigley
+              url: https://e.math.cornell.edu/people/jdq27/
+              sep: "." 
+              start: ""
+        - title: Algebraic K-theory of real topological K-theory 
+          description: We compute algebraic K-theory of real topological K-theory after smashing with a finite complex at the prime 2. 
+          coauthors:
+            - name: Christian Ausoni
+              url: https://www.math.univ-paris13.fr/~ausoni/
+              sep: "and "
+              start: "Joint with "
+            - name: John Rognes 
+              url: https://www.mn.uio.no/math/personer/vit/rognes/
               sep: "."
               start: ""
     - title: Notes

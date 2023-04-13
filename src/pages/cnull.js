@@ -11,7 +11,7 @@ const Research = () => (
     <p>We are organizing a <PDF pdfFile={Cnull} displayText='Groupe de travail' /> on the paper <a href="https://arxiv.org/abs/2207.09929">The chromatic nullstellensatz</a> by Burklund-Schlank-Yuan at Université Sorbonne Paris Nord in 2022-2023.</p>
       <h3>Talks</h3>
         <h4>October 20th</h4>
-          <p>Introduction to the seminar by Christian Ausoni</p>
+          <p>Introduction to the seminar by Christian Ausoni</p>g
         <h4>November 24th</h4> 
           <p>Spherical Witt vectors by Victor Saunier</p>  
         <h4>December 4th</h4> 
