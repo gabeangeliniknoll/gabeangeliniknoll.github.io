@@ -135,7 +135,7 @@ sections:
           description: We compute Morava K-theory of topological periodic cyclic homology and topological negative cyclic homology of the Thom spectra y(n). This gives evidence for a version of the red-shift conjecture for topological periodic cyclic homology at all chromatic heights. 
           coauthors: 
             - name: J.D. Quigley
-              url: https://e.math.cornell.edu/people/jdq27/
+              url: https://quigleyjd.github.io/
               sep: "." 
               start: "Joint with "
           links:
@@ -177,7 +177,7 @@ sections:
           coauthors:
             - name: Jeremy Hahn
               url: https://web.mit.edu/~jhahn01/www/
-              sep: "and "
+              sep: " and "
               start: "Joint with "
             - name: Dylan Wilson
               url: https://people.math.harvard.edu/~dwilson/
@@ -206,7 +206,7 @@ sections:
               sep: ", and" 
               start: ""
             - name: J.D. Quigley
-              url: https://e.math.cornell.edu/people/jdq27/
+              url: https://quigleyjd.github.io/
               sep: "." 
               start: ""
         - title: Algebraic K-theory of real topological K-theory 
@@ -214,7 +214,7 @@ sections:
           coauthors:
             - name: Christian Ausoni
               url: https://www.math.univ-paris13.fr/~ausoni/
-              sep: "and "
+              sep: " and "
               start: "Joint with "
             - name: John Rognes 
               url: https://www.mn.uio.no/math/personer/vit/rognes/
