@@ -198,6 +198,17 @@ sections:
               url: https://www.maximilienperoux.com/
               sep: "." 
               start: ""
+        - title: Algebraic K-theory of real topological K-theory 
+          description: We compute algebraic K-theory of real topological K-theory after smashing with a finite complex at the prime 2 using syntomic cohomology. 
+          coauthors:
+            - name: Christian Ausoni
+              url: https://www.math.univ-paris13.fr/~ausoni/
+              sep: " and "
+              start: "Joint with "
+            - name: John Rognes 
+              url: https://www.mn.uio.no/math/personer/vit/rognes/
+              sep: "."
+              start: ""
         - title: Real syntomic cohomology 
           description: We study even filtrations in equivariant homotopy theory with applications to Real algebraic K-theory. In particular, we provide constructions of Real syntomic cohomology and Real prismatic cohomology. 
           coauthors:
@@ -212,17 +223,6 @@ sections:
             - name: J.D. Quigley
               url: https://quigleyjd.github.io/
               sep: "." 
-              start: ""
-        - title: Algebraic K-theory of real topological K-theory 
-          description: We compute algebraic K-theory of real topological K-theory after smashing with a finite complex at the prime 2. 
-          coauthors:
-            - name: Christian Ausoni
-              url: https://www.math.univ-paris13.fr/~ausoni/
-              sep: " and "
-              start: "Joint with "
-            - name: John Rognes 
-              url: https://www.mn.uio.no/math/personer/vit/rognes/
-              sep: "."
               start: ""
     - title: Notes
       papers:
