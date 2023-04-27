@@ -15,10 +15,9 @@ const IndexPage = () => (
     <h1>Homepage</h1>
     <div>
     <div style={{ float: `left`, maxWidth: `65%`, marginBottom: `1.45rem`}}>
-    <p>I am a postdoctoral fellow in the <a href="https://www.math.univ-paris13.fr/laga/index.php/fr/">Laboratoire Analyse, G<span>&eacute;</span>om<span>&eacute;</span>trie et Applications</a> at <a href="https://www.univ-paris13.fr/">Universit<span>&eacute;</span> Sorbonne Paris Nord</a>. This position has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sk<span>	&#322;</span>odowska-Curie grant agreement No 1010342555. <div style={{marginLeft: `0%`, maxWidth: `5%`, marginBottom: `1rem` }} ><Eusymbol /></div></p>
-    <p>Previously, I was a postdoctoral researcher at the <a href="https://www.mi.fu-berlin.de/math/groups/top/members/index.html">Freie Universit<span>&#228;</span>t Berlin</a> and <a href="https://math.msu.edu">Michigan State University</a>. 
+    <p>I am a postdoctoral fellow in the <a href="https://www.math.univ-paris13.fr/laga/index.php/fr/">Laboratoire Analyse, G<span>&eacute;</span>om<span>&eacute;</span>trie et Applications</a> at <a href="https://www.univ-paris13.fr/">Universit<span>&eacute;</span> Sorbonne Paris Nord</a>. Previously, I was a postdoctoral researcher at the <a href="https://www.mi.fu-berlin.de/math/groups/top/members/index.html">Freie Universit<span>&#228;</span>t Berlin</a> and <a href="https://math.msu.edu">Michigan State University</a>. 
       I earned my PhD at <a href="https://clas.wayne.edu/math">Wayne State University</a> under the direction of <a href="https://clasprofiles.wayne.edu/profile/dy8211">Andrew Salch</a>.</p>
-    <p>I study interactions between algebraic topology, arithmetic, and geometry. Specifically, I am interested invariants of ring spectra, such as algebraic K-theory and Hochschild homology, as well as chromatic, equivariant, and motivic homotopy theory. </p>
+    <p>I research interactions between algebraic topology, arithmetic, and geometry. Specifically, I am interested invariants of ring spectra, such as algebraic K-theory and Hochschild homology, as well as chromatic, equivariant, and motivic homotopy theory. </p>
 		<p>In addition to my research activity, I have had the opportunity to teach a broad range of courses, 
       mentor research projects and theses, and organize several conferences and seminars. For a more detailed description of my activities see my <CV />.</p>
     </div>
@@ -42,6 +41,9 @@ const IndexPage = () => (
       <p> <a href=" https://www.europeanwomeninmaths.org/">European Women in Mathematics</a>, <a href="https://awm-math.org/ ">Association for Women in Mathematics</a>, <a href="http://lgbtmath.org/index.html">Spectra</a>, <a href="https://s.wayne.edu/isaksen/algebraic-topology-journals/">Algebraic Topology Journals</a>, <a href="https://researchseminars.org/">Online Research Seminars</a>, <a href="http://mathmeetings.net/at-gt">MathMeetings</a>, <a href="https://faculty.math.illinois.edu/K-theory/Calendar/">K-theory Calender</a></p>
       <h2>Collaborators</h2>
       <p><a href="https://www.math.univ-paris13.fr/~ausoni/">C. Ausoni</a>, <a href="https://www3.nd.edu/~mbehren1/">M. Behrens</a>, <a href="https://math.ucsd.edu/~ebelmont/">E. Belmont</a>, <a href="https://dlculver.github.io/">D. Culver</a>, <a href="https://users.math.msu.edu/users/teena/Home.html">T. Gerhardt</a>, <a href="https://math.mit.edu/directory/profile.php?pid=2073">J. Hahn</a>, <a href="https://www.math.ucla.edu/~mikehill/">M. Hill</a>, <a href="https://evahoening.netlify.app/">E. H<span>&#246;</span>ning</a>, <a href="https://hanajiakong.github.io/">H. Kong</a>, <a href="https://www.math.upenn.edu/~mmerling/">M. Merling</a>, <a href="https://www.maximilienperoux.com/">M. P<span>&#233;</span>roux</a>, <a href="https://quigleyjd.github.io/">J.D. Quigley</a>, <a href="https://clasprofiles.wayne.edu/profile/dy8211">A. Salch</a>, <a href="https://www.mn.uio.no/math/personer/vit/rognes/">J. Rognes</a>, <a href="https://people.math.harvard.edu/~dwilson/">D. Wilson</a></p>
+    </div>
+    <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}></div>
+    <p>This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sk<span>	&#322;</span>odowska-Curie grant agreement No 1010342555. <div style={{marginLeft: `0%`, maxWidth: `5%`, marginBottom: `1rem` }} ><Eusymbol /></div></p>
     </div>
     </div>
   </Layout>
