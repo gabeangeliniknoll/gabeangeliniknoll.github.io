@@ -9,16 +9,11 @@ import Papers from "./papers"
 // YAML Data file
 import YAMLData from "../content/research.yml"
 
-import ResearchStatement from "../components/research"
-import ShortResearchStatement from "../components/shortresearch"
-
-// import THHMay from "../static/thhmayssfinal.pdf"
-
 const Research = () => (
   <Layout>
     <SEO title="Research" />
     <h1>{YAMLData.page}</h1>
-    <p>{YAMLData.pageDescription} <!-- For more information about my research, see my <ShortResearchStatement /> or my <ResearchStatement /> --></p>
+    <p>{YAMLData.pageDescription}</p>
     {YAMLData.sections.map((s, i) => (
       <>
         <h2 key={i}>{s.title}</h2>
