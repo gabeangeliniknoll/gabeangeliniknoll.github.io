@@ -18,7 +18,7 @@ const Research = () => (
   <Layout>
     <SEO title="Research" />
     <h1>{YAMLData.page}</h1>
-    <p>{YAMLData.pageDescription} <ShortResearchStatement /> or my <ResearchStatement /></p>
+    <p>{YAMLData.pageDescription} <!-- For more information about my research, see my <ShortResearchStatement /> or my <ResearchStatement /> --></p>
     {YAMLData.sections.map((s, i) => (
       <>
         <h2 key={i}>{s.title}</h2>
