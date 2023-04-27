@@ -42,7 +42,7 @@ const IndexPage = () => (
       <h2>Collaborators</h2>
       <p><a href="https://www.math.univ-paris13.fr/~ausoni/">C. Ausoni</a>, <a href="https://www3.nd.edu/~mbehren1/">M. Behrens</a>, <a href="https://math.ucsd.edu/~ebelmont/">E. Belmont</a>, <a href="https://dlculver.github.io/">D. Culver</a>, <a href="https://users.math.msu.edu/users/teena/Home.html">T. Gerhardt</a>, <a href="https://math.mit.edu/directory/profile.php?pid=2073">J. Hahn</a>, <a href="https://www.math.ucla.edu/~mikehill/">M. Hill</a>, <a href="https://evahoening.netlify.app/">E. H<span>&#246;</span>ning</a>, <a href="https://hanajiakong.github.io/">H. Kong</a>, <a href="https://www.math.upenn.edu/~mmerling/">M. Merling</a>, <a href="https://www.maximilienperoux.com/">M. P<span>&#233;</span>roux</a>, <a href="https://quigleyjd.github.io/">J.D. Quigley</a>, <a href="https://clasprofiles.wayne.edu/profile/dy8211">A. Salch</a>, <a href="https://www.mn.uio.no/math/personer/vit/rognes/">J. Rognes</a>, <a href="https://people.math.harvard.edu/~dwilson/">D. Wilson</a></p>
     </div>
-    <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}></div>
+    <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
     <p>This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sk<span>	&#322;</span>odowska-Curie grant agreement No 1010342555. <div style={{marginLeft: `0%`, maxWidth: `5%`, marginBottom: `1rem` }} ><Eusymbol /></div></p>
     </div>
     </div>
