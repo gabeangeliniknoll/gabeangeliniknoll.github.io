@@ -4,7 +4,7 @@ section:
     university: 
       - title: Univesité Sorbonne Paris Nord
         courses:
-          - semester: Winter/Springg 2023
+          - semester: Winter/Spring 2023
             class:  
               - title: "The chromatic nullstellensatz"
                 description: A seminar on the recent paper of Burkland-Schlank-Yuan. 

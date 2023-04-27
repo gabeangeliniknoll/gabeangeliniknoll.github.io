@@ -1,18 +1,22 @@
 page: Research
 pageDescription: My work focuses on invariants of ring spectra that shed light on interactions with arithmetic and geometry. For more information about my research, see my 
 sections: 
-    - title: Published and Accepted Papers
+    - title: Published Papers
       papers: 
         - title: Complex orientations of TP of complete DVRs
           description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a local field over a certain base ring.
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2104.07306
+              body:
+            - display: published
+              url: http://dx.doi.org/10.4310/HHA.2023.v25.n1.a16 
+              body:
           journal: 
             - name: Homology, Homotopy and Applications
               url: https://www.intlpress.com/site/pub/pages/journals/items/hha/_home/_main/index.php
               sep: "."
-              start: "Accepted in "
+              start: "Published in "
         - title: Detecting beta elements in iterated algebraic K-theory of finite fields
           description: I prove that a certain family of beta elements is detected in iterated algebraic K-theory of finite fields and consequently iterated algebraic K-theory of the integers. This gives evidence for a higher chromatic height version of a conjecture of Lichtenbaum. This also suggests a new approach to studying the redshift conjectures of Ausoni-Rognes.
           links:
@@ -194,6 +198,17 @@ sections:
               url: https://www.maximilienperoux.com/
               sep: "." 
               start: ""
+        - title: Algebraic K-theory of real topological K-theory 
+          description: We compute algebraic K-theory of real topological K-theory after smashing with a finite complex at the prime 2 using syntomic cohomology. 
+          coauthors:
+            - name: Christian Ausoni
+              url: https://www.math.univ-paris13.fr/~ausoni/
+              sep: " and "
+              start: "Joint with "
+            - name: John Rognes 
+              url: https://www.mn.uio.no/math/personer/vit/rognes/
+              sep: "."
+              start: ""
         - title: Real syntomic cohomology 
           description: We study even filtrations in equivariant homotopy theory with applications to Real algebraic K-theory. In particular, we provide constructions of Real syntomic cohomology and Real prismatic cohomology. 
           coauthors:
@@ -208,17 +223,6 @@ sections:
             - name: J.D. Quigley
               url: https://quigleyjd.github.io/
               sep: "." 
-              start: ""
-        - title: Algebraic K-theory of real topological K-theory 
-          description: We compute algebraic K-theory of real topological K-theory after smashing with a finite complex at the prime 2. 
-          coauthors:
-            - name: Christian Ausoni
-              url: https://www.math.univ-paris13.fr/~ausoni/
-              sep: " and "
-              start: "Joint with "
-            - name: John Rognes 
-              url: https://www.mn.uio.no/math/personer/vit/rognes/
-              sep: "."
               start: ""
     - title: Notes
       papers:
