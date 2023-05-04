@@ -23,9 +23,10 @@ const Research = () => (
         <h4>February 23rd</h4>
           <p>The main theorem: the height zero case and outline of the proof by Tasos Moulinos</p>
         <h4>May 4th</h4>
-          <p>The main theorem: the higher height case by Christian Ausoni</p>
-        <h4>TBD</h4>
           <p>Chromatic height of Algebraic K-theory of Lubin-Tate theory by Gabriel Angelini-Knoll</p>
+        <h4>TBD</h4>
+          <p>The main theorem: the higher height case by Christian Ausoni</p>
+       
   </Layout>
 )
 
