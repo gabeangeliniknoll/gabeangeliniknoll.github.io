@@ -108,7 +108,7 @@ sections:
             - display: arXiv
               url: https://arxiv.org/abs/2204.05890
         - title: Real Topological Hochschild homology via the norm and Real Witt vectors
-          description: We interpret Real topological Hochschild homology as the norm for the orthogonal group of two-by-two-matrices. We then prove a multiplicative double coset formula. Using this we define Real Hochschild homology and Witt vectors for rins with anti-involution. 
+          description: We interpret Real topological Hochschild homology as the norm for the orthogonal group of two-by-two-matrices. We then prove a multiplicative double coset formula. Using this we define Real Hochschild homology and Witt vectors for rings with anti-involution. 
           coauthors:  
             - name: Teena Gerhardt
               url: https://users.math.msu.edu/users/teena/Home.html
@@ -177,7 +177,7 @@ sections:
               sep: "." 
               start: ""
         - title: Syntomic cohomology of Morava K-theory
-          description: We compute the syntomic cohomology of any E_1-MU-algebra form of truncated Brown-Petrson spectra and connective Morava K-theory. As applications, we prove the telescope conjecture and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of these ring spectra. 
+          description: We compute the syntomic cohomology of any MU-algebra form of truncated Brown-Petrson spectra and connective Morava K-theory. As applications, we prove the telescope conjecture and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of these truncated Brown--Peterson spectra and Morava K-theory. 
           coauthors:
             - name: Jeremy Hahn
               url: https://web.mit.edu/~jhahn01/www/
