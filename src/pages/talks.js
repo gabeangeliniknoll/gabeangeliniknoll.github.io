@@ -20,7 +20,7 @@ const Talks = () => (
     <h1>Invited Talks</h1>
       <h2>2023</h2>
         <h3>June</h3>
-          <h4>TBD</h4>
+          <h4>Syntomic cohomology of Morava K-theory</h4>
           <p><font size="3"><a href="https://folk.ntnu.no/runegha/htpyintrd.html">Homotopy Theory in Trondheim</a>, Norwegian University of Science and Technology.</font></p>
         <h3>March</h3>
           <h4>Deformations of equivariant homotopy theory</h4>

@@ -26,7 +26,6 @@ const Research = () => (
           <p>Chromatic height of Algebraic K-theory of Lubin-Tate theory by Gabriel Angelini-Knoll</p>
         <h4>TBD</h4>
           <p>The main theorem: the higher height case by Christian Ausoni</p>
-       
   </Layout>
 )
 
