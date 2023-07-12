@@ -186,6 +186,10 @@ sections:
           coauthors:
             - name: Jeremy Hahn
               url: https://web.mit.edu/~jhahn01/www/
+              sep: " and "
+              start: "Joint with "
+            - name: Dylan Wilson
+              url: https://dylwil3.github.io/
               sep: "."
               start: "Joint with "
         - title: Homology of twisted G-rings
