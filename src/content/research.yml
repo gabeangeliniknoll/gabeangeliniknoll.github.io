@@ -21,7 +21,7 @@ sections:
             - name: Algebraic & Geometric Topology
               url: https://msp.org/agt/2020/20-4/
               sep: "."
-              start: "Accepted for publication in "
+              start: "To appear in "
         - title: Complex orientations of TP of complete DVRs
           description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a local field over a certain base ring.
           links:
