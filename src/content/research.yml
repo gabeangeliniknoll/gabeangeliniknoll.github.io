@@ -104,6 +104,24 @@ sections:
               start: "Published in "
     - title: Submitted Papers
       papers: 
+        - title: A deformation of Borel equivariant homotopy
+          description: We construct a deformation of the Borel G-equivariant stable homotopy category that recovers the a-complete Artin-Tate real motivic stable homotopy category of Burkland-Hahn-Senger. 
+          coauthors:  
+            - name: Mark Behrens
+              url: https://www3.nd.edu/~mbehren1/
+              sep: ", " 
+              start: "Joint with "
+            - name: Eva Belmont
+              url: https://mathweb.ucsd.edu/~ebelmont/
+              sep: ", and" 
+              start: ""
+            - name: Hana Jia Kong
+              url: https://hanajiakong.github.io/
+              sep: "." 
+              start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2308.01873
         - title: Algebraic K-theory of elliptic cohomology
           description: We compute mod p,v_1,v_2 homotopy of algebraic K-theory of the second truncated Brown-Peterson spectrum at primes p greator or equal to seven. 
           coauthors: 
@@ -166,22 +184,18 @@ sections:
               #    - {_uid: BUY6Drn9e5,paper: "limits",displayText: "pdf"}
     - title: In progress
       papers:
-        - title: A deformation of Borel equivariant homotopy
-          description: We construct a deformation of the Borel G-equivariant stable homotopy category that recovers the a-complete Artin-Tate real motivic stable homotopy category of Burkland-Hahn-Senger. 
-          coauthors:  
-            - name: Mark Behrens
-              url: https://www3.nd.edu/~mbehren1/
-              sep: ", " 
+        - title: Algebraic K-theory of real topological K-theory 
+          description: We compute algebraic K-theory of real topological K-theory after smashing with a finite complex at the prime 2 using syntomic cohomology. 
+          coauthors:
+            - name: Christian Ausoni
+              url: https://www.math.univ-paris13.fr/~ausoni/
+              sep: " and "
               start: "Joint with "
-            - name: Eva Belmont
-              url: https://mathweb.ucsd.edu/~ebelmont/
-              sep: ", and" 
+            - name: John Rognes 
+              url: https://www.mn.uio.no/math/personer/vit/rognes/
+              sep: "."
               start: ""
-            - name: Hana Jia Kong
-              url: https://hanajiakong.github.io/
-              sep: "." 
-              start: ""
-        - title: Syntomic cohomology of Morava K-theory
+        - title: Syntomic cohomology of Morava K-theory relative to complex cobordism 
           description: We compute the syntomic cohomology of any MU-algebra form of truncated Brown-Petrson spectra and connective Morava K-theory. As applications, we prove the telescope conjecture and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of these truncated Brown--Peterson spectra and Morava K-theory. 
           coauthors:
             - name: Jeremy Hahn
@@ -202,17 +216,6 @@ sections:
             - name: Maximilien Peroux
               url: https://www.maximilienperoux.com/
               sep: "." 
-              start: ""
-        - title: Algebraic K-theory of real topological K-theory 
-          description: We compute algebraic K-theory of real topological K-theory after smashing with a finite complex at the prime 2 using syntomic cohomology. 
-          coauthors:
-            - name: Christian Ausoni
-              url: https://www.math.univ-paris13.fr/~ausoni/
-              sep: " and "
-              start: "Joint with "
-            - name: John Rognes 
-              url: https://www.mn.uio.no/math/personer/vit/rognes/
-              sep: "."
               start: ""
         - title: Real syntomic cohomology 
           description: We study even filtrations in equivariant homotopy theory with applications to Real topological cyclic homology. In particular, we provide constructions of Real syntomic cohomology and Real prismatic cohomology. As an application, we study Real topological cyclic homology of Real topological K-theory.  
