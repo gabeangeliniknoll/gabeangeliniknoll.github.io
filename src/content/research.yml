@@ -205,7 +205,7 @@ sections:
             - name: Dylan Wilson
               url: https://dylwil3.github.io/
               sep: "."
-              start: "Joint with "
+              start: ""
         - title: Homology of twisted G-rings
           description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. The input of this construction is a twisted G-ring, which generalizes the notion of a ring with anti-involution. We compute this in the case of twisted G-monoid rings. 
           coauthors:  

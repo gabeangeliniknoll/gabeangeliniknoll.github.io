@@ -4,6 +4,12 @@ section:
     university: 
       - title: Univesité Sorbonne Paris Nord
         courses:
+          - semester: Fall 2023
+            class: 
+              - title: "Homotopy I"
+                description: A first course on Homotopy theory. Teaching assistant for a course taught by Prof. Christian Ausoni. 
+                url: https://master-math-fonda.imj-prg.fr/2022-23/fiches/Ausoni-fonda1.html
+                urldisplay: Course Website
           - semester: Winter/Spring 2023
             class:  
               - title: "The chromatic nullstellensatz"
