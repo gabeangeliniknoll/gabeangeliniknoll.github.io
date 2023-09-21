@@ -10,14 +10,17 @@ section:
                 description: A first course on Homotopy theory. Teaching assistant for a course taught by Prof. Christian Ausoni. 
                 url: https://master-math-fonda.imj-prg.fr/2022-23/fiches/Ausoni-fonda1.html
                 urldisplay: Course Website
+
+  - title: Past 
+    university:    
+      - title: Univesité Sorbonne Paris Nord
+        courses:
           - semester: Winter/Spring 2023
             class:  
               - title: "The chromatic nullstellensatz"
                 description: A seminar on the recent paper of Burkland-Schlank-Yuan. 
                 url: https://www.gangeliniknoll.com/cnull/
                 urldisplay: Website
-  - title: Past 
-    university: 
       - title: Freie Universität Berlin
         courses:
           - semester: Summer 2022

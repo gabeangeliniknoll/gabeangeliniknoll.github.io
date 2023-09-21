@@ -168,8 +168,6 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/1908.09164
-              # body:
-              #    - {_uid: BUY6Drn9e4,paper: "kyn",displayText: "pdf"}
         - title: Commuting unbounded homotopy limits with Morava K-theory
           description: We give conditions for Morava K-theory to commute with certain homotopy limits with an eye towards applications to topoligical periodic cyclic homology and algebraic K-theory. As an application, we prove a version of Mitchell's theorem for truncated Brown-Peterson spectra.
           coauthors:  
@@ -180,10 +178,6 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2003.03510
-              # body:
-              #    - {_uid: BUY6Drn9e5,paper: "limits",displayText: "pdf"}
-    - title: In progress
-      papers:
         - title: Algebraic K-theory of real topological K-theory 
           description: We compute algebraic K-theory of real topological K-theory after smashing with a finite complex at the prime 2 using syntomic cohomology. 
           coauthors:
@@ -195,6 +189,11 @@ sections:
               url: https://www.mn.uio.no/math/personer/vit/rognes/
               sep: "."
               start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2309.11463
+    - title: In progress
+      papers:
         - title: Syntomic cohomology of Morava K-theory relative to complex cobordism 
           description: We compute the syntomic cohomology of any MU-algebra form of truncated Brown-Petrson spectra and connective Morava K-theory. As applications, we prove the telescope conjecture and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of these truncated Brown--Peterson spectra and Morava K-theory. 
           coauthors:
