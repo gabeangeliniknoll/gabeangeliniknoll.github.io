@@ -6,9 +6,9 @@ section:
         courses:
           - semester: Fall 2023
             class: 
-              - title: "Homotopy I"
-                description: A first course on Homotopy theory. Teaching assistant for a course taught by Prof. Christian Ausoni. 
-                url: https://master-math-fonda.imj-prg.fr/2022-23/fiches/Ausoni-fonda1.html
+              - title: "Topolgie et Geometrie"
+                description: Introduction to topology and algebraic topology. Teaching assistant for a course taught by Prof. Christian Ausoni. 
+                url: 
                 urldisplay: Course Website
 
   - title: Past 
