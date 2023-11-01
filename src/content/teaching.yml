@@ -6,9 +6,9 @@ section:
         courses:
           - semester: Fall 2023
             class: 
-              - title: "Topolgie et Geometrie"
+              - title: "Geometry and topology"
                 description: Introduction to topology and algebraic topology. Teaching assistant for a course taught by Prof. Christian Ausoni. 
-                url: 
+                url: https://www.math.univ-paris13.fr/~ausoni/cours-m1-2023.html
                 urldisplay: Course Website
 
   - title: Past 
