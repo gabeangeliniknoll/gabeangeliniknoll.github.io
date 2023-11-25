@@ -26,11 +26,11 @@ sections:
             - display: arXiv
               url: https://arxiv.org/abs/2204.05890
             - display: published
-              url: https://msp.org/gt/2023/27-8/
-              body:
+              url: https://msp.org/soon/coming.php?jpath=gt
+              body: 
           journal: 
             - name: Geometric and Topology
-              url: https://msp.org/soon/coming.php?jpath=gt
+              url: https://msp.org/gt/2023/27-8/
               sep: "."
               start: "To appear in "
         - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum I
