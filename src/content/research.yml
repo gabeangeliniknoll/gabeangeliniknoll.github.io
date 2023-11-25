@@ -25,6 +25,9 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2204.05890
+            - display: published
+              url: https://msp.org/gt/2023/27-8/
+              body:
           journal: 
             - name: Geometric and Topology
               url: https://msp.org/soon/coming.php?jpath=gt
@@ -44,9 +47,12 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2106.06785
+            - display: published
+              url: https://msp.org/soon/coming.php?jpath=agt
+              body:
           journal: 
             - name: Algebraic & Geometric Topology
-              url: https://msp.org/soon/coming.php?jpath=agt
+              url: https://msp.org/agt/about/journal/about.html
               sep: "."
               start: "To appear in "
         - title: Complex orientations of TP of complete DVRs
