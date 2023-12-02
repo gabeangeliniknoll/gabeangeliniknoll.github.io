@@ -3,6 +3,36 @@ pageDescription: My work focuses on invariants of ring spectra that shed light o
 sections: 
     - title: Published and Accepted papers
       papers: 
+        - title: Algebraic K-theory of elliptic cohomology
+          description: We compute mod p,v_1,v_2 homotopy of algebraic K-theory of the second truncated Brown-Peterson spectrum at primes p greator or equal to seven. 
+          coauthors: 
+            - name: Christian Ausoni
+              url: https://www.math.univ-paris13.fr/~ausoni/
+              sep: ", "
+              start: "Joint with "
+            - name: Dominic Leon Culver
+              url: https://dlculver.github.io/
+              sep: ", "
+              start: ""
+            - name: Eva Höning
+              url: https://evahoening.netlify.app/
+              sep: ", and"
+              start: ""
+            - name: John Rognes 
+              url: https://www.mn.uio.no/math/personer/vit/rognes/
+              sep: "."
+              start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2204.05890
+            - display: published
+              url: https://msp.org/soon/coming.php?jpath=gt
+              body: 
+          journal: 
+            - name: Geometric and Topology
+              url: https://msp.org/gt/2023/27-8/
+              sep: "."
+              start: "To appear in "
         - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum I
           description: We compute topological Hochschild homology of forms of the second truncated Brown-Peterson spectrum with coefficients in connective Morava K-theory. We also compute topological Hochschild homology of forms of arbitrary truncated Brown-Peterson spectra with coefficients in the p-local integers.
           coauthors: 
@@ -17,9 +47,12 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2106.06785
+            - display: published
+              url: https://msp.org/soon/coming.php?jpath=agt
+              body:
           journal: 
             - name: Algebraic & Geometric Topology
-              url: https://msp.org/agt/2020/20-4/
+              url: https://msp.org/agt/about/journal/about.html
               sep: "."
               start: "To appear in "
         - title: Complex orientations of TP of complete DVRs
@@ -122,28 +155,7 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2308.01873
-        - title: Algebraic K-theory of elliptic cohomology
-          description: We compute mod p,v_1,v_2 homotopy of algebraic K-theory of the second truncated Brown-Peterson spectrum at primes p greator or equal to seven. 
-          coauthors: 
-            - name: Christian Ausoni
-              url: https://www.math.univ-paris13.fr/~ausoni/
-              sep: ", "
-              start: "Joint with "
-            - name: Dominic Leon Culver
-              url: https://dlculver.github.io/
-              sep: ", "
-              start: ""
-            - name: Eva Höning
-              url: https://evahoening.netlify.app/
-              sep: ", and"
-              start: ""
-            - name: John Rognes 
-              url: https://www.mn.uio.no/math/personer/vit/rognes/
-              sep: "."
-              start: ""
-          links:
-            - display: arXiv
-              url: https://arxiv.org/abs/2204.05890
+
         - title: Real Topological Hochschild homology via the norm and Real Witt vectors
           description: We interpret Real topological Hochschild homology as the norm for the orthogonal group of two-by-two-matrices. We then prove a multiplicative double coset formula. Using this we define Real Hochschild homology and Witt vectors for rings with anti-involution. 
           coauthors:  
