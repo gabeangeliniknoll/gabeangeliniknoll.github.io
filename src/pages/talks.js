@@ -20,8 +20,8 @@ const Talks = () => (
     <h1>Invited Talks</h1>
       <h2>2024</h2>
         <h3>March</h3>
-          <h4>TBD</h4>
-          <p><font size="3"><a href="https://math.mit.edu/topology/index.html">Topology Seminar</a>, Massachusetts Institute of Technologyit .</font></p>
+          <h4>Syntomic cohomology of real topological K-theory</h4>
+          <p><font size="3"><a href="https://math.mit.edu/topology/index.html">Topology Seminar</a>, Massachusetts Institute of Technology.</font></p>
       <h2>2023</h2>
         <h3>November</h3>
           <h4>Syntomic cohomology of real topological K-theory</h4>
