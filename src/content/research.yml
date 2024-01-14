@@ -29,7 +29,7 @@ sections:
               url: https://msp.org/soon/coming.php?jpath=gt
               body: 
           journal: 
-            - name: Geometric and Topology
+            - name: Geometry & Topology
               url: https://msp.org/gt/2023/27-8/
               sep: "."
               start: "To appear in "
