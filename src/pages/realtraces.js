@@ -1,15 +1,15 @@
 import React from "react"
-import Layout from "../components/layout"
+//import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-import Knotes from "./knotes"
+//import Knotes from "./knotes"
 
 // YAML Data file
-import YAMLData from "../content/knotes.yml"
+import YAMLData from "../content/realtraces.yml"
 
 const Research = () => (
   <Layout>
-    <SEO title="Algebraic K-theory" />
+    <SEO title="Real algebraic K-theory and traces" />
     <h1>{YAMLData.page}</h1>
     <p>{YAMLData.pageDescription}<span> </span><a href={YAMLData.url} target="_blank" rel="noopener noreferrer">{`${YAMLData.urlText}`}</a>.</p>
      {YAMLData.sections.map((s, i) => (
