@@ -1,5 +1,5 @@
 import React from "react"
-//import Layout from "../components/layout"
+import Layout from "../components/layout2"
 import SEO from "../components/seo"
 
 //import Knotes from "./knotes"
