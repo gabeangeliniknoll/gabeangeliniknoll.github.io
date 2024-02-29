@@ -19,6 +19,9 @@ const Talks = () => (
     <SEO title="Talks" />
     <h1>Invited Talks</h1>
       <h2>2024</h2>
+        <h3>April</h3>
+          <h4>Syntomic cohomology of real topological K-theory</h4>
+          <p><font size="3"><a href="https://www.math.uni-bonn.de/ag/topo/seminar">Topology Seminar</a>, University of Bonn.</font></p>
         <h3>March</h3>
           <h4>Syntomic cohomology of real topological K-theory</h4>
           <p><font size="3"><a href="https://math.mit.edu/topology/index.html">Topology Seminar</a>, Massachusetts Institute of Technology.</font></p>
