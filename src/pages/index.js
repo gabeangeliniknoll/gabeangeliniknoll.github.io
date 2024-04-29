@@ -26,6 +26,8 @@ const IndexPage = () => (
     </div> 
     <div clear="both"></div>
     <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
+    <h2>Current Events</h2>
+    <p>I am currently co-organizing a conference on Real algebraic K-theory and Traace methods in Paris - Aubervilliers to take place May 27 - 31 2024. Website and registration available at this <a href="https://www.math.univ-paris13.fr/~harpaz/realk/">website</a>.</p>
     <h2>Contact</h2>
       <h3>Pronouns:</h3>
         <p>He/Him/His</p>
