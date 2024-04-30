@@ -24,7 +24,7 @@ const IndexPage = () => (
     <div style={{marginLeft: `70%`, maxWidth: `30%`, marginBottom: `1.45rem` }} > 
      <Image />
     </div> 
-    <div clear="both"></div>t s
+    <div clear="both"></div>
     <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
     <h2>Current Events</h2>
     <p>I am currently co-organizing a conference on <a href="https://www.math.univ-paris13.fr/~harpaz/realk/">Real algebraic K-theory and Trace methods</a> in Paris - Aubervilliers to take place May 27 - 31 2024.</p>
