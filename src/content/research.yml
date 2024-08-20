@@ -48,7 +48,7 @@ sections:
             - display: arXiv
               url: https://arxiv.org/abs/2106.06785
             - display: published
-              url: https://msp.org/soon/coming.php?jpath=agt
+              url: https://msp.org/agt/2024/24-5/p03.xhtml
               body:
           journal: 
             - name: Algebraic & Geometric Topology
