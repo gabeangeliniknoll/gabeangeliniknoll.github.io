@@ -17,32 +17,36 @@ section:
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/PS-S_Algebra_So21.html
                 urldisplay: Course Website
           - semester: Summer 2022
+            class:
               - title: "Cyclic Homology"
                 description: A seminar course on cyclic homology, free loop spaces, and generalized Chern characters for graduate students. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/PS-S_Algebra_So21.html
                 urldisplay: Course Website
-        - semester: Winter 2020/21
+          - semester: Winter 2020/21
             class: 
               - title: "Algebraic K-Theory"
                 description: A course on algebraic K-theory, fundamental theorems, and applications for graduate students.
                 url: https://www.gangeliniknoll.com/algebraicktheory/
                 urldisplay: Course Website
+          - semester: Winter 2020/21
+            class: 
               - title: "Equivariant stable homotopy theory"
                 description: A seminar course introducing equivariant stable homotopy theory for graduate students. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_ws2020.html
                 urldisplay: Course Website
-        - semester: Summer 2020
+          - semester: Summer 2020
             class: 
               - title: "Homology and Cohomology of Groups"
                 description: A seminar course introducing group cohomology for graduate students. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_So2020.html
                 urldisplay: Course Website
-         - semester: Winter 2019/20
+          - semester: Winter 2019/20
             class: 
               - title: "Simplicial Methods in Topology"
                 description: A seminar course on simplicial sets for undergraduate and masters students
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2019ws_S_Topologie.html
                 urldisplay: Course Website  
+  - title: Primary Instructor
     university: 
       - title: Michigan State University
         courses: 
@@ -74,6 +78,7 @@ section:
                 description: A first course in calculus for Business and Life Sciences majors
                 url: ""
                 urldisplay: ""
+  - title: Primary Instructor
     university: 
       - title: Wayne State University
         courses: 
@@ -139,6 +144,7 @@ section:
                   description: Introduction to topology and algebraic topology.
                   url: https://www.math.univ-paris13.fr/~ausoni/cours-m1-2023.html
                   urldisplay: Course Website
+  - title: Secondary Instructor
     university:
         - title: Freie Universität Berlin
           courses:
@@ -148,17 +154,19 @@ section:
                   description: A course on stable higher categories and their use in stable homotopy theory and algebraic geometry.  
                   url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021ws_HigherAlgebra2.html
                   urldisplay: Course Website
-           - title: "Higher Algebra"
-                description: A course on higher categories and higher operads.  
-                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021so_HigherAlgebra.html
-                urldisplay: Course Website
-          - semester: Summer 2020
-            class: 
+            - semester: Winter 2021/22
+              class: 
+                - title: "Higher Algebra"
+                  description: A course on higher categories and higher operads.  
+                  url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021so_HigherAlgebra.html
+                  urldisplay: Course Website
+            - semester: Summer 2020
+              class: 
               - title: "Topologie III"
                 description: A course on 
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2020so_Topologie3.html
                 urldisplay: Course Website
-           - semester: Winter 2019/20
+            - semester: Winter 2019/20
               class: 
               - title: "Topologie II"
                 description: 
@@ -174,6 +182,7 @@ section:
                 description: A seminar on the recent paper of Burkland-Schlank-Yuan. 
                 url: https://www.gangeliniknoll.com/cnull/
                 urldisplay: Website
+  - title: Working group organizer
     university:
       - title: Freie Universität Berlin
         courses:
@@ -184,11 +193,13 @@ section:
                 url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2022So-geom.html
                 urldisplay: Course Website
           - semester: Winter 2021/22
+            class:
               - title: "Geometry and Topology research seminar"
                 description: A research seminar with internal speakers and visiting speakers. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2021So-geom.html
                 urldisplay: Course Website
           - semester: Winter 2020/21
+            class:
               - title: "Higher Symmetry"
                 description: A research seminar on equivariant homotopy theory and higher categories.
                 url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html
@@ -205,16 +216,14 @@ section:
                 description: A research seminar on chromatic homotopy theory from an algebraic geometry perspective. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019WS-geom.html
                 urldisplay: Course Website
+  - title: Working group organizer
     university:
       - title: Michigan State University
         courses:
-           - semester: Winter 2019/20
-              class: 
+          - semester: Winter 2019/20
+            class: 
               - title: "Algebraic K-theory"
-                description: A research seminar on algenbraic K-theory aimed at undergraduates in algebraic geometry and topology.  
-                url: 
-                urldisplay: 
-
+                description: A research seminar on algenbraic K-theory aimed at undergraduates in algebraic geometry and topology. 
       
 
   
