@@ -1,104 +1,49 @@
 page: Teaching
 section: 
-  - title: Current
+  - title: Primary Instructor 
     university: 
-      - title: Univesité Sorbonne Paris Nord
-        courses:
-          - semester: Fall 2023
-            class: 
-              - title: "Geometry and topology"
-                description: Introduction to topology and algebraic topology. Teaching assistant for a course taught by Prof. Christian Ausoni. 
-                url: https://www.math.univ-paris13.fr/~ausoni/cours-m1-2023.html
-                urldisplay: Course Website
-
-  - title: Past 
-    university:    
-      - title: Univesité Sorbonne Paris Nord
-        courses:
-          - semester: Winter/Spring 2023
-            class:  
-              - title: "The chromatic nullstellensatz"
-                description: A seminar on the recent paper of Burkland-Schlank-Yuan. 
-                url: https://www.gangeliniknoll.com/cnull/
-                urldisplay: Website
       - title: Freie Universität Berlin
         courses:
           - semester: Summer 2022
             class:  
               - title: "Topology I"
-                description: An introduction to algebraic topology and point-set topology.   
+                description: An introduction to algebraic topology and point-set topology for undergraduate students.   
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2022so_Topologie1.html
-                urldisplay: Course Website
-              - title: "Forschungsseminar Geometrie und Topologie: Hermitian K-theory"
-                description: A seminar on surgery theory and quadratic forms. 
-                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2022So-geom.html
-                urldisplay: Course Website
-          - semester: Winter 2021/22
-            class:  
-              - title: "Higher Algebra II"
-                description: A course on stable higher categories and their use in stable homotopy theory and algebraic geometry.  Co-teaching with Prof. Dr. Holger Reich. 
-                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021ws_HigherAlgebra2.html
-                urldisplay: Course Website
-              - title: "Forschungsmodul Topologie: Cyclic Homology"
-                description: A seminar on cyclic homology, free loop spaces, and generalized Chern characters. 
-                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/PS-S_Algebra_So21.html
                 urldisplay: Course Website
           - semester: Summer 2021
             class:  
-              - title: "Pro-semimar on Algebra - Symmetries"
-                description: A seminar on group actions and symmetries for undergraduate students.
+              - title: "Symmetries"
+                description: A seminar course on group actions and symmetries for undergraduate students.
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/PS-S_Algebra_So21.html
                 urldisplay: Course Website
-              - title: "Higher Algebra"
-                description: A course on higher categories and higher operads.  Led exercise sessions for Prof. Dr. Holger Reich.
-                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021so_HigherAlgebra.html
+          - semester: Summer 2022
+              - title: "Cyclic Homology"
+                description: A seminar course on cyclic homology, free loop spaces, and generalized Chern characters for graduate students. 
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/PS-S_Algebra_So21.html
                 urldisplay: Course Website
-              - title: "Forschungsseminar Geometrie und Topologie"
-                description: A research seminar with internal speakers and visiting speakers. 
-                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2021So-geom.html
-                urldisplay: Course Website
-          - semester: Winter 2020/21
+        - semester: Winter 2020/21
             class: 
               - title: "Algebraic K-Theory"
                 description: A course on algebraic K-theory, fundamental theorems, and applications for graduate students.
                 url: https://www.gangeliniknoll.com/algebraicktheory/
                 urldisplay: Course Website
-              - title: "Forschungsmodul Topologie: Equivariant stable homotopy theory"
-                description: A seminar course introducing equivariant stable homotopy theory. Organizing with Prof. Dr. Elmar Vogt.
+              - title: "Equivariant stable homotopy theory"
+                description: A seminar course introducing equivariant stable homotopy theory for graduate students. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_ws2020.html
                 urldisplay: Course Website
-              - title: "Forschungsseminar Geometrie und Topologie: Higher Symmetry"
-                description: A research seminar on equivariant homotopy theory and higher categories.
-                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html
-                urldisplay: Course Website
-          - semester: Summer 2020
+        - semester: Summer 2020
             class: 
-              - title: "Aufbaumodul: Topologie III"
-                description: Led exercise sessions for Prof. Dr. Holger Reich.
-                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2020so_Topologie3.html
-                urldisplay: Course Website
-              - title: "Forschungsmodul Topologie: Homology and Cohomology of Groups"
-                description: A seminar course introducing group cohomology. Organized with Prof. Dr. Elmar Vogt.
+              - title: "Homology and Cohomology of Groups"
+                description: A seminar course introducing group cohomology for graduate students. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_So2020.html
                 urldisplay: Course Website
-              - title: "Forschungsseminar Geometrie und Topologie: K-theory of pullbacks"
-                description: A research seminar on advances in algebraic K-theory of pullbacks of rings.
-                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019WS-geom.html
-                urldisplay: Course Website
-          - semester: Winter 2019/20
+         - semester: Winter 2019/20
             class: 
-              - title: "Basismodul: Topologie II"
-                description: Led exercise sessions for Prof. Dr. Holger Reich.
-                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2019ws_Topologie2.html
-                urldisplay: Course Website
-              - title: "Seminar zur Topologie: Simplicial Methods in Topology"
-                description: Co-organizing with Prof. Dr. Elmar Vogt. 
+              - title: "Simplicial Methods in Topology"
+                description: A seminar course on simplicial sets for undergraduate and masters students
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2019ws_S_Topologie.html
                 urldisplay: Course Website  
-              - title: "Forschungsseminar Geometrie und Topologie: Chromatic homotopy theory"
-                description: A research seminar on chromatic homotopy theory from an algebraic geometry perspective. 
-                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019WS-geom.html
-                urldisplay: Course Website
+    university: 
       - title: Michigan State University
         courses: 
           - semester: Spring 2019
@@ -129,6 +74,7 @@ section:
                 description: A first course in calculus for Business and Life Sciences majors
                 url: ""
                 urldisplay: ""
+    university: 
       - title: Wayne State University
         courses: 
           - semester: Fall 2015
@@ -182,6 +128,93 @@ section:
               - title: Math in Today's World
                 description: A quantitative literacy course on probabilty, statistics, and voting methods with real world applications.
                 url: ""
-                urldisplay: ""
+                urldisplay: "" 
+  - title: Secondary Instructor
+    university: 
+        - title: Univesité Sorbonne Paris Nord
+          courses:
+            - semester: Fall 2023
+              class: 
+                - title: "Geometry and topology"
+                  description: Introduction to topology and algebraic topology.
+                  url: https://www.math.univ-paris13.fr/~ausoni/cours-m1-2023.html
+                  urldisplay: Course Website
+    university:
+        - title: Freie Universität Berlin
+          courses:
+            - semester: Winter 2021/22
+              class:  
+                - title: "Higher Algebra II"
+                  description: A course on stable higher categories and their use in stable homotopy theory and algebraic geometry.  
+                  url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021ws_HigherAlgebra2.html
+                  urldisplay: Course Website
+           - title: "Higher Algebra"
+                description: A course on higher categories and higher operads.  
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021so_HigherAlgebra.html
+                urldisplay: Course Website
+          - semester: Summer 2020
+            class: 
+              - title: "Topologie III"
+                description: A course on 
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2020so_Topologie3.html
+                urldisplay: Course Website
+           - semester: Winter 2019/20
+              class: 
+              - title: "Topologie II"
+                description: 
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2019ws_Topologie2.html
+                urldisplay: Course Website
+  - title: Working group organizer
+    university:    
+      - title: Univesité Sorbonne Paris Nord
+        courses:
+          - semester: Winter/Spring 2023
+            class:  
+              - title: "The chromatic nullstellensatz"
+                description: A seminar on the recent paper of Burkland-Schlank-Yuan. 
+                url: https://www.gangeliniknoll.com/cnull/
+                urldisplay: Website
+    university:
+      - title: Freie Universität Berlin
+        courses:
+          - semester: Summer 2022
+            class:  
+              - title: "Hermitian K-theory"
+                description: A seminar on surgery theory and quadratic forms. 
+                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2022So-geom.html
+                urldisplay: Course Website
+          - semester: Winter 2021/22
+              - title: "Geometry and Topology research seminar"
+                description: A research seminar with internal speakers and visiting speakers. 
+                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2021So-geom.html
+                urldisplay: Course Website
+          - semester: Winter 2020/21
+              - title: "Higher Symmetry"
+                description: A research seminar on equivariant homotopy theory and higher categories.
+                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html
+                urldisplay: Course Website
+          - semester: Summer 2020
+            class:
+              - title: "K-theory of pullbacks"
+                description: A research seminar on advances in algebraic K-theory of pullbacks of rings.
+                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019WS-geom.html
+                urldisplay: Course Website
+          - semester: Winter 2019/20
+            class: 
+              - title: "Chromatic homotopy theory"
+                description: A research seminar on chromatic homotopy theory from an algebraic geometry perspective. 
+                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019WS-geom.html
+                urldisplay: Course Website
+    university:
+      - title: Michigan State University
+        courses:
+           - semester: Winter 2019/20
+              class: 
+              - title: "Algebraic K-theory"
+                description: A research seminar on algenbraic K-theory aimed at undergraduates in algebraic geometry and topology.  
+                url: 
+                urldisplay: 
+
+      
 
   
