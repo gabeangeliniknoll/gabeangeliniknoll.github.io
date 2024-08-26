@@ -43,7 +43,7 @@ section:
           - semester: Winter 2019/20
             class: 
               - title: "Simplicial Methods in Topology"
-                description: A seminar course on simplicial sets for undergraduate and masters students
+                description: A seminar course on simplicial sets for undergraduate students. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2019ws_S_Topologie.html
                 urldisplay: Course Website  
       - title: Michigan State University
@@ -51,7 +51,7 @@ section:
           - semester: Spring 2019
             class: 
               - title: Algebraic Topology II
-                description: Curriculum designer and instructor for a course covering homotopy theory, spectral sequences, and characteristic classes.
+                description: A course on homotopy theory, spectral sequences, and characteristic classes for graduate students.
                 url: ""
                 urldisplay: ""
           - semester: Fall 2018
@@ -63,17 +63,17 @@ section:
           - semester: Spring 2018
             class: 
               - title: Abstract Algebra I and Number Theory 
-                description: A first course in basic number theory and ring theory.
+                description: A first course in basic number theory and ring theory for undergraduate students.
                 url: ""
                 urldisplay: ""
           - semester: Fall 2017
             class:
               - title: Business Calculus Section 001
-                description: A first course in calculus for Business and Life Sciences majors
+                description: A first course in calculus for Business and Life Sciences majors.
                 url: ""
                 urldisplay: ""
               - title: Business Calculus Section 013
-                description: A first course in calculus for Business and Life Sciences majors
+                description: A first course in calculus for Business and Life Sciences majors. 
                 url: ""
                 urldisplay: ""
       - title: Wayne State University
@@ -81,25 +81,25 @@ section:
           - semester: Fall 2015
             class:
               - title: College Algebra
-                description: An introductory course in college algebra and trigonometry.
+                description: An introductory course in college algebra and trigonometry for undergraduates.
                 url: ""
                 urldisplay: ""
           - semester: Winter 2015
             class:
               - title: College Algebra
-                description: An introductory course in college algebra and trigonometry.
+                description: An introductory course in college algebra and trigonometry for undergraduates.
                 url: ""
                 urldisplay: ""
           - semester: Winter 2014
             class: 
               - title: College Algebra
-                description: An introductory course in college algebra and trigonometry.
+                description: An introductory course in college algebra and trigonometry for undergraduates.
                 url: ""
                 urldisplay: ""
           - semester: Fall 2013
             class: 
               - title: Elementary Functions
-                description: A course to prepare students for calculus.
+                description: A course to prepare undergraduate students for calculus.
                 url: ""
                 urldisplay: ""
           - semester: Summer 2013
@@ -115,13 +115,13 @@ section:
           - semester: Winter 2013
             class: 
               - title: Elementary Functions
-                description: A course to prepare students for calculus.
+                description: A course to prepare undergradute students for calculus.
                 url: ""
                 urldisplay: ""
           - semester: Fall 2012
             class: 
               - title: Elementary Functions
-                description: A course to prepare students for calculus.
+                description: A course to prepare undergraduate students for calculus.
                 url: ""
                 urldisplay: ""
           - semester: Summer 2012
@@ -137,7 +137,7 @@ section:
             - semester: Fall 2023
               class: 
                 - title: "Geometry and topology"
-                  description: Introduction to topology and algebraic topology.
+                  description: An introduction to algebraic topology for undergraduate students.
                   url: https://www.math.univ-paris13.fr/~ausoni/cours-m1-2023.html
                   urldisplay: Course Website
         - title: Freie Universität Berlin
@@ -145,25 +145,25 @@ section:
             - semester: Winter 2021/22
               class:  
                 - title: "Higher Algebra II"
-                  description: A course on stable higher categories and their use in stable homotopy theory and algebraic geometry.  
+                  description: A course on infinity operads for graduate students.  
                   url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021ws_HigherAlgebra2.html
                   urldisplay: Course Website
             - semester: Winter 2021/22
               class: 
                 - title: "Higher Algebra"
-                  description: A course on higher categories and higher operads.  
+                  description: A course on infinity categories for graduate students.  
                   url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021so_HigherAlgebra.html
                   urldisplay: Course Website
             - semester: Summer 2020
               class: 
               - title: "Topologie III"
-                description: A course on 
+                description: A course on homotopy theory for graduate students. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2020so_Topologie3.html
                 urldisplay: Course Website
             - semester: Winter 2019/20
               class: 
               - title: "Topologie II"
-                description: 
+                description: An course on homology and cohomology for graduate students. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2019ws_Topologie2.html
                 urldisplay: Course Website
   - title: Working group organizer
@@ -173,7 +173,7 @@ section:
           - semester: Winter/Spring 2023
             class:  
               - title: "The chromatic nullstellensatz"
-                description: A seminar on the recent paper of Burkland-Schlank-Yuan. 
+                description: A working group on the recent advances in chromatic homotopy theory and algebraic K-theory. 
                 url: https://www.gangeliniknoll.com/cnull/
                 urldisplay: Website
       - title: Freie Universität Berlin
@@ -187,7 +187,7 @@ section:
           - semester: Winter 2021/22
             class:
               - title: "Geometry and Topology research seminar"
-                description: A research seminar with internal speakers and visiting speakers. 
+                description: A research seminar with visiting speakers and internal speakers. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2021So-geom.html
                 urldisplay: Course Website
           - semester: Winter 2020/21
@@ -199,7 +199,7 @@ section:
           - semester: Summer 2020
             class:
               - title: "K-theory of pullbacks"
-                description: A research seminar on advances in algebraic K-theory of pullbacks of rings.
+                description: A research seminar on recent advances in algebraic K-theory.
                 url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019WS-geom.html
                 urldisplay: Course Website
           - semester: Winter 2019/20
@@ -213,4 +213,4 @@ section:
           - semester: Winter 2019/20
             class: 
               - title: "Algebraic K-theory"
-                description: A research seminar on algenbraic K-theory aimed at undergraduates in algebraic geometry and topology. 
+                description: A research seminar on algenbraic K-theory for graduate students in algebraic geometry and topology. 
