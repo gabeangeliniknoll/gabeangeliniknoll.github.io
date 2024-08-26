@@ -46,8 +46,6 @@ section:
                 description: A seminar course on simplicial sets for undergraduate and masters students
                 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2019ws_S_Topologie.html
                 urldisplay: Course Website  
-  - title: Primary Instructor
-    university: 
       - title: Michigan State University
         courses: 
           - semester: Spring 2019
@@ -78,8 +76,6 @@ section:
                 description: A first course in calculus for Business and Life Sciences majors
                 url: ""
                 urldisplay: ""
-  - title: Primary Instructor
-    university: 
       - title: Wayne State University
         courses: 
           - semester: Fall 2015
@@ -144,8 +140,6 @@ section:
                   description: Introduction to topology and algebraic topology.
                   url: https://www.math.univ-paris13.fr/~ausoni/cours-m1-2023.html
                   urldisplay: Course Website
-  - title: Secondary Instructor
-    university:
         - title: Freie Universität Berlin
           courses:
             - semester: Winter 2021/22
@@ -182,8 +176,6 @@ section:
                 description: A seminar on the recent paper of Burkland-Schlank-Yuan. 
                 url: https://www.gangeliniknoll.com/cnull/
                 urldisplay: Website
-  - title: Working group organizer
-    university:
       - title: Freie Universität Berlin
         courses:
           - semester: Summer 2022
@@ -216,14 +208,9 @@ section:
                 description: A research seminar on chromatic homotopy theory from an algebraic geometry perspective. 
                 url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019WS-geom.html
                 urldisplay: Course Website
-  - title: Working group organizer
-    university:
       - title: Michigan State University
         courses:
           - semester: Winter 2019/20
             class: 
               - title: "Algebraic K-theory"
                 description: A research seminar on algenbraic K-theory aimed at undergraduates in algebraic geometry and topology. 
-      
-
-  
