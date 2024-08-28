@@ -46,7 +46,7 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
-      <ul style={{ listStyle: `none`, float: `inline-end`, display: `flex`}}>
+      <ul style={{ listStyle: `none`, display: `contents`}}>
         <ListLink to="/">Home</ListLink>
         <ListLink to="/research/">Research</ListLink>
         <ListLink to="/teaching/">Teaching</ListLink>
