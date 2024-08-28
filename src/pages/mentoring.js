@@ -7,31 +7,31 @@ const Mentoring = () => (
     <SEO title="Mentoring" />
     <h2>Masters student thesis direction</h2>
       <h3>Jingyuan Zhu</h3>
-       <h4>Title: Equivariant $\infty$-Categories and Real Topological Hochschild Homology</h4> 
-       <p>Co-supervised with Geoffroy Horel, Université Paris Saclay, 2024</p>
+       <h4>Equivariant infinity categories and Real topological Hochschild homology</h4> 
+       <p>Co-supervised with Geoffroy Horel, Universit<span>&eacute;</span> Paris Saclay, 2024</p>
       <h3>Lucas Piessevaux</h3>
         <h4>Deformations of stable homotopy</h4>
-        <p>Freie Universit\"at Berlin, 2022</p>
+        <p>Freie Universit<span>&#228;</span>t Berlin, 2022</p>
       <h3>Ferry Saavedra</h3>
         <h4>On generalized Tate cohomology</h4>
-        <p>Co-supervised with Holger Reich, Freie Universit\"at Berlin, 2022.</p>
+        <p>Co-supervised with Holger Reich, Freie Universit<span>&#228;</span>t Berlin, 2022.</p>
       <h3>Daniel Krupa</h3>
         <h4> Infty categories and K-theory</h4>
-        <p>Co-supervised with Holger Reich, Freie Universit\"at Berlin, 2021</p>
+        <p>Co-supervised with Holger Reich, Freie Universit<span>&#228;</span>t Berlin, 2021</p>
     <h2>Undergraduate student thesis direction</h2>
       <h3>Sebastian Schneider</h3>
         <h4>Algebra via Lawverre theories</h4>
-        <p>Freie Universit\"at Berlin, 2022</p>
+        <p>Freie Universit<span>&#228;</span>t Berlin, 2022</p>
       <h3>Vittorio Di Fraia</h3>
         <h4>Variation on the Little Cubes Operads
         and Involution Algebra Objects</h4>
-        <p>Co-supervised with Holger Reich and John M. Sullivan, Freie Universit\"at Berlin, 2021</p>
+        <p>Co-supervised with Holger Reich and John M. Sullivan, Freie Universit<span>&#228;</span>t Berlin, 2021</p>
     <h2>Research Experiences for Undergraduates</h2>
-      <h4>SURIEM, nationwide REU for early career undergraduates</h4>
-        <h3>Project mentor for a project on gneralized Catalan numbers and action graphs</h3> 
+      <h3>SURIEM, nationwide REU</h4>
+        <h4>Project mentor for a project on gneralized Catalan numbers and action graphs aimed at early career undergraduates</h4> 
         <p>Michigan State University, 2019</p>
-      <h4>Mathematics Exchange Program, International REU</h4>  
-        <h3>Project mentor with Teena Gerhardt for a project on Coagbras.</h3>
+      <h3>Mathematics Exchange Program, International REU</h3>  
+        <h4>Project mentor with Teena Gerhardt for a project on Coagbras.</h4>
         <p>Michigan State University, 2019</p>
   </Layout>
 )

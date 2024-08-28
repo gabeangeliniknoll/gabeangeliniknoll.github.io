@@ -24,7 +24,7 @@ const Talks = () => (
           <p><font size="3"><a href="https://sites.google.com/view/nialltaggartmath/seminars-events/topics">Topology Intercity Seminar</a>, Radboud University, Nijmegen</font></p>
         <h3>July</h3>
           <h4>Syntomic cohomology of ring spectra</h4>
-          <p><font size="3">https://www.mfo.de/occasion/2430/www_view<a href="">Topologie</a>, Oberwolfach.</font></p>
+          <p><font size="3"><a href="https://www.mfo.de/occasion/2430/www_view">Topologie</a>, Oberwolfach.</font></p>
         <h3>April</h3>
           <h4>Syntomic cohomology of real topological K-theory</h4>
           <p><font size="3"><a href="https://www.math.uni-bonn.de/ag/topo/seminar">Topology Seminar</a>, University of Bonn.</font></p>
