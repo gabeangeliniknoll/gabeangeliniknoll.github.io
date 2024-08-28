@@ -54,7 +54,7 @@ sections:
             - name: Algebraic & Geometric Topology
               url: https://msp.org/agt/about/journal/about.html
               sep: "."
-              start: "To appear in "
+              start: "Published in "
         - title: Complex orientations of TP of complete DVRs
           description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a local field over a certain base ring.
           links:
@@ -155,7 +155,6 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2308.01873
-
         - title: Real Topological Hochschild homology via the norm and Real Witt vectors
           description: We interpret Real topological Hochschild homology as the norm for the orthogonal group of two-by-two-matrices. We then prove a multiplicative double coset formula. Using this we define Real Hochschild homology and Witt vectors for rings with anti-involution. 
           coauthors:  
@@ -206,8 +205,8 @@ sections:
               url: https://arxiv.org/abs/2309.11463
     - title: In progress
       papers:
-        - title: Syntomic cohomology of Morava K-theory relative to complex cobordism 
-          description: We compute the syntomic cohomology of any MU-algebra form of truncated Brown-Petrson spectra and connective Morava K-theory. As applications, we prove the telescope conjecture and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of these truncated Brown--Peterson spectra and Morava K-theory. 
+        - title: Syntomic cohomology of Morava K-theory 
+          description: We compute the syntomic cohomology of any MU-algebra form of the connective Morava K-theory. As qualitatiev consequences, we prove redshift, the telescope conjecture, and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of Morava K-theory. 
           coauthors:
             - name: Jeremy Hahn
               url: https://web.mit.edu/~jhahn01/www/
@@ -217,8 +216,8 @@ sections:
               url: https://dylwil3.github.io/
               sep: "."
               start: ""
-        - title: Homology of twisted G-rings
-          description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. The input of this construction is a twisted G-ring, which generalizes the notion of a ring with anti-involution. We compute this in the case of twisted G-monoid rings. 
+        - title: Topological homology of rings with twisted G-action
+          description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. The input of this construction is a ring with twisted G-action, which generalizes the notion of a ring with anti-involution. We compute this in the case of monoid rings with twisted G-action. 
           coauthors:  
             - name: Mona Merling
               url: https://www.math.upenn.edu/~mmerling/
@@ -285,8 +284,8 @@ sections:
               url: ""
               body: 
                  - {_uid: BUY6Drn9e6,paper: "masters",displayText: "pdf"}
-        - title: "Social Justice Through Mathematics: An Exploration of Social Justice Pedagogy and a Reflection on Mathematics in Summer Programs for Youth"
-          description:  I reflect on my experiences working in the KCIS's Think Summer! program and developing mathematics curriculum for the program. I also design my own summer program for teaching mathematics through a social justice lens, which I call Just Math, based upon reflections on work of Robert Moses, Paulo Freire, and Eric Gutstein. This is my undergraduate thesis completed under the direction of John Fink.
-          links:
-            - display: "link"
-              url: "https://cache.kzoo.edu/handle/10920/25148"
+ #       - title: "Social Justice Through Mathematics: An Exploration of Social Justice Pedagogy and a Reflection on Mathematics in Summer Programs for Youth"
+ #         description:  I reflect on my experiences working in the KCIS's Think Summer! program and developing mathematics curriculum for the program. I also design my own summer program for teaching mathematics through a social justice lens, which I call Just Math, based upon reflections on work of Robert Moses, Paulo Freire, and Eric Gutstein. This is my undergraduate thesis completed under the direction of John Fink.
+ #         links:
+ #           - display: "link"
+ #             url: "https://cache.kzoo.edu/handle/10920/25148"
