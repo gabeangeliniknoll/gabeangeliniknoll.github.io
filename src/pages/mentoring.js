@@ -25,7 +25,7 @@ const Mentoring = () => (
       <h3>Vittorio Di Fraia</h3>
         <h4>Variation on the Little Cubes Operads
         and Involution Algebra Objects</h4>
-        <p>Freie Universit\"at Berlin, 2021</p>
+        <p>Co-supervised with Holger Reich and John M. Sullivan, Freie Universit\"at Berlin, 2021</p>
     <h2>Research Experiences for Undergraduates</h2>
       <h4>SURIEM, nationwide REU for early career undergraduates</h4>
         <h3>Project mentor for a project on gneralized Catalan numbers and action graphs</h3> 
