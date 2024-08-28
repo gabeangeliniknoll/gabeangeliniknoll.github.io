@@ -15,7 +15,7 @@ const IndexPage = () => (
     <h1>Homepage</h1>
     <div>
     <div style={{ float: `left`, maxWidth: `65%`, marginBottom: `1.45rem`}}>
-    <p>I am visiting postdoctoral fellow at the Max Planck Institute for Mathematics Bonn and a postdoctoral researcher in the <a href="https://www.math.univ-paris13.fr/laga/index.php/fr/">Laboratoire Analyse, G<span>&eacute;</span>om<span>&eacute;</span>trie et Applications</a> at the Universit<span>&eacute;</span> Sorbonne Paris Nord. Previously, I was a postdoctoral researcher at the Freie Universit<span>&#228;</span>t Berlin and Michigan State University. 
+    <p>I am visiting postdoctoral fellow at the <a href="https://www.mpim-bonn.mpg.de/">Max Planck Institute for Mathematics Bonn</a> and a postdoctoral researcher in the <a href="https://www.math.univ-paris13.fr/laga/index.php/fr/">Laboratoire Analyse, G<span>&eacute;</span>om<span>&eacute;</span>trie et Applications</a> at the Universit<span>&eacute;</span> Sorbonne Paris Nord. Previously, I was a postdoctoral researcher at the Freie Universit<span>&#228;</span>t Berlin and Michigan State University. 
       I earned my PhD at Wayne State University under the direction of <a href="https://clasprofiles.wayne.edu/profile/dy8211">Andrew Salch</a>.</p>
     <p>I research interactions between algebraic topology, arithmetic, and geometry. Specifically, I am interested invariants of ring spectra, such as algebraic K-theory and Hochschild homology, as well as chromatic, equivariant, and motivic homotopy theory. </p>
 		<p>In addition to my research activity, I have had the opportunity to teach a broad range of courses, 
@@ -39,7 +39,7 @@ const IndexPage = () => (
       </br>FR-93430 Villetaneuse</p>
     <h2>Funding</h2>
       <p>This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sk<span>&#322;</span>odowska-Curie grant agreement No 1010342555.</p>
-      <div style={{marginLeft: `0%`, maxWidth: `5%`, marginBottom: `1rem` }} ><Eusymbol /></div>
+    <div style={{marginLeft: `0%`, maxWidth: `5%`, marginBottom: `1rem` }} ><Eusymbol /></div>
     <h2>Resources</h2>
       <p> <a href=" https://www.europeanwomeninmaths.org/">European Women in Mathematics</a>, <a href="https://awm-math.org/ ">Association for Women in Mathematics</a>, <a href="http://lgbtmath.org/index.html">Spectra</a>, <a href="https://s.wayne.edu/isaksen/algebraic-topology-journals/">Algebraic Topology Journals</a>, <a href="https://researchseminars.org/">Online Research Seminars</a>, 
       <a href="https://s.wayne.edu/echt/">eCHT</a>,<a href="http://mathmeetings.net/at-gt">MathMeetings</a>, <a href="https://faculty.math.illinois.edu/K-theory/Calendar/">K-theory Calender</a></p>
