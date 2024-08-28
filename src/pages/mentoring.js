@@ -27,7 +27,7 @@ const Mentoring = () => (
         and Involution Algebra Objects</h4>
         <p>Co-supervised with Holger Reich and John M. Sullivan, Freie Universit<span>&#228;</span>t Berlin, 2021</p>
     <h2>Research Experiences for Undergraduates</h2>
-      <h3>SURIEM, nationwide REU</h4>
+      <h3>SURIEM, nationwide REU</h3>
         <h4>Project mentor for a project on gneralized Catalan numbers and action graphs aimed at early career undergraduates</h4> 
         <p>Michigan State University, 2019</p>
       <h3>Mathematics Exchange Program, International REU</h3>  
