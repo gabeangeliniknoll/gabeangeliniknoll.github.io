@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 const Mentoring = () => (
   <Layout>
     <SEO title="Mentoring" />
-    <h1>Masters student thesis direction</h1>
+    <h2>Masters student thesis direction</h2>
       <h3>Jingyuan Zhu</h3>
        <h4>Title: Equivariant $\infty$-Categories and Real Topological Hochschild Homology</h4> 
        <p>Co-supervised with Geoffroy Horel, Université Paris Saclay, 2024</p>
@@ -18,7 +18,7 @@ const Mentoring = () => (
       <h3>Daniel Krupa</h3>
         <h4> Infty categories and K-theory</h4>
         <p>Co-supervised with Holger Reich, Freie Universit\"at Berlin, 2021</p>
-    <h1>Undergraduate student thesis direction</h1>
+    <h2>Undergraduate student thesis direction</h2>
       <h3>Sebastian Schneider</h3>
         <h4>Algebra via Lawverre theories</h4>
         <p>Freie Universit\"at Berlin, 2022</p>
@@ -26,7 +26,7 @@ const Mentoring = () => (
         <h4>Variation on the Little Cubes Operads
         and Involution Algebra Objects</h4>
         <p>Freie Universit\"at Berlin, 2021</p>
-    <h1>Research Experiences for Undergraduates</h1>
+    <h2>Research Experiences for Undergraduates</h2>
       <h4>SURIEM, nationwide REU for early career undergraduates</h4>
         <h3>Project mentor for a project on gneralized Catalan numbers and action graphs</h3> 
         <p>Michigan State University, 2019</p>
