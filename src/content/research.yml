@@ -257,7 +257,7 @@ sections:
               sep: "." 
               start: ""
         - title: Syntomic cohomology of 2-primary topological modular forms 
-          description: We compute the syntomic cohomology of 2-primary topological modular forms. Notably topological modular forms is most interesting at the primes 2 and 3. 
+          description: We compute the syntomic cohomology of 2-primary topological modular forms. Notably topological modular forms is most interesting at the primes 2 and 3 and the primes 2 and 3 require different techniques. 
           coauthors:  
             - name: Christian Ausoni
               url: https://www.math.univ-paris13.fr/~ausoni/
@@ -280,7 +280,7 @@ sections:
               sep: "." 
               start: ""
         - title: Syntomic cohomology of 3-primary topological modular forms 
-          description: We compute the syntomic cohomology of 3-primary topological modular forms. Notably topological modular forms is most interesting at the primes 2 and 3. 
+          description: We compute the syntomic cohomology of 3-primary topological modular forms. Notably topological modular forms is most interesting at the primes 2 and 3 and the primes 2 and 3 require different techniques. 
           coauthors:  
             - name: Jack Morgan Davies
               url: https://sites.google.com/view/jackmdavies/home
@@ -291,7 +291,7 @@ sections:
               sep: "." 
               start: ""
         - title: The odd primary even filtration
-          description: We study a version of the even filtration in equivariant homotopy theory for a cyclic group of odd primary order. This is work in progres. 
+          description: We study a version of the even filtration in equivariant homotopy theory for a cyclic group of odd primary order. We also present a Mayer-Vietoris approach to slice spectral sequence computations and combine these two ideas to provide a computational tool for studying equivariant homotopy theory for a cyclic group of prime order. 
           coauthors:  
             - name: Mark Behrens
               url: https://www3.nd.edu/~mbehren1/
