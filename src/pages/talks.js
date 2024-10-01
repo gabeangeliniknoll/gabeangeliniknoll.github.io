@@ -18,10 +18,14 @@ const Talks = () => (
   <Layout>
     <SEO title="Talks" />
     <h1>Invited Talks</h1>
-      <h2>2024</h2>
-        <h3>October</h3>
+      <h2>Upcoming talks in 2024</h2>
+      <h3>December</h3>
+          <h4>TBD</h4>
+          <p><font size="3"><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/venice24/">Real THH in Venice</a>, Venice, Italy</font></p>
+      <h3>October</h3>
           <h4>TBD</h4>
           <p><font size="3"><a href="https://sites.google.com/view/nialltaggartmath/seminars-events/topics">Topology Intercity Seminar</a>, Radboud University, Nijmegen</font></p>
+      <h2>2024</h2>
         <h3>July</h3>
           <h4>Syntomic cohomology of ring spectra</h4>
           <p><font size="3"><a href="https://www.mfo.de/occasion/2430/www_view">Topologie</a>, Oberwolfach.</font></p>

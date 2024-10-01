@@ -16,7 +16,7 @@ const Mentoring = () => (
         <h4>On generalized Tate cohomology</h4>
         <p>Co-supervised with Holger Reich, Freie Universit<span>&#228;</span>t Berlin, 2022.</p>
       <h3>Daniel Krupa</h3>
-        <h4> Infty categories and K-theory</h4>
+        <h4> Infinity categories and K-theory</h4>
         <p>Co-supervised with Holger Reich, Freie Universit<span>&#228;</span>t Berlin, 2021</p>
     <h2>Undergraduate student thesis direction</h2>
       <h3>Sebastian Schneider</h3>
