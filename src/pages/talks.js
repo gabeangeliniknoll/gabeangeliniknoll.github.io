@@ -18,7 +18,7 @@ const Talks = () => (
   <Layout>
     <SEO title="Talks" />
     <h1>Invited Talks</h1>
-      <h2>Upcoming talks in 2024</h2>
+      <h2>Upcoming talks</h2>
       <h3>December</h3>
           <h4>TBD</h4>
           <p><font size="3"><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/venice24/">Real THH in Venice</a>, Venice, Italy</font></p>
