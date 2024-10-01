@@ -15,7 +15,7 @@ const IndexPage = () => (
     <h1>Homepage</h1>
     <div>
     <div style={{ float: `left`, maxWidth: `65%`, marginBottom: `1.45rem`}}>
-    <p>I am a postdoctoral researcher in the <a href="https://www.math.univ-paris13.fr/laga/index.php/fr/">Laboratoire Analyse, G<span>&eacute;</span>om<span>&eacute;</span>trie et Applications</a> at the Universit<span>&eacute;</span> Paris 13 and I am currently gion a research visit at the <a href="https://www.mpim-bonn.mpg.de/">Max Planck Institute for Mathematics Bonn</a>. Previously, I was a postdoctoral researcher at the Freie Universit<span>&#228;</span>t Berlin and Michigan State University. 
+    <p>I am a postdoctoral researcher at <a href="https://www.math.univ-paris13.fr/laga/index.php/fr/">Universit<span>&eacute;</span> Paris 13</a> and I am currently gion a research visit at the <a href="https://www.mpim-bonn.mpg.de/">Max Planck Institute for Mathematics Bonn</a>. Previously, I was a postdoctoral researcher at the Freie Universit<span>&#228;</span>t Berlin and Michigan State University. 
       I earned my PhD at Wayne State University under the direction of <a href="https://clasprofiles.wayne.edu/profile/dy8211">Andrew Salch</a>.</p>
     <p>I research interactions between algebraic topology, arithmetic, and geometry. Specifically, I am interested invariants of ring spectra, such as algebraic K-theory and Hochschild homology, as well as chromatic, equivariant, and motivic homotopy theory. </p>
 		<p>In addition to my research activity, I have had the opportunity to teach a broad range of courses, 
