@@ -137,6 +137,34 @@ sections:
               start: "Published in "
     - title: Submitted Papers
       papers: 
+        - title: Topological \Delta G-homology of twisted G-rings
+          description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. The input of this construction is a ring with twisted G-action, which generalizes the notion of a ring with anti-involution. We compute this in the case of monoid rings with twisted G-action. 
+          coauthors:  
+            - name: Mona Merling
+              url: https://www.math.upenn.edu/~mmerling/
+              sep: " and" 
+              start: "Joint with "
+            - name: Maximilien Peroux
+              url: https://www.maximilienperoux.com/
+              sep: "." 
+              start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2409.18187
+        - title: Algebraic K-theory of real topological K-theory 
+          description: We compute algebraic K-theory of real topological K-theory after smashing with a finite complex at the prime 2 using syntomic cohomology. 
+          coauthors:
+            - name: Christian Ausoni
+              url: https://www.math.univ-paris13.fr/~ausoni/
+              sep: " and "
+              start: "Joint with "
+            - name: John Rognes 
+              url: https://www.mn.uio.no/math/personer/vit/rognes/
+              sep: "."
+              start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2309.11463
         - title: A deformation of Borel equivariant homotopy
           description: We construct a deformation of the Borel G-equivariant stable homotopy category that recovers the a-complete Artin-Tate real motivic stable homotopy category of Burkland-Hahn-Senger. 
           coauthors:  
@@ -169,16 +197,6 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2111.06970
-        - title: Chromatic complexity of algebraic K-theory of y(n)
-          description: We compute Morava K-theory of topological periodic cyclic homology and topological negative cyclic homology of the Thom spectra y(n). This gives evidence for a version of the red-shift conjecture for topological periodic cyclic homology at all chromatic heights. 
-          coauthors: 
-            - name: J.D. Quigley
-              url: https://quigleyjd.github.io/
-              sep: "." 
-              start: "Joint with "
-          links:
-            - display: arXiv
-              url: https://arxiv.org/abs/1908.09164
         - title: Commuting unbounded homotopy limits with Morava K-theory
           description: We give conditions for Morava K-theory to commute with certain homotopy limits with an eye towards applications to topoligical periodic cyclic homology and algebraic K-theory. As an application, we prove a version of Mitchell's theorem for truncated Brown-Peterson spectra.
           coauthors:  
@@ -189,24 +207,20 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2003.03510
-        - title: Algebraic K-theory of real topological K-theory 
-          description: We compute algebraic K-theory of real topological K-theory after smashing with a finite complex at the prime 2 using syntomic cohomology. 
-          coauthors:
-            - name: Christian Ausoni
-              url: https://www.math.univ-paris13.fr/~ausoni/
-              sep: " and "
+        - title: Chromatic complexity of algebraic K-theory of y(n)
+          description: We compute Morava K-theory of topological periodic cyclic homology and topological negative cyclic homology of the Thom spectra y(n). This gives evidence for a version of the red-shift conjecture for topological periodic cyclic homology at all chromatic heights. 
+          coauthors: 
+            - name: J.D. Quigley
+              url: https://quigleyjd.github.io/
+              sep: "." 
               start: "Joint with "
-            - name: John Rognes 
-              url: https://www.mn.uio.no/math/personer/vit/rognes/
-              sep: "."
-              start: ""
           links:
             - display: arXiv
-              url: https://arxiv.org/abs/2309.11463
+              url: https://arxiv.org/abs/1908.09164
     - title: In progress
       papers:
         - title: Syntomic cohomology of Morava K-theory 
-          description: We compute the syntomic cohomology of any MU-algebra form of the connective Morava K-theory. As qualitatiev consequences, we prove redshift, the telescope conjecture, and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of Morava K-theory. 
+          description: We compute the syntomic cohomology of any MU-algebra form of the connective Morava K-theory. As qualitative consequences, we prove redshift, the telescope conjecture, and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of Morava K-theory. 
           coauthors:
             - name: Jeremy Hahn
               url: https://web.mit.edu/~jhahn01/www/
@@ -216,30 +230,79 @@ sections:
               url: https://dylwil3.github.io/
               sep: "."
               start: ""
-        - title: Topological homology of rings with twisted G-action
-          description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. The input of this construction is a ring with twisted G-action, which generalizes the notion of a ring with anti-involution. We compute this in the case of monoid rings with twisted G-action. 
-          coauthors:  
-            - name: Mona Merling
-              url: https://www.math.upenn.edu/~mmerling/
-              sep: " and" 
+        - title: Syntomic cohomology of truncated Brown-Peterson spectra
+          description: We compute the syntomic cohomology of any MU-algebra form of truncated Brown--Peterson spectra. As qualitative consequences, we prove redshift, the telescope conjecture, and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of arbitrary MU-algebra forms of truncated Brown-Peterson spectra. 
+          coauthors:
+            - name: Jeremy Hahn
+              url: https://web.mit.edu/~jhahn01/www/
+              sep: " and "
               start: "Joint with "
-            - name: Maximilien Peroux
-              url: https://www.maximilienperoux.com/
-              sep: "." 
+            - name: Dylan Wilson
+              url: https://dylwil3.github.io/
+              sep: "."
               start: ""
         - title: Real syntomic cohomology 
           description: We study even filtrations in equivariant homotopy theory with applications to Real topological cyclic homology. In particular, we provide constructions of Real syntomic cohomology and Real prismatic cohomology. As an application, we study Real topological cyclic homology of Real topological K-theory.  
           coauthors:
-            - name: Mike Hill
-              url: https://www.math.ucla.edu/~mikehill/
-              sep:  ", "
-              start: "Joint with "
             - name: Hana Jia Kong
               url: https://hanajiakong.github.io/
-              sep: ", and" 
-              start: ""
+              sep: " and " 
+              start: "Joint with"
             - name: J.D. Quigley
               url: https://quigleyjd.github.io/
+              sep: "." 
+              start: ""
+        - title: Syntomic cohomology of 2-primary topological modular forms 
+          description: We compute the syntomic cohomology of 2-primary topological modular forms. Notably topological modular forms is most interesting at the primes 2 and 3 and the primes 2 and 3 require different techniques. 
+          coauthors:  
+            - name: Christian Ausoni
+              url: https://www.math.univ-paris13.fr/~ausoni/
+              sep:  ", "
+              start: "Joint with "
+            - name: Robert R. Bruner
+              url: http://www.rrb.wayne.edu/
+              sep:  ", "
+              start: ""
+            - name: Jack Morgan Davies
+              url: https://sites.google.com/view/jackmdavies/home
+              sep:  ", "
+              start: ""
+            - name: John Rognes 
+              url: https://www.mn.uio.no/math/personer/vit/rognes/
+              sep: ", and" 
+              start: ""
+            - name: Tristan Yang
+              url: https://math.mit.edu/directory/profile.html?pid=2451
+              sep: "." 
+              start: ""
+        - title: Syntomic cohomology of 3-primary topological modular forms 
+          description: We compute the syntomic cohomology of 3-primary topological modular forms. Notably topological modular forms is most interesting at the primes 2 and 3 and the primes 2 and 3 require different techniques. 
+          coauthors:  
+            - name: Jack Morgan Davies
+              url: https://sites.google.com/view/jackmdavies/home
+              sep:  ", and"
+              start: "Joint with "
+            - name: Tristan Yang
+              url: https://math.mit.edu/directory/profile.html?pid=2451
+              sep: "." 
+              start: ""
+        - title: The odd primary even filtration
+          description: We study a version of the even filtration in equivariant homotopy theory for a cyclic group of odd primary order. We also present a Mayer-Vietoris approach to slice spectral sequence computations and combine these two ideas to provide a computational tool for studying equivariant homotopy theory for a cyclic group of prime order. 
+          coauthors:  
+            - name: Mark Behrens
+              url: https://www3.nd.edu/~mbehren1/
+              sep: ", " 
+              start: "Joint with "
+            - name: Eva Belmont
+              url: https://mathweb.ucsd.edu/~ebelmont/
+              sep: ", " 
+              start: ""
+            - name: Maxwell Johnson
+              url: https://maxj.phd/
+              sep: ", and" 
+              start: ""
+            - name: Hana Jia Kong
+              url: https://hanajiakong.github.io/
               sep: "." 
               start: ""
     - title: Notes
