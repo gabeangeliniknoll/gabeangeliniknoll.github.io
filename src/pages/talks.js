@@ -16,37 +16,37 @@ import Stacks from "../static/stacks.pdf"
 
 const Talks = () => (
   <Layout>
-    <SEO title="Talks" />
+    <SEO title="Talks"/>
     <h1>Invited Talks</h1>
       <h2>Upcoming talks</h2>
         <h3>December</h3>
           <h4>TBD</h4>
-          <p><font size="3"><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/venice24/">Real THH in Venice</a>, Venice, Italy</font></p>
+            <p><font size="3"><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/venice24/">Real THH in Venice</a>, Venice, Italy</font></p>
           <h4>TBD</h4>
-          <p><font size="3"><a href="https://az.uni-wuppertal.de/en/activities/guest-seminar">Seminar Algebra and Topology</a>, Wupertal, Germany</font></p>
+            <p><font size="3"><a href="https://az.uni-wuppertal.de/en/activities/guest-seminar">Seminar Algebra and Topology</a>, Wupertal, Germany</font></p>
         <h3>November</h3>
-        <h4>K-theory and periodicity</h4>
-          <p><font size="3"><a href="https://www.mpim-bonn.mpg.de/node/158">MPI-Oberseminar<a>, MPIM Bonn, Germany</p>
+          <h4>K-theory and periodicity</h4>
+            <p><font size="3"><a href="https://www.mpim-bonn.mpg.de/node/158">MPI-Oberseminar<a>, MPIM Bonn, Germany</p>
       <h2>2024</h2>
-      <h3>October</h3>
-        <h4>Algebraic K-theory of minimal skew-fields in stable homotopy theory</h4>
-          <p><font size="3"><a href="https://guyboyde.wordpress.com/topics-schedule-2024-25/">Topology Intercity Seminar</a>, Radboud University, Nijmegen</font></p>
+        <h3>October</h3>
+          <h4>Algebraic K-theory of minimal skew-fields in stable homotopy theory</h4>
+            <p><font size="3"><a href="https://guyboyde.wordpress.com/topics-schedule-2024-25/">Topology Intercity Seminar</a>, Radboud University, Nijmegen</font></p>
         <h3>July</h3>
           <h4>Syntomic cohomology of ring spectra</h4>
-          <p><font size="3"><a href="https://www.mfo.de/occasion/2430/www_view">Topologie</a>, Oberwolfach.</font></p>
+            <p><font size="3"><a href="https://www.mfo.de/occasion/2430/www_view">Topologie</a>, Oberwolfach.</font></p>
         <h3>April</h3>
           <h4>Syntomic cohomology of real topological K-theory</h4>
-          <p><font size="3"><a href="https://www.math.uni-bonn.de/ag/topo/seminar">Topology Seminar</a>, University of Bonn.</font></p>
+            <p><font size="3"><a href="https://www.math.uni-bonn.de/ag/topo/seminar">Topology Seminar</a>, University of Bonn.</font></p>
         <h3>March</h3>
           <h4>Syntomic cohomology of real topological K-theory</h4>
-          <p><font size="3"><a href="https://math.mit.edu/topology/index.html">Topology Seminar</a>, Massachusetts Institute of Technology.</font></p>
+            <p><font size="3"><a href="https://math.mit.edu/topology/index.html">Topology Seminar</a>, Massachusetts Institute of Technology.</font></p>
       <h2>2023</h2>
         <h3>November</h3>
           <h4>Syntomic cohomology of real topological K-theory</h4>
-          <p><font size="3"><a href="http://users.mat.unimi.it/users/SGA/">Arithmetic Geometry Seminar</a>, University of Milan.</font></p>
+            <p><font size="3"><a href="http://users.mat.unimi.it/users/SGA/">Arithmetic Geometry Seminar</a>, University of Milan.</font></p>
         <h3>June</h3>
           <h4>Syntomic cohomology of Morava K-theory</h4>
-          <p><font size="3"><a href="https://folk.ntnu.no/runegha/htpyintrd.html">Homotopy Theory in Trondheim</a>, Norwegian University of Science and Technology.</font></p>
+            <p><font size="3"><a href="https://folk.ntnu.no/runegha/htpyintrd.html">Homotopy Theory in Trondheim</a>, Norwegian University of Science and Technology.</font></p>
         <h3>March</h3>
           <h4>Deformations of equivariant homotopy theory</h4>
             <p><font size="3"><a href="https://damienespadon.wixsite.com/dersympapp/alpe">Nouveau séminaire ALPE</a>, Universit<span>&eacute;</span> Montpellier</font></p>
