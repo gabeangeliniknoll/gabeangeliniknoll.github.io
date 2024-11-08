@@ -6,13 +6,16 @@ import SEO from "../components/seo"
 import PDF from "../components/pdf"
 
 // pdfs
-import Loday from "../static/Lodayfunctorcats.pdf"  
-import Fundamental from "../static/FTKthytalk.pdf"
-import Nilpotence from "../static/nilptalk.pdf"
-import ProObjects from "../static/pro-object.pdf"
-import Redshift from "../static/redshift.pdf"
-import SnowFlake from "../static/snowflake.pdf"
-import Stacks from "../static/stacks.pdf"
+//import Loday from "../static/Lodayfunctorcats.pdf"  
+//import Fundamental from "../static/FTKthytalk.pdf"
+//import Nilpotence from "../static/nilptalk.pdf"
+//import ProObjects from "../static/pro-object.pdf"
+//import Redshift from "../static/redshift.pdf"
+//import SnowFlake from "../static/snowflake.pdf"
+//import Stacks from "../static/stacks.pdf"
+
+// YAML Data file
+import YAMLData from "../content/talks.yml"
 
 const Talks = () => (
   <Layout>
@@ -21,17 +24,16 @@ const Talks = () => (
       <h2>Upcoming talks</h2>
         <h3>December</h3>
           <h4>TBD</h4>
-          <p><font size="3"><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/venice24/">Real THH in Venice</a>, Venice, Italy</font></p>
-        <h3>December</h3>
+            <p><font size="3"><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/venice24/">Real THH in Venice</a>, Venice, Italy</font></p>
           <h4>TBD</h4>
-          <p><font size="3"><a href="https://az.uni-wuppertal.de/en/activities/guest-seminar">Seminar Algebra and Topology</a>, Wupertal, Germany</font></p>
+            <p><font size="3"><a href="https://az.uni-wuppertal.de/en/activities/guest-seminar">Seminar Algebra and Topology</a>, Wupertal, Germany</font></p>
         <h3>November</h3>
           <h4>K-theory and periodicity</h4>
-          <p><font size="3"><a href="https://www.mpim-bonn.mpg.de/node/158">MPI-Oberseminar</a>, MPIM Bonn, Germany</font></p>
+            <p><font size="3"><a href="https://www.mpim-bonn.mpg.de/node/158">MPI-Oberseminar<a>, MPIM Bonn, Germany</p>
       <h2>2024</h2>
         <h3>October</h3>
           <h4>Algebraic K-theory of minimal skew-fields in stable homotopy theory</h4>
-          <p><font size="3"><a href="https://guyboyde.wordpress.com/topics-schedule-2024-25/">Topology Intercity Seminar</a>, Radboud University, Nijmegen</font></p>
+            <p><font size="3"><a href="https://guyboyde.wordpress.com/topics-schedule-2024-25/">Topology Intercity Seminar</a>, Radboud University, Nijmegen</font></p>
         <h3>July</h3>
           <h4>Syntomic cohomology of ring spectra</h4>
             <p><font size="3"><a href="https://www.mfo.de/occasion/2430/www_view">Topologie</a>, Oberwolfach.</font></p>

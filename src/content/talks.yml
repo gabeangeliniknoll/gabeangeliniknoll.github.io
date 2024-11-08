@@ -1,0 +1,353 @@
+page: Talks
+sections: 
+    - title: Upcoming Talks
+      talks: 
+        - title: Algebraic K-theory of elliptic cohomology
+          description: We compute mod p,v_1,v_2 homotopy of algebraic K-theory of the second truncated Brown-Peterson spectrum at primes p greator or equal to seven. 
+          coauthors: 
+            - name: Christian Ausoni
+              url: https://www.math.univ-paris13.fr/~ausoni/
+              sep: ", "
+              start: "Joint with "
+            - name: Dominic Leon Culver
+              url: https://dlculver.github.io/
+              sep: ", "
+              start: ""
+            - name: Eva Höning
+              url: https://evahoening.netlify.app/
+              sep: ", and"
+              start: ""
+            - name: John Rognes 
+              url: https://www.mn.uio.no/math/personer/vit/rognes/
+              sep: "."
+              start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2204.05890
+            - display: published
+              url: https://msp.org/soon/coming.php?jpath=gt
+              body: 
+          journal: 
+            - name: Geometry & Topology
+              url: https://msp.org/gt/2023/27-8/
+              sep: "."
+              start: "To appear in "
+        - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum I
+          description: We compute topological Hochschild homology of forms of the second truncated Brown-Peterson spectrum with coefficients in connective Morava K-theory. We also compute topological Hochschild homology of forms of arbitrary truncated Brown-Peterson spectra with coefficients in the p-local integers.
+          coauthors: 
+            - name: Dominic Culver
+              url: https://dlculver.github.io/
+              sep: " and" 
+              start: "Joint with "
+            - name: Eva Höning
+              url: https://evahoening.netlify.app
+              sep: "."
+              start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2106.06785
+            - display: published
+              url: https://msp.org/agt/2024/24-5/p03.xhtml
+              body:
+          journal: 
+            - name: Algebraic & Geometric Topology
+              url: https://msp.org/agt/about/journal/about.html
+              sep: "."
+              start: "Published in "
+        - title: Complex orientations of TP of complete DVRs
+          description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a local field over a certain base ring.
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2104.07306
+              body:
+            - display: published
+              url: http://dx.doi.org/10.4310/HHA.2023.v25.n1.a16 
+              body:
+          journal: 
+            - name: Homology, Homotopy and Applications
+              url: https://www.intlpress.com/site/pub/pages/journals/items/hha/_home/_main/index.php
+              sep: "."
+              start: "Published in "
+        - title: Detecting beta elements in iterated algebraic K-theory of finite fields
+          description: I prove that a certain family of beta elements is detected in iterated algebraic K-theory of finite fields and consequently iterated algebraic K-theory of the integers. This gives evidence for a higher chromatic height version of a conjecture of Lichtenbaum. This also suggests a new approach to studying the redshift conjectures of Ausoni-Rognes.
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/1612.00548
+              body: 
+            - display: published
+              url: https://www.ams.org/journals/tran/2023-376-04/S0002-9947-2022-08833-4/home.html
+              body:
+          journal: 
+            - name: Transactions of the American Mathematical Society 
+              url: https://www.ams.org/publications/journals/journalsframework/tran
+              sep: "."
+              start: "Published in " 
+        - title: On topological Hochschild homology of the K(1)-local sphere  
+          description: I compute mod (p,v_1) topological Hochschild homology of the connective cover of the K(1)-local sphere spectrum using the topological Hochschild-May spectral sequence.
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/1612.00548
+              body:
+            - display: published
+              url: https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/topo.12182
+              body:
+          journal: 
+            - name: Journal of Topology
+              url: https://londmathsoc.onlinelibrary.wiley.com/journal/17538424
+              sep: "."
+              start: "Published in "          
+        - title: The Segal Conjecture for Topological Hochschild Homology of Ravenel spectra
+          description: We solve the homotopy limit problem for topological Hochschild homology of Ravenel's spectra X(n) with respect to all cyclic groups of order a power of p. This implies that, after p-completion, topological negative cyclic homology and topological periodic cyclic homology of X(n) are homotopy equivalent.
+          coauthors:  
+            - name: J.D. Quigley
+              url: https://e.math.cornell.edu/people/jdq27/
+              sep: "." 
+              start: "Joint with "
+          links:
+            - display: arxiv
+              url: https://arxiv.org/abs/1705.03343
+              body:
+            - display: published
+              url: https://link.springer.com/article/10.1007%2Fs40062-021-00275-7
+              body:
+          journal: 
+            - name: Journal of Homotopy and Related Structures
+              url: https://www.springer.com/journal/40062
+              sep: "."
+              start: "Published in "
+        - title: A May-type spectral sequence for topological Hochschild homology
+          description: We construct a spectral sequence for higher topological Hochschild homology associated to a multiplicative filtration of a commutative ring spectrum. In particular, we show that the Whitehead tower of a commutative ring spectrum can be built as a multiplicative filtered commutative ring spectrum. We use this spectral sequence to give a bound on topological Hochshcild homology of a connective commutative ring spectrum.
+          coauthors: 
+            - name: Andrew Salch
+              url: https://clasprofiles.wayne.edu/profile/dy8211
+              sep: "."
+              start: "Joint with "
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/1612.00541
+              body:
+            - display: published
+              url: https://msp.org/agt/2018/18-5/p03.xhtml
+              body:
+          journal: 
+            - name: Algebraic & Geometric Topology
+              url: https://msp.org/agt/2020/20-4/
+              sep: "."
+              start: "Published in "
+    - title: Submitted Papers
+      talks: 
+        - title: Topological \Delta G-homology of twisted G-rings
+          description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. The input of this construction is a ring with twisted G-action, which generalizes the notion of a ring with anti-involution. We compute this in the case of monoid rings with twisted G-action. 
+          coauthors:  
+            - name: Mona Merling
+              url: https://www.math.upenn.edu/~mmerling/
+              sep: " and" 
+              start: "Joint with "
+            - name: Maximilien Peroux
+              url: https://www.maximilienperoux.com/
+              sep: "." 
+              start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2409.18187
+        - title: Algebraic K-theory of real topological K-theory 
+          description: We compute algebraic K-theory of real topological K-theory after smashing with a finite complex at the prime 2 using syntomic cohomology. 
+          coauthors:
+            - name: Christian Ausoni
+              url: https://www.math.univ-paris13.fr/~ausoni/
+              sep: " and "
+              start: "Joint with "
+            - name: John Rognes 
+              url: https://www.mn.uio.no/math/personer/vit/rognes/
+              sep: "."
+              start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2309.11463
+        - title: A deformation of Borel equivariant homotopy
+          description: We construct a deformation of the Borel G-equivariant stable homotopy category that recovers the a-complete Artin-Tate real motivic stable homotopy category of Burkland-Hahn-Senger. 
+          coauthors:  
+            - name: Mark Behrens
+              url: https://www3.nd.edu/~mbehren1/
+              sep: ", " 
+              start: "Joint with "
+            - name: Eva Belmont
+              url: https://mathweb.ucsd.edu/~ebelmont/
+              sep: ", and" 
+              start: ""
+            - name: Hana Jia Kong
+              url: https://hanajiakong.github.io/
+              sep: "." 
+              start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2308.01873
+        - title: Real Topological Hochschild homology via the norm and Real Witt vectors
+          description: We interpret Real topological Hochschild homology as the norm for the orthogonal group of two-by-two-matrices. We then prove a multiplicative double coset formula. Using this we define Real Hochschild homology and Witt vectors for rings with anti-involution. 
+          coauthors:  
+            - name: Teena Gerhardt
+              url: https://users.math.msu.edu/users/teena/Home.html
+              sep: " and" 
+              start: "Joint with "
+            - name: Mike Hill
+              url: https://www.math.ucla.edu/~mikehill/
+              sep: "." 
+              start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2111.06970
+        - title: Commuting unbounded homotopy limits with Morava K-theory
+          description: We give conditions for Morava K-theory to commute with certain homotopy limits with an eye towards applications to topoligical periodic cyclic homology and algebraic K-theory. As an application, we prove a version of Mitchell's theorem for truncated Brown-Peterson spectra.
+          coauthors:  
+            - name: Andrew Salch
+              url: https://clasprofiles.wayne.edu/profile/dy8211
+              sep: "." 
+              start: "Joint with "
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2003.03510
+        - title: Chromatic complexity of algebraic K-theory of y(n)
+          description: We compute Morava K-theory of topological periodic cyclic homology and topological negative cyclic homology of the Thom spectra y(n). This gives evidence for a version of the red-shift conjecture for topological periodic cyclic homology at all chromatic heights. 
+          coauthors: 
+            - name: J.D. Quigley
+              url: https://quigleyjd.github.io/
+              sep: "." 
+              start: "Joint with "
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/1908.09164
+    - title: In progress
+      papers:
+        - title: Syntomic cohomology of Morava K-theory 
+          description: We compute the syntomic cohomology of any MU-algebra form of the connective Morava K-theory. As qualitative consequences, we prove redshift, the telescope conjecture, and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of Morava K-theory. 
+          coauthors:
+            - name: Jeremy Hahn
+              url: https://web.mit.edu/~jhahn01/www/
+              sep: " and "
+              start: "Joint with "
+            - name: Dylan Wilson
+              url: https://dylwil3.github.io/
+              sep: "."
+              start: ""
+        - title: Syntomic cohomology of truncated Brown-Peterson spectra
+          description: We compute the syntomic cohomology of any MU-algebra form of truncated Brown--Peterson spectra. As qualitative consequences, we prove redshift, the telescope conjecture, and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of arbitrary MU-algebra forms of truncated Brown-Peterson spectra. 
+          coauthors:
+            - name: Jeremy Hahn
+              url: https://web.mit.edu/~jhahn01/www/
+              sep: " and "
+              start: "Joint with "
+            - name: Dylan Wilson
+              url: https://dylwil3.github.io/
+              sep: "."
+              start: ""
+        - title: Real syntomic cohomology 
+          description: We study even filtrations in equivariant homotopy theory with applications to Real topological cyclic homology. In particular, we provide constructions of Real syntomic cohomology and Real prismatic cohomology. As an application, we study Real topological cyclic homology of Real topological K-theory.  
+          coauthors:
+            - name: Hana Jia Kong
+              url: https://hanajiakong.github.io/
+              sep: " and " 
+              start: "Joint with"
+            - name: J.D. Quigley
+              url: https://quigleyjd.github.io/
+              sep: "." 
+              start: ""
+        - title: Syntomic cohomology of 2-primary topological modular forms 
+          description: We compute the syntomic cohomology of 2-primary topological modular forms. Notably topological modular forms is most interesting at the primes 2 and 3 and the primes 2 and 3 require different techniques. 
+          coauthors:  
+            - name: Christian Ausoni
+              url: https://www.math.univ-paris13.fr/~ausoni/
+              sep:  ", "
+              start: "Joint with "
+            - name: Robert R. Bruner
+              url: http://www.rrb.wayne.edu/
+              sep:  ", "
+              start: ""
+            - name: Jack Morgan Davies
+              url: https://sites.google.com/view/jackmdavies/home
+              sep:  ", "
+              start: ""
+            - name: John Rognes 
+              url: https://www.mn.uio.no/math/personer/vit/rognes/
+              sep: ", and" 
+              start: ""
+            - name: Tristan Yang
+              url: https://math.mit.edu/directory/profile.html?pid=2451
+              sep: "." 
+              start: ""
+        - title: Syntomic cohomology of 3-primary topological modular forms 
+          description: We compute the syntomic cohomology of 3-primary topological modular forms. Notably topological modular forms is most interesting at the primes 2 and 3 and the primes 2 and 3 require different techniques. 
+          coauthors:  
+            - name: Jack Morgan Davies
+              url: https://sites.google.com/view/jackmdavies/home
+              sep:  ", and"
+              start: "Joint with "
+            - name: Tristan Yang
+              url: https://math.mit.edu/directory/profile.html?pid=2451
+              sep: "." 
+              start: ""
+        - title: The odd primary even filtration
+          description: We study a version of the even filtration in equivariant homotopy theory for a cyclic group of odd primary order. We also present a Mayer-Vietoris approach to slice spectral sequence computations and combine these two ideas to provide a computational tool for studying equivariant homotopy theory for a cyclic group of prime order. 
+          coauthors:  
+            - name: Mark Behrens
+              url: https://www3.nd.edu/~mbehren1/
+              sep: ", " 
+              start: "Joint with "
+            - name: Eva Belmont
+              url: https://mathweb.ucsd.edu/~ebelmont/
+              sep: ", " 
+              start: ""
+            - name: Maxwell Johnson
+              url: https://maxj.phd/
+              sep: ", and" 
+              start: ""
+            - name: Hana Jia Kong
+              url: https://hanajiakong.github.io/
+              sep: "." 
+              start: ""
+    - title: Notes
+      papers:
+        - title: Maps of simplicial spectra whose realizations are cofibrations
+          description: This note provides user friendly conditions for checking when a map of simplicial spectra induces a cofibration on geometric realizations. The results are proven in a completely elementary way. 
+          coauthors:  
+            - name: Andrew Salch
+              url: https://clasprofiles.wayne.edu/profile/dy8211
+              sep: "." 
+              start: "Joint with "
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/1611.06215
+              # body:
+              #   - {_uid: BUY6Drn9e7,paper: "reedy",displayText: "pdf"}
+        - title: K(n)-local homotopy groups via Lie algebra cohomology 
+          description: I compute the homotopy groups of the K(1)-local mod p Moore spectrum at odd primes in order to illustrate a method that can be used to compute K(n) local homotopy of more general type n complexes. This an expository article based on work of Doug Ravenel.
+          links:
+            - display: ""
+              url: ""
+              body:
+                 - {_uid: BUY6Drn9e8,paper: "liemay",displayText: "pdf"}    
+        - title: Auslander-Reiten quiver of unstable modules 
+          description: I describe the Auslander-Reiten quiver associated to the category of unstable E(1) modules where E(1) is the sub-Hopf algebra of the Steenrod algebra generated by the first two Milnor primitives.
+          links:
+            - display: ""
+              url: ""
+              body:
+                - {_uid: BUY6Drn9e9,paper: "quiver",displayText: "pdf"}
+    - title: Theses
+      papers:
+        - title: Periodicity in iterated algebraic K-theory of finite fields
+          description: I give a construction of the topological Hochschild-May spectral sequences, use it to compute topological Hochschild homology of the image of j after smashing with the Smith Toda complex of type one, and then I detect certain beta elements in iterated algebraic K-theory of finite fields. This is my PhD thesis completed under the direction of Andrew Salch. 
+          links:
+            - display: "link"
+              url: "https://digitalcommons.wayne.edu/oa_dissertations/1778/"
+        - title: Galois cohomology and algebraic K-theory of finite fields 
+          description: I compute algebraic K-theory of finite fields using Galois cohomology and an Atiyah-Hirzebruch type spectral sequence for algebraic K-theory. This project is my master's thesis completed under the direction of Andrew Salch.
+          links:
+            - display: ""
+              url: ""
+              body: 
+                 - {_uid: BUY6Drn9e6,paper: "masters",displayText: "pdf"}
+ #       - title: "Social Justice Through Mathematics: An Exploration of Social Justice Pedagogy and a Reflection on Mathematics in Summer Programs for Youth"
+ #         description:  I reflect on my experiences working in the KCIS's Think Summer! program and developing mathematics curriculum for the program. I also design my own summer program for teaching mathematics through a social justice lens, which I call Just Math, based upon reflections on work of Robert Moses, Paulo Freire, and Eric Gutstein. This is my undergraduate thesis completed under the direction of John Fink.
+ #         links:
+ #           - display: "link"
+ #             url: "https://cache.kzoo.edu/handle/10920/25148"
