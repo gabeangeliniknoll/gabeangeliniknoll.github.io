@@ -137,6 +137,17 @@ sections:
               start: "Published in "
     - title: Submitted Papers
       papers: 
+        - title: Syntomic cohomology of Morava K-theory 
+          description: We compute the syntomic cohomology of any MU-algebra form of the connective Morava K-theory. As qualitative consequences, we prove redshift, the telescope conjecture, and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of Morava K-theory. 
+          coauthors:
+            - name: Jeremy Hahn
+              url: https://web.mit.edu/~jhahn01/www/
+              sep: " and "
+              start: "Joint with "
+            - name: Dylan Wilson
+              url: https://dylwil3.github.io/
+              sep: "."
+              start: ""
         - title: Topological \Delta G-homology of twisted G-rings
           description: We construct a variant of topological Hochschild homology associated to any crossed simplicial group. The input of this construction is a ring with twisted G-action, which generalizes the notion of a ring with anti-involution. We compute this in the case of monoid rings with twisted G-action. 
           coauthors:  
@@ -219,17 +230,6 @@ sections:
               url: https://arxiv.org/abs/1908.09164
     - title: In progress
       papers:
-        - title: Syntomic cohomology of Morava K-theory 
-          description: We compute the syntomic cohomology of any MU-algebra form of the connective Morava K-theory. As qualitative consequences, we prove redshift, the telescope conjecture, and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of Morava K-theory. 
-          coauthors:
-            - name: Jeremy Hahn
-              url: https://web.mit.edu/~jhahn01/www/
-              sep: " and "
-              start: "Joint with "
-            - name: Dylan Wilson
-              url: https://dylwil3.github.io/
-              sep: "."
-              start: ""
         - title: Syntomic cohomology of truncated Brown-Peterson spectra
           description: We compute the syntomic cohomology of any MU-algebra form of truncated Brown--Peterson spectra. As qualitative consequences, we prove redshift, the telescope conjecture, and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of arbitrary MU-algebra forms of truncated Brown-Peterson spectra. 
           coauthors:
