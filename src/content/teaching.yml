@@ -132,7 +132,7 @@ section:
                 urldisplay: "" 
   - title: Secondary Instructor
     university: 
-        - title: Univesité Sorbonne Paris Nord
+        - title: Université Sorbonne Paris Nord
           courses:
             - semester: Fall 2023
               class: 
@@ -168,7 +168,7 @@ section:
                 urldisplay: Course Website
   - title: Working group organizer
     university:    
-      - title: Univesité Sorbonne Paris Nord
+      - title: Université Sorbonne Paris Nord
         courses:
           - semester: Winter/Spring 2023
             class:  
@@ -213,4 +213,6 @@ section:
           - semester: Winter 2019/20
             class: 
               - title: "Algebraic K-theory"
-                description: A research seminar on algenbraic K-theory for graduate students in algebraic geometry and topology. 
+                description: A research seminar on algebraic K-theory for graduate students in algebraic geometry and topology. 
+                url: 
+                urldisplay: 
