@@ -230,7 +230,7 @@ sections:
               url: https://arxiv.org/abs/1908.09164
     - title: In progress
       papers:
-        - title: Syntomic cohomology of truncated Brown-Peterson spectra
+        - title: Syntomic cohomology of truncated Brown-Peterson spectra [pp.]
           description: We compute the syntomic cohomology of any MU-algebra form of truncated Brown--Peterson spectra. As qualitative consequences, we prove redshift, the telescope conjecture, and the Ausoni-Rognes-Lichtenbaum-Quillen conjecture holds for algebraic K-theory of arbitrary MU-algebra forms of truncated Brown-Peterson spectra. 
           coauthors:
             - name: Jeremy Hahn
@@ -247,7 +247,7 @@ sections:
             - name: Hana Jia Kong
               url: https://hanajiakong.github.io/
               sep: " and " 
-              start: "Joint with"
+              start: "Joint with "
             - name: J.D. Quigley
               url: https://quigleyjd.github.io/
               sep: "." 
@@ -275,17 +275,6 @@ sections:
               url: https://math.mit.edu/directory/profile.html?pid=2451
               sep: "." 
               start: ""
-        - title: Syntomic cohomology of 3-primary topological modular forms 
-          description: We compute the syntomic cohomology of 3-primary topological modular forms. Notably topological modular forms is most interesting at the primes 2 and 3 and the primes 2 and 3 require different techniques. 
-          coauthors:  
-            - name: Jack Morgan Davies
-              url: https://sites.google.com/view/jackmdavies/home
-              sep:  ", and"
-              start: "Joint with "
-            - name: Tristan Yang
-              url: https://math.mit.edu/directory/profile.html?pid=2451
-              sep: "." 
-              start: ""
         - title: The odd primary even filtration
           description: We study a version of the even filtration in equivariant homotopy theory for a cyclic group of odd primary order. We also present a Mayer-Vietoris approach to slice spectral sequence computations and combine these two ideas to provide a computational tool for studying equivariant homotopy theory for a cyclic group of prime order. 
           coauthors:  
@@ -303,6 +292,17 @@ sections:
               start: ""
             - name: Hana Jia Kong
               url: https://hanajiakong.github.io/
+              sep: "." 
+              start: ""
+        - title: Syntomic cohomology of 3-primary topological modular forms 
+          description: We compute the syntomic cohomology of 3-primary topological modular forms. Notably topological modular forms is most interesting at the primes 2 and 3 and the primes 2 and 3 require different techniques. 
+          oauthors:  
+            - name: Jack Morgan Davies
+              url: https://sites.google.com/view/jackmdavies/home
+              sep:  ", and"
+              start: "Joint with "
+            - name: Tristan Yang
+              url: https://math.mit.edu/directory/profile.html?pid=2451
               sep: "." 
               start: ""
     - title: Notes
