@@ -119,7 +119,7 @@ const Talks = () => (
           <h4>Evidence for the Greek letter family red-shift conjecture</h4>
             <p><font size="3">Midwest Topology Conference, Wayne State University</font></p>
         <h3>April</h3>
-          <t h4>Loday construction in functor categories [<PDF pdfFile={Loday} displayText='pdf' />]</h4>
+          <h4>Loday construction in functor categories [<PDF pdfFile={Loday} displayText='pdf' />]</h4>
             <p><font size="3">AMS Sectional, Indiana University</font></p>
         <h3>February</h3>
           <h4>Approximating algebraic K-theory of the image of J</h4>
