@@ -7,43 +7,47 @@ import PDF from "../components/pdf"
 
 // pdfs
 import Loday from "../static/Lodayfunctorcats.pdf"  
-import Fundamental from "../static/FTKthytalk.pdf"
-import Nilpotence from "../static/nilptalk.pdf"
-import ProObjects from "../static/pro-object.pdf"
 import Redshift from "../static/redshift.pdf"
 import SnowFlake from "../static/snowflake.pdf"
 import Stacks from "../static/stacks.pdf"
 
 const Talks = () => (
-  <Layout>
-    <SEO title="Talks" />
-    <h1>Invited Talks</h1>
-      <h2>2024</h2>
-        <h3>December</h3>
+ <Layout>
+  <SEO title="Talks" />
+   <h1>Invited Talks</h1>
+     <h2>Upcoming talks</h2>
+       <h3>June</h3>
+         <h4>TBD</h4> 
+          <p><font size="3"><a href="https://iwoat.github.io/">International Workshop on Algebraic Topology</a>, Zhejiang University, Hangzhou, China.</font></p>
+       <h3>May</h3>
+         <h4>TBD</h4> 
+            <p><font size="3"><a href="https://www.math.ku.dk/english/calendar/">Algebra/Topology Seminar</a>, University of Copenhagen</font></p>
+     <h2>2024</h2>
+       <h3>December</h3>
           <h4>Real syntomic cohomology</h4>
-          <p><font size="3"><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/venice24/">Real THH in Venice</a>, Venice, Italy</font></p>
+            <p><font size="3"><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/venice24/">Real THH in Venice</a>, Venice, Italy</font></p>
         <h3>December</h3>
           <h4>Algebraic K-theory of minimal p-local skew-fields in homotopy theory</h4>
-          <p><font size="3"><a href="https://az.uni-wuppertal.de/en/activities/guest-seminar">Algebra and Topology Seminar</a>, University of Wupertal</font></p>
+            <p><font size="3"><a href="https://az.uni-wuppertal.de/en/activities/guest-seminar">Algebra and Topology Seminar</a>, University of Wupertal</font></p>
         <h3>October</h3>
           <h4>Algebraic K-theory of minimal p-local skew-fields in homotopy theory</h4>
-          <p><font size="3"><a href="https://sites.google.com/view/nialltaggartmath/seminars-events/topics">Topology Intercity Seminar</a>, Radboud University, Nijmegen</font></p>
+            <p><font size="3"><a href="https://sites.google.com/view/nialltaggartmath/seminars-events/topics">Topology Intercity Seminar</a>, Radboud University, Nijmegen</font></p>
         <h3>July</h3>
           <h4>Syntomic cohomology of ring spectra</h4>
-          <p><font size="3"><a href="https://www.mfo.de/occasion/2430/www_view">Topologie</a>, Oberwolfach.</font></p>
+            <p><font size="3"><a href="https://www.mfo.de/occasion/2430/www_view">Topologie</a>, Oberwolfach.</font></p>
         <h3>April</h3>
           <h4>Syntomic cohomology of real topological K-theory</h4>
-          <p><font size="3"><a href="https://www.math.uni-bonn.de/ag/topo/seminar">Topology Seminar</a>, University of Bonn.</font></p>
+            <p><font size="3"><a href="https://www.math.uni-bonn.de/ag/topo/seminar">Topology Seminar</a>, University of Bonn.</font></p>
         <h3>March</h3>
           <h4>Syntomic cohomology of real topological K-theory</h4>
-          <p><font size="3"><a href="https://math.mit.edu/topology/index.html">Topology Seminar</a>, Massachusetts Institute of Technology.</font></p>
+            <p><font size="3"><a href="https://math.mit.edu/topology/index.html">Topology Seminar</a>, Massachusetts Institute of Technology.</font></p>
       <h2>2023</h2>
         <h3>November</h3>
           <h4>Syntomic cohomology of real topological K-theory</h4>
-          <p><font size="3"><a href="http://users.mat.unimi.it/users/SGA/">Arithmetic Geometry Seminar</a>, University of Milan.</font></p>
+           <p><font size="3"><a href="http://users.mat.unimi.it/users/SGA/">Arithmetic Geometry Seminar</a>, University of Milan.</font></p>
         <h3>June</h3>
           <h4>Syntomic cohomology of Morava K-theory</h4>
-          <p><font size="3"><a href="https://folk.ntnu.no/runegha/htpyintrd.html">Homotopy Theory in Trondheim</a>, Norwegian University of Science and Technology.</font></p>
+            <p><font size="3"><a href="https://folk.ntnu.no/runegha/htpyintrd.html">Homotopy Theory in Trondheim</a>, Norwegian University of Science and Technology.</font></p>
         <h3>March</h3>
           <h4>Deformations of equivariant homotopy theory</h4>
             <p><font size="3"><a href="https://damienespadon.wixsite.com/dersympapp/alpe">Nouveau séminaire ALPE</a>, Universit<span>&eacute;</span> Montpellier</font></p>
@@ -70,13 +74,10 @@ const Talks = () => (
         <h3>May</h3>
           <h4>Real topological Hochschild homology, norms and Witt vectors [<a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/atseminar2020/Angelini-Knoll.mp4">Video</a>]</h4>
             <p><font size="3"><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/ATseminar/past/20-21">Algebraic Topology Seminar</a>, University of Warwick</font></p>
-        <h3>March</h3>
-          <h4>Algebraic K-theory and chromatic homotopy theory [<PDF pdfFile={Redshift} displayText='pdf' />]</h4>
-            <p><font size="3">Equivariant techniques in stable homotopy theory, American Institute of Mathematics, San Jose, California</font></p>
       <h2>2020</h2>
         <h3>April</h3>
           <h4>Morava K-theory of algebraic K-theory and topological periodic cyclic homology</h4>
-            <p><font size="3"> <a href="https://www.epfl.ch/labs/hessbellwald-lab/seminar/topsemsp20/">Topology Seminar</a>, <span>&#201;</span>cole polytechnique f<span>&#233;</span>d<span>&#233;</span>rale de Lausanne</font></p>
+            <p><font size="3"><a href="https://www.epfl.ch/labs/hessbellwald-lab/seminar/topsemsp20/">Topology Seminar</a>, <span>&#201;</span>cole polytechnique f<span>&#233;</span>d<span>&#233;</span>rale de Lausanne</font></p>
         <h3>March</h3>
           <h4>Morava K-theory of algebraic K-theory and topological periodic cyclic homology</h4>
             <p><font size="3"><a href="https://math.mit.edu/topology/pastseminars.html">Topology Seminar</a>, Massachusetts Institute of Technology</font></p>
@@ -118,7 +119,7 @@ const Talks = () => (
           <h4>Evidence for the Greek letter family red-shift conjecture</h4>
             <p><font size="3">Midwest Topology Conference, Wayne State University</font></p>
         <h3>April</h3>
-          <h4>Loday construction in functor categories [<PDF pdfFile={Loday} displayText='pdf' />]</h4>
+          <t h4>Loday construction in functor categories [<PDF pdfFile={Loday} displayText='pdf' />]</h4>
             <p><font size="3">AMS Sectional, Indiana University</font></p>
         <h3>February</h3>
           <h4>Approximating algebraic K-theory of the image of J</h4>
@@ -142,9 +143,17 @@ const Talks = () => (
           <h4>The Topologist's Snowflake and the Rose [<PDF pdfFile={SnowFlake} displayText='pdf' />]</h4>
             <p><font size="3">Undergraduate Seminar, Kalamazoo College</font></p>
   <h1>Expository Talks</h1>
+    <h2>2024</h2>
+      <h3>October</h3>
+        <h4>Basic examples of Lichtenbaum-Quillen</h4>
+          <p><font size="3">Arbeitsgemeinschaft: Algebraic K-Theory and the Telescope Conjecture, Oberwolfach, Germany</font></p>
+    <h2>2024</h2>
+      <h3>March</h3>
+        <h4>Algebraic K-theory and chromatic homotopy theory [<PDF pdfFile={Redshift} displayText='pdf' />]</h4>
+          <p><font size="3">Equivariant techniques in stable homotopy theory, American Institute of Mathematics, San Jose, California</font></p>
     <h2>2018</h2>
       <h3>May</h3>
-        <h4>Pro-objects in infinity categories [<PDF pdfFile={ProObjects} displayText='pdf' />]</h4>
+        <h4>Pro-objects in infinity categories</h4>
           <p><font size="3">Vitamin K1: Kerz-Strunk-Tamme's Proof of Weibel's Conjecture, University of Illinois at Chicago</font></p>
     <h2>2017</h2>
       <h3>May</h3>
@@ -155,13 +164,13 @@ const Talks = () => (
           <p><font size="3">West Coast Algebraic Topology Summer School, University of Oregon (joint with <a href="https://math.northwestern.edu/~ebelmont/">Eva Belmont</a>)</font></p>
     <h2>2015</h2>
       <h3>July</h3>
-        <h4>Fundamental Theorems of Algebraic K-theory [<PDF pdfFile={Fundamental} displayText='pdf' />]</h4>
+        <h4>Fundamental Theorems of Algebraic K-theory</h4>
           <p><font size="3">European Talbot Workshop, Klosters, Switzerland</font></p>
     <h2>2014</h2>
       <h3>July</h3>
-        <h4>On the paper "Nilpotence and Stable Homotopy Theory II" [<PDF pdfFile={Nilpotence} displayText='pdf' />]</h4>
+        <h4>On the paper "Nilpotence and Stable Homotopy Theory II"</h4>
           <p><font size="3">MSRI Summer School: Algebraic Topology, Guanajuato, Mexico</font></p>
-  </Layout>
+ </Layout>
 )
 
 export default Talks
