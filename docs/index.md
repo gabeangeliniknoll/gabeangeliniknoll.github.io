@@ -13,7 +13,7 @@ In addition to my research activity, I have had the opportunity to teach a broad
 
 /// html | div[style='float: right; width: 40%;']
 
-![](gimages/g.jpg){: style="width:300px"}
+![](images/g.jpg){: style="width:300px"}
 
 ///
 
