@@ -1,0 +1,21 @@
+site_name: Gabriel Angelini-Knoll
+
+nav:
+    - Home: index.md
+    - Research: research.md
+    - Teaching: teaching.md
+    - Talks: talks.md
+    - Mentoring: mentoring.md
+
+theme:
+    name: cinder
+    nav_style: dark
+
+plugins: 
+    - search
+
+markdown_extensions:
+    - attr_list
+    - pymdownx.blocks.html
+    - toc:
+        toc_depth: 2
