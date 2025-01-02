@@ -3,7 +3,7 @@
 
 /// html | div[style='float: left; width: 60%;']
 
-I am a postdoctoral researcher at [Université Paris 13](https://www.math.univ-paris13.fr/) and I am currently on a research visit at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de/) in Bonn. Previously, I was a postdoctoral researcher at the Freie Universität Berlin and Michigan State University. I earned my PhD at Wayne State University under the direction of Andrew Salch.
+Test. I am a postdoctoral researcher at [Université Paris 13](https://www.math.univ-paris13.fr/) and I am currently on a research visit at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de/) in Bonn. Previously, I was a postdoctoral researcher at the Freie Universität Berlin and Michigan State University. I earned my PhD at Wayne State University under the direction of Andrew Salch.
 
 I research interactions between algebraic topology, arithmetic, and geometry. Specifically, I am interested invariants of ring spectra, such as algebraic K-theory and Hochschild homology, as well as chromatic, equivariant, and motivic homotopy theory.
 
@@ -13,7 +13,7 @@ In addition to my research activity, I have had the opportunity to teach a broad
 
 /// html | div[style='float: right; width: 40%;']
 
-![](images/g.jpg){: style="width:300px"}
+![](gimages/g.jpg){: style="width:300px"}
 
 ///
 
