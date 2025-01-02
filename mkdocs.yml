@@ -1,4 +1,5 @@
 site_name: Gabriel Angelini-Knoll
+site_url: https://gabeangeliniknoll.github.io/homepage/
 
 nav:
     - Home: index.md
