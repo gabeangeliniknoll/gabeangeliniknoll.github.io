@@ -11,6 +11,9 @@ nav:
 theme:
     name: cinder
     nav_style: dark
+    disable_nav_previous_next: true
+    disable_nav_search: true
+    disable_footer: true
 
 plugins: 
     - search
