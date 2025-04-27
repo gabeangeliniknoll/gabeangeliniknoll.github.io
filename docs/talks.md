@@ -38,7 +38,7 @@
 
 #### Upcoming in 2025
 
-* TBD. Algebra/Topology Seminar, University of Copenhagen
+* Syntomic cohomology of regular ring spectra. Algebra/Topology Seminar, University of Copenhagen
 
 #### 2024
 

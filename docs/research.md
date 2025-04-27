@@ -1,11 +1,12 @@
+
 # Research
 
-## Accepted papers
-
-* __Geometry & Topology__ Algebraic K-theory of elliptic cohomology.  
-    Joint with Ch. Ausoni, D. L. Culver, E. Höning, and J. Rognes. [Publication](https://msp.org/soon/coming.php?jpath=gt)
+My work focuses on invariants of ring spectra that shed light on arithmetic and geometry.
 
 ## Published papers
+
+* __Geometry & Topology__ Algebraic K-theory of elliptic cohomology.  
+    Joint with Ch. Ausoni, D. L. Culver, E. Höning, and J. Rognes. [Publication]()
 
 * __Algebraic & Geometric Topology__ Topological Hochschild homology of the second truncated Brown-Peterson spectrum I. Joint with D. L. Culver and E. Höning. [Publication](https://msp.org/agt/2024/24-5/p03.xhtml)
 
@@ -36,16 +37,7 @@
 
 6. Commuting unbounded homotopy limits with Morava K-theory. Joint with A. Salch. [arXiv](https://arxiv.org/abs/2003.03510) 
 
-7. Chromatic complexity of algebraic K-theory of y(n). Joint with J.D. Quigley. [arXiv](https://arxiv.org/abs/1908.09164) 
-
-
-## In Preperation
-
-1. Real syntomic cohomology. Joint with J. D. Quigley and H. J. Kong.  
-
-2. Syntomic cohomology of truncated Brown-Peterson spectra. Joint with J. Hahn and D. Wilson. 
-
-3. Syntomic cohomology of 2-local topological modular forms. Joint with Ch. Ausoni, R. B. Bruner, J. Davies, J. Rognes, and T. Yang. 
+7. Chromatic complexity of algebraic K-theory of y(n). Joint with J.D. Quigley. [arXiv](https://arxiv.org/abs/1908.09164) l
 
 ## Notes
 
