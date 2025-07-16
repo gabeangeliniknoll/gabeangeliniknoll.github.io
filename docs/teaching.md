@@ -3,6 +3,10 @@
 
 ## Primary Instructor
 
+#### Case Western Reserve University 
+
+* MATH 308. Introduction to Abstract Algebra. 
+
 #### Freie Universität Berlin
 
 * Topology I. Summer 2022. [Course website](https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2022so_Topologie1.html)
