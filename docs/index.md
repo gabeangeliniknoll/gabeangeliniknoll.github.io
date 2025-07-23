@@ -8,11 +8,11 @@
 ///
 
 
-/// html | div[style='float: right;max-width=600px']
+/// html | div[style='float: right; max-width:600px']
 
 I am an assistant professor in the Department of Mathematics, Applied Mathematics, and Statistics at [Case Western Reserve University](https://mathstats.case.edu/). 
 
-Previously, I held postdoctoral researcher positions at Université Paris 13, Freie Universität Berlin, and Michigan State University. From fall 2024 to spring 2025, I was a guest at the Max PLanck Institute for Mathematics in Bonn. I earned my PhD at Wayne State University under the direction of Andrew Salch.
+Previously, I held postdoctoral researcher positions at Université Paris 13, Freie Universität Berlin, and Michigan State University. From fall 2024 to spring 2025, I was a guest at the Max Planck Institute for Mathematics in Bonn. I earned my PhD at Wayne State University under the direction of Andrew Salch.
 
 My research areas are algebraic topology and algebraic K-theory. I am especially interested in computations that have applications to arithmetic and geometry.  
 

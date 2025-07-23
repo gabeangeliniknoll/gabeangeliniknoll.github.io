@@ -4,13 +4,13 @@
 
 #### Upcoming
 
-* Real syntomic cohomlogy. Special session on Homotopy Theory. AMS Sectional Meeting. Saint Louis University
+* Real syntomic cohomology. Special session on Homotopy Theory. AMS Sectional Meeting. Saint Louis University
 
 * Syntomic cohomology of topological modular forms. Special session on Chromatic Homotopy Theory. AMS Sectional Meeting. University of Denver
 
 #### 2025
 
-* Real Syntomic cohomology. International Workshop on Algebraic Topology 2025, Zhejiang University, Hangzhou, China
+* Real syntomic cohomology. International Workshop on Algebraic Topology 2025, Zhejiang University, Hangzhou, China
 
 * Syntomic cohomology of regular ring spectra. Beyond the telescope conjecture. Isaac Newton Institute, Cambridge, UK. [Recording](https://www.newton.ac.uk/seminar/46464/)
 
