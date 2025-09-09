@@ -28,6 +28,7 @@ In addition to my research, I enjoy teaching, mentoring research projects, and o
 
 ## Contact
 
+* Office: 105F
 * Address: 2145 Adelbert Rd, Cleveland, OH 44106, USA
 * Email: gabriel [dot] angelini-knoll [at] case [dot] edu 
 * Pronouns: he/him
