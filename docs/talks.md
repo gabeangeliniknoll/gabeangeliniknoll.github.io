@@ -6,6 +6,8 @@
 
 * TBD. Topology Seminar. Michigan State University
 
+* TBD. Topology Seminar. University of Virginia
+
 * TBD. Algebra/Topology Seminar. The University at Albany SUNY
 
 * Real syntomic cohomology. Special session on Homotopy Theory. AMS Sectional Meeting. Saint Louis University
