@@ -5,6 +5,8 @@ My work focuses on invariants of ring spectra that shed light on arithmetic and 
 
 ## Published papers
 
+* __Advances in Mathematics__ Real Topological Hochschild homology via the norm and Real Witt vectors. Joint with T. Gerhardt and M. A. Hill. [Publication](https://www.sciencedirect.com/science/article/pii/S0001870825004669)
+
 * __Journal of Pure and Applied Algebra__ A homological approach to chromatic complexity of algebraic K-theory. Joint with J.D. Quigley. [Publication](https://www.sciencedirect.com/science/article/pii/S0022404925001665)
 
 * __Geometry & Topology__ Algebraic K-theory of elliptic cohomology. Joint with Ch. Ausoni, D. L. Culver, E. Höning, and J. Rognes. [Publication](https://msp.org/gt/2025/29-2/gt-v29-n2-p02-p.pdf)
@@ -35,8 +37,6 @@ My work focuses on invariants of ring spectra that shed light on arithmetic and 
 * Algebraic K-theory of real topological K-theory. Joint with Ch. Ausoni and J. Rognes. [arXiv](https://arxiv.org/abs/2309.11463) 
 
 * A deformation of Borel equivariant homotopy. Joint with M. Behrens, E. Belmont, and H. J. Kong. [arXiv](https://arxiv.org/abs/2308.01873) 
-
-* Real Topological Hochschild homology via the norm and Real Witt vectors. Joint with T. Gerhardt and M. A. Hill. [arXiv](https://arxiv.org/abs/2111.06970) 
 
 * Commuting unbounded homotopy limits with Morava K-theory. Joint with A. Salch. [arXiv](https://arxiv.org/abs/2003.03510) 
  

@@ -5,7 +5,7 @@
 
 #### Case Western Reserve University 
 
-* MATH 308. Introduction to Abstract Algebra. 
+* MATH 308. Introduction to Abstract Algebra. Fall 2025, Winter 2026 
 
 #### Freie Universität Berlin
 

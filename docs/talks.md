@@ -14,7 +14,7 @@
 
 #### 2025
 
-** Syntomic cohomology of topological modular forms. Special session on Chromatic Homotopy Theory. AMS Sectional Meeting. University of Denver
+* Syntomic cohomology of topological modular forms. Special session on Chromatic Homotopy Theory. AMS Sectional Meeting. University of Denver
 
 * Real syntomic cohomology. International Workshop on Algebraic Topology 2025, Zhejiang University, Hangzhou, China
 
