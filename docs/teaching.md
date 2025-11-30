@@ -3,9 +3,20 @@
 
 ## Primary Instructor
 
+### Current
+
 #### Case Western Reserve University 
 
-* MATH 308. Introduction to Abstract Algebra. Fall 2025, Winter 2026 
+* MATH 308. Introduction to Abstract Algebra. Winter 2026 
+* MATH 601. K-theory. Winter 2026
+* Category and Homotopy theory Seminar. Co-organizer with Eva Belmont
+
+### Past 
+
+#### Case Western Reserve University 
+
+* MATH 308. Introduction to Abstract Algebra. Fall 2025
+
 
 #### Freie Universität Berlin
 

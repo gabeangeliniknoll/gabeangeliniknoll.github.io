@@ -1,56 +1,20 @@
 # Talks
 
-## Invited Conference Talks
+## Invited Seminar Talks
 
 #### Upcoming
 
+* TBD. Topology Seminar. University of Rochester
+
 * TBD. Topology Seminar. Michigan State University
 
-* TBD. Topology Seminar. University of Virginia
-
-* TBD. Algebra/Topology Seminar. The University at Albany SUNY
-
-* Real syntomic cohomology. Special session on Homotopy Theory. AMS Sectional Meeting. Saint Louis University
+* TBD. Topology Seminar. Wayne State University
 
 #### 2025
 
-* Syntomic cohomology of topological modular forms. Special session on Chromatic Homotopy Theory. AMS Sectional Meeting. University of Denver
+* Algebraic K-theory of the prime division rings in homotopy theory. Algebra/Topology Seminar. The University at Albany SUNY
 
-* Real syntomic cohomology. International Workshop on Algebraic Topology 2025, Zhejiang University, Hangzhou, China
-
-* Syntomic cohomology of regular ring spectra. Beyond the telescope conjecture. Isaac Newton Institute, Cambridge, UK. [Recording](https://www.newton.ac.uk/seminar/46464/)
-
-#### 2024
-
-* Real syntomic cohomology. Real THH in Venice, Venice, Italy
-
-* Basic examples of Lichtenbaum-Quillen. Arbeitsgemeinschaft: Algebraic K-Theory and the Telescope Conjecture, Oberwolfach, Germany. [Notes](https://ems.press/journals/owr/articles/14298802)
-
-* Syntomic cohomology of ring spectra. Topologie, Oberwolfach, Germany
-
-#### 2023
-
-* Syntomic cohomology of Morava K-theory. Homotopy Theory in Trondheim, Norwegian University of Science and Technology. Trondheim, Norway
-
-#### 2021
-
-* Algebraic K-theory and chromatic homotopy theory. Equivariant techniques in stable homotopy theory, American Institute of Mathematics, San Jose, California
-
-#### 2020
-
-* Equivariant Witt vectors, Real topological Hochschild homology, and norms. Equivariant homotopy theory and p-adic Hodge Theory Conference, Banff International Research Station, Canada 
-
-#### 2019
-
-* Towards Topological Hochschild homology of the second truncated Brown-Peterson spectrum. AMS Sectional, University of Hawaii at Manoa
-
-#### 2018
-
-* Chromatic complexity of topological periodic cyclic homology of y(n). AMS Sectional, Ohio State University
-
-## Invited Seminar Talks
-
-#### Upcoming in 2025
+* Algebraic K-theory and syntomic cohomology of real topological K-theory. Topology Seminar. University of Virginia
 
 * Syntomic cohomology of regular ring spectra. Algebra/Topology Seminar, University of Copenhagen, Denmark
 
@@ -133,4 +97,45 @@
 #### 2014
 
 * The Topologist's Snowflake and the Rose. Undergraduate Seminar, Kalamazoo College
+
+
+## Invited Conference Talks
+
+#### 2025
+
+* Real syntomic cohomology. Special session on Homotopy Theory. AMS Sectional Meeting. Saint Louis University
+
+* Syntomic cohomology of topological modular forms. Special session on Chromatic Homotopy Theory. AMS Sectional Meeting. University of Denver
+
+* Real syntomic cohomology. International Workshop on Algebraic Topology 2025, Zhejiang University, Hangzhou, China
+
+* Syntomic cohomology of regular ring spectra. Beyond the telescope conjecture. Isaac Newton Institute, Cambridge, UK. [Recording](https://www.newton.ac.uk/seminar/46464/)
+
+#### 2024
+
+* Real syntomic cohomology. Real THH in Venice, Venice, Italy
+
+* Basic examples of Lichtenbaum-Quillen. Arbeitsgemeinschaft: Algebraic K-Theory and the Telescope Conjecture, Oberwolfach, Germany. [Notes](https://ems.press/journals/owr/articles/14298802)
+
+* Syntomic cohomology of ring spectra. Topologie, Oberwolfach, Germany
+
+#### 2023
+
+* Syntomic cohomology of Morava K-theory. Homotopy Theory in Trondheim, Norwegian University of Science and Technology. Trondheim, Norway
+
+#### 2021
+
+* Algebraic K-theory and chromatic homotopy theory. Equivariant techniques in stable homotopy theory, American Institute of Mathematics, San Jose, California
+
+#### 2020
+
+* Equivariant Witt vectors, Real topological Hochschild homology, and norms. Equivariant homotopy theory and p-adic Hodge Theory Conference, Banff International Research Station, Canada 
+
+#### 2019
+
+* Towards Topological Hochschild homology of the second truncated Brown-Peterson spectrum. AMS Sectional, University of Hawaii at Manoa
+
+#### 2018
+
+* Chromatic complexity of topological periodic cyclic homology of y(n). AMS Sectional, Ohio State University
 

@@ -33,6 +33,9 @@ In addition to my research, I enjoy teaching, mentoring research projects, and o
 * Email: gabriel [dot] angelini-knoll [at] case [dot] edu 
 * Pronouns: he/him
 
+## Current Events
+
+On February 7-8 2026 I am co-organizing the [Midwest Topology Seminar](https://sites.google.com/case.edu/mts-winter2026/hom) at Case Western Reserve University. 
 
 ## Resources
 
@@ -41,4 +44,4 @@ In addition to my research, I enjoy teaching, mentoring research projects, and o
 
 ## Collaborators
 
-[Ch. Ausoni](https://www.math.univ-paris13.fr/~ausoni/), [M. Behrens](https://www3.nd.edu/~mbehren1/), [E. Belmont](https://sites.google.com/case.edu/ebelmont), [D. L. Culver](https://dlculver.github.io/), [J. Davies](https://sites.google.com/view/jackmdavies/home), [T. Gerhardt](https://users.math.msu.edu/users/gerhar18/Home.html), [J. Hahn](https://web.mit.edu/~jhahn01/www/), [M. A. Hill](https://mikehill.math.umn.edu/), [E. Höning](https://evahoening.netlify.app/), [M. Johnson](https://maxj.phd/), [H. J.  Kong](https://hanajiakong.github.io/), [M. Merling](https://www2.math.upenn.edu/~mmerling/), [M. Péroux](https://www.maximilienperoux.com/), [J.D. Quigley](https://quigleyjd.github.io/), [A. Salch](https://clasprofiles.wayne.edu/profile/dy8211), [J. Rognes](https://www.mn.uio.no/math/personer/vit/rognes/), [D. Wilson](https://dylwil3.github.io/), [T. Yang](https://math.mit.edu/directory/profile.html?pid=2451), [F. Zou](https://zzzflll.github.io/)
+[Ch. Ausoni](https://www.math.univ-paris13.fr/~ausoni/), [H. Ö. Bayindir](https://sites.google.com/view/ozgurbayindir/home), [M. Behrens](https://www3.nd.edu/~mbehren1/), [E. Belmont](https://sites.google.com/case.edu/ebelmont), [D. Chan](https://sites.google.com/view/davidchanmath), [M. Chaminadour](https://www.chaminadour.net/), [D. L. Culver](https://dlculver.github.io/), [J. Davies](https://sites.google.com/view/jackmdavies/home), [T. Gerhardt](https://users.math.msu.edu/users/gerhar18/Home.html), [J. Hahn](https://web.mit.edu/~jhahn01/www/), [M. A. Hill](https://mikehill.math.umn.edu/), [E. Höning](https://evahoening.netlify.app/), [M. Johnson](https://maxj.phd/), [H. J.  Kong](https://hanajiakong.github.io/), [M. Merling](https://www2.math.upenn.edu/~mmerling/), [M. Péroux](https://www.maximilienperoux.com/), [J.D. Quigley](https://quigleyjd.github.io/), [R. Ray](https://rin.io/about/), [A. Salch](https://clasprofiles.wayne.edu/profile/dy8211), [J. Rognes](https://www.mn.uio.no/math/personer/vit/rognes/), [D. Wilson](https://dylwil3.github.io/), [T. Yang](https://math.mit.edu/directory/profile.html?pid=2451), [F. Zou](https://zzzflll.github.io/)

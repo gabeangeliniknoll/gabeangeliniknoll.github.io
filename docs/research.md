@@ -5,6 +5,8 @@ My work focuses on invariants of ring spectra that shed light on arithmetic and 
 
 ## Published papers
 
+* __Advances in Mathematics__ A deformation of Borel equivariant homotopy. Joint with M. Behrens, E. Belmont, and H. J. Kong. [Publication](https://www.sciencedirect.com/science/article/pii/S0001870825005961?via%3Dihub) 
+
 * __Advances in Mathematics__ Real Topological Hochschild homology via the norm and Real Witt vectors. Joint with T. Gerhardt and M. A. Hill. [Publication](https://www.sciencedirect.com/science/article/pii/S0001870825004669)
 
 * __Journal of Pure and Applied Algebra__ A homological approach to chromatic complexity of algebraic K-theory. Joint with J.D. Quigley. [Publication](https://www.sciencedirect.com/science/article/pii/S0022404925001665)
@@ -35,8 +37,6 @@ My work focuses on invariants of ring spectra that shed light on arithmetic and 
 * Topological Delta G-homology of twisted G-rings. Joint with M. Merling and M. Peroux. [arXiv](https://arxiv.org/abs/2409.18187) 
 
 * Algebraic K-theory of real topological K-theory. Joint with Ch. Ausoni and J. Rognes. [arXiv](https://arxiv.org/abs/2309.11463) 
-
-* A deformation of Borel equivariant homotopy. Joint with M. Behrens, E. Belmont, and H. J. Kong. [arXiv](https://arxiv.org/abs/2308.01873) 
 
 * Commuting unbounded homotopy limits with Morava K-theory. Joint with A. Salch. [arXiv](https://arxiv.org/abs/2003.03510) 
  
