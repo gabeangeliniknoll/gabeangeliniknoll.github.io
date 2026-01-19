@@ -1,30 +1,52 @@
 # Talks
 
-## Invited Seminar Talks
-
 #### Upcoming
+
+* TBD. International Centre for Theoretical Sciences. Bangalore, India
+
+* TBD. Topology Seminar. Universitat de Barcelona
 
 * TBD. Topology Seminar. University of Rochester
 
+* TBD. Topology Seminar. Indiana University 
+
 * TBD. Topology Seminar. Michigan State University
 
-* TBD. Topology Seminar. Wayne State University
+* TBD. Geometry & Topology Seminar. New Mexico State University
 
 #### 2025
+
+* Real syntomic cohomology. Topology Seminar. Wayne State University
+
+* Real syntomic cohomology. Special session on Homotopy Theory. AMS Sectional Meeting. Saint Louis University
 
 * Algebraic K-theory of the prime division rings in homotopy theory. Algebra/Topology Seminar. The University at Albany SUNY
 
 * Algebraic K-theory and syntomic cohomology of real topological K-theory. Topology Seminar. University of Virginia
 
+* Syntomic cohomology of topological modular forms. Special session on Chromatic Homotopy Theory. AMS Sectional Meeting. University of Denver
+
+* Real syntomic cohomology. International Workshop on Algebraic Topology 2025, Zhejiang University, Hangzhou, China
+
+* Syntomic cohomology of regular ring spectra. Beyond the telescope conjecture. Isaac Newton Institute, Cambridge, UK. [Recording](https://www.newton.ac.uk/seminar/46464/)
+
 * Syntomic cohomology of regular ring spectra. Algebra/Topology Seminar, University of Copenhagen, Denmark
 
 #### 2024
+
+* Real syntomic cohomology. Real THH in Venice, Venice, Italy
+
+* Basic examples of Lichtenbaum-Quillen. Arbeitsgemeinschaft: Algebraic K-Theory and the Telescope Conjecture, Oberwolfach, Germany. [Notes](https://ems.press/journals/owr/articles/14298802)
+
+* Syntomic cohomology of ring spectra. Topologie, Oberwolfach, Germany
 
 * Algebraic K-theory of minimal p-local skew-fields in homotopy theory. Algebra and Topology Seminar, University of Wupertal, Germany
 
 * Algebraic K-theory of minimal p-local skew-fields in homotopy theory. Topology Intercity Seminar, Radboud University, Nijmegen, The Netherlands
 
 #### 2023
+
+* Syntomic cohomology of Morava K-theory. Homotopy Theory in Trondheim, Norwegian University of Science and Technology. Trondheim, Norway
 
 * Syntomic cohomology of real topological K-theory. Topology Seminar, University of Bonn, Germany
 
@@ -50,7 +72,11 @@
 
 * Real topological Hochschild homology, norms and Witt vectors. Algebraic Topology Seminar, University of Warwick, UK
 
+* Algebraic K-theory and chromatic homotopy theory. Equivariant techniques in stable homotopy theory, American Institute of Mathematics, San Jose, California
+
 #### 2020
+
+* Equivariant Witt vectors, Real topological Hochschild homology, and norms. Equivariant homotopy theory and p-adic Hodge Theory Conference, Banff International Research Station, Canada 
 
 * Morava K-theory of algebraic K-theory and topological periodic cyclic homology. Topology Seminar, École polytechnique fédérale de Lausanne, Switzerland
 
@@ -59,6 +85,8 @@
 * Chromatic complexity and topological periodic cyclic homology. Topology Seminar, Bergische Universität Wuppertal, Germany
 
 #### 2019
+
+* Towards Topological Hochschild homology of the second truncated Brown-Peterson spectrum. AMS Sectional, University of Hawaii at Manoa
 
 * Transchromatic behavior in algebriac K-theory and future directions. Topology Seminar, Freie Universität Berlin, Germany
 
@@ -70,15 +98,19 @@
 
 * Iterated algebraic K-theory of the integers and higher Lichtenbaum-Quillen conjectures. Electronic Computational Homotopy Theory Seminar
 
-#### 2017
+#### 2018
 
-* The Segal Conjecture for topological Hochschild homology of Ravenel spectra. Topology Seminar, University of Kentucky
+* Chromatic complexity of topological periodic cyclic homology of y(n). AMS Sectional, Ohio State University
+
+#### 2017
 
 * Evidence for the Greek letter family red-shift conjecture. Midwest Topology Conference, Wayne State University
 
 * Loday construction in functor categories. AMS Sectional, Indiana University 
 
 * Approximating algebraic K-theory of the image of J. Topology Seminar, University of Chicago
+
+* The Segal Conjecture for topological Hochschild homology of Ravenel spectra. Topology Seminar, University of Kentucky
 
 * The Hopf map in classical mechanics. Math Club, University of Kentucky
 
@@ -97,45 +129,3 @@
 #### 2014
 
 * The Topologist's Snowflake and the Rose. Undergraduate Seminar, Kalamazoo College
-
-
-## Invited Conference Talks
-
-#### 2025
-
-* Real syntomic cohomology. Special session on Homotopy Theory. AMS Sectional Meeting. Saint Louis University
-
-* Syntomic cohomology of topological modular forms. Special session on Chromatic Homotopy Theory. AMS Sectional Meeting. University of Denver
-
-* Real syntomic cohomology. International Workshop on Algebraic Topology 2025, Zhejiang University, Hangzhou, China
-
-* Syntomic cohomology of regular ring spectra. Beyond the telescope conjecture. Isaac Newton Institute, Cambridge, UK. [Recording](https://www.newton.ac.uk/seminar/46464/)
-
-#### 2024
-
-* Real syntomic cohomology. Real THH in Venice, Venice, Italy
-
-* Basic examples of Lichtenbaum-Quillen. Arbeitsgemeinschaft: Algebraic K-Theory and the Telescope Conjecture, Oberwolfach, Germany. [Notes](https://ems.press/journals/owr/articles/14298802)
-
-* Syntomic cohomology of ring spectra. Topologie, Oberwolfach, Germany
-
-#### 2023
-
-* Syntomic cohomology of Morava K-theory. Homotopy Theory in Trondheim, Norwegian University of Science and Technology. Trondheim, Norway
-
-#### 2021
-
-* Algebraic K-theory and chromatic homotopy theory. Equivariant techniques in stable homotopy theory, American Institute of Mathematics, San Jose, California
-
-#### 2020
-
-* Equivariant Witt vectors, Real topological Hochschild homology, and norms. Equivariant homotopy theory and p-adic Hodge Theory Conference, Banff International Research Station, Canada 
-
-#### 2019
-
-* Towards Topological Hochschild homology of the second truncated Brown-Peterson spectrum. AMS Sectional, University of Hawaii at Manoa
-
-#### 2018
-
-* Chromatic complexity of topological periodic cyclic homology of y(n). AMS Sectional, Ohio State University
-

@@ -1,7 +1,11 @@
 
 # Research
 
-My work focuses on invariants of ring spectra that shed light on arithmetic and geometry.
+My research interests are in the areas: 
+
+* Chromatic homotopy theory, equivariant homotopy theory and motivic homotopy theory
+
+* Invariants of ring spectra: algebraic K-theory, topological Hochschild homology and syntomic cohomology
 
 ## Published papers
 
@@ -30,6 +34,8 @@ My work focuses on invariants of ring spectra that shed light on arithmetic and 
 
 ## Submitted Papers
 
+* Spoke topological Hochschild homology. Joint with F. Zou. [arXiv](https://arxiv.org/abs/2512.11338)
+
 * Real syntomic cohomology. Joint with Hana Jia Kong and J.D. Quigley. [arXiv](https://arxiv.org/abs/2505.24734)
 
 * Syntomic cohomology of Morava K-theory. Joint with J. Hahn and D. Wilson. [arXiv](https://arxiv.org/abs/2410.07048) 
@@ -39,12 +45,10 @@ My work focuses on invariants of ring spectra that shed light on arithmetic and 
 * Algebraic K-theory of real topological K-theory. Joint with Ch. Ausoni and J. Rognes. [arXiv](https://arxiv.org/abs/2309.11463) 
 
 * Commuting unbounded homotopy limits with Morava K-theory. Joint with A. Salch. [arXiv](https://arxiv.org/abs/2003.03510) 
- 
 
 ## Notes
 
 * Maps of simplicial spectra whose realizations are cofibrations. Joint with A. Salch. [arXiv](https://arxiv.org/abs/1611.06215) 
-
 
 ## Theses
 
